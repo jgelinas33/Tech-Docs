@@ -1,0 +1,18 @@
+CIF API 0.3.0 Release Notes
+---------------------------
+
+Version 0.3.0 of the CIF API is a production release.  Significant changes
+relative to the previous release (0.2.0) include:
+
+ - Type names have been changed.
+   The implementation had adopted the convention of assigning type names ending
+   in suffix '_t', but all such names are reserved by POSIX.  These names
+   were changed by appending a 'p', so that the suffix is now '_tp'.  This
+   does not affect binary compatibility, but it does affect source
+   compatibility.
+ - Parse options were added to enable parsing ancient CIFs that use vertical
+   tabs as inline whitespace and/or form feeds as line terminators.
+ - Added function cif_get_api_version(), which does what its name suggests.
+ - Fixed several minor bugs and portability issues observed in the beta-only
+   release 0.2.0.
+

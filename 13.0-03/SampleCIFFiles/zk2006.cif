@@ -1,0 +1,729 @@
+data_New_Global_Publ_Block
+#==============================================================================
+
+# PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_date_recd_electronic      2011-04-02
+_journal_date_to_coeditor         ?
+_journal_date_from_coeditor       ?
+_journal_date_accepted     ?
+_journal_date_printers_first      ?
+_journal_date_printers_final      ?
+_journal_date_proofs_out          ?
+_journal_date_proofs_in           ?
+_journal_coeditor_name            ?
+_journal_coeditor_code      ZK2006
+_journal_coeditor_notes
+?
+_journal_paper_category      QO
+_journal_techeditor_code      ?
+_iucr_compatibility_tag          ACTA95
+_journal_techeditor_notes  
+;
+;
+_journal_coden_ASTM               ?
+_journal_name_full                ?
+_journal_year                     ?
+_journal_volume                   ?
+_journal_issue                    ?
+_journal_page_first               ?
+_journal_page_last                ?
+_journal_suppl_publ_number        ?
+_journal_suppl_publ_pages         ?
+
+#==============================================================================
+
+
+
+# Added by publCIF - use a unique identifier for each data block
+
+#==============================================================================
+
+
+# SUBMISSION DETAILS
+
+_publ_contact_author_name            
+'Ming-Shu Wu'   # Name of author for correspondence
+_publ_contact_author_address             # Address of author for correspondence
+;
+Department of Chemical engineering Anyang Institute of technology
+Anyang, Henan 455000 Peoples' Republic of China
+College of Chemistry & Chemical Engineering, Hainan Normal University,
+Haikou571158, Peoples' Republic of China
+;
+
+_publ_contact_author_email           'wumingshu@126.com'
+_publ_contact_author_fax             '+86-372-2909128'
+_publ_contact_author_phone           '+86-372-2909839'
+
+_publ_contact_letter
+;
+Please consider this CIF for publication. I certify that this contibution is the
+original work of those listed as authors; that it has not been published
+before (in any language or medium) and is not being considered for publication
+elsewhere; that all authors concur with and are aware of the submission; that
+all workers involved in the study are listed as authors or given proper credit
+in the acknowledgements; that I have obtained permission for and acknowledged
+the source of any excerpts from other copyright works; and that to the best of
+my knowledge the paper contains no statements which are libellous, unlawful or
+in any way actionable. All coauthors have made significant scientific
+contributions to the work reported, including the ideas and their execution,
+and share responsibility and accountability for the results.
+Ming-Shu wu
+;
+   
+_publ_requested_journal              'Acta Cryst. E'
+_publ_requested_category             QO   
+
+#==============================================================================
+# TITLE AND AUTHOR LIST
+
+_publ_section_title
+;
+6-amino-4-(3-nitrophenyl)-5-cyano-3-methyl
+-1-phenyl-1,4-dihydropyrano[2,3-c]pyrazole
+;
+
+
+loop_
+_publ_author_name
+_publ_author_address
+_publ_author_footnote
+_publ_author_email
+'Wu, Ming-Shu'
+;
+Department of Chemical engineering Anyang Institute of Technology
+Anyang, Henan 455000
+People's Republic of China
+and College of Chemistry & Chemical Engineering
+Hainan Normal University, Haikou 571158
+People's Republic of China
+;
+.
+.
+'Kong, Du-lin'
+;
+College of Chemistry & Chemical Engineering, Hainan Normal University, Haikou
+571158, People's Republic of China
+;
+.
+.
+'Zhang, Xiang-Zhu'
+;
+Department of Chemical Engineering
+Anyang Institute of Technology 
+Anyang, Henan 455000
+People's Republic of China
+;
+.
+.
+
+
+
+#==============================================================================
+ 
+_publ_section_abstract
+;
+The title compound, C~20~ H~15~ N~5~ O~3~, was synthesized by the one-pot
+reaction of an efficient eco-friendly four-component reaction protocol in
+aqueous medium.The pyrano[2,3-c]pyrazole ring essentially planar with a
+maximum deviation of 0.026 (0)\%A. 3-Nitrophenyl and phenyl rings make a
+dihedral angle of 81.11 (5)\% and 13.36(1)\%,respectively,with the mean plane
+of the pyrano[2,3-c]pyrazole ring. The crystal structure is stabilized by
+Infinite chains via N-H...N hydrogen bonds propagate along c-axis, infinite
+chains via N-H...O hydrogen bonds propagate along a-axis and along a-axis
+there exists N-O...N-C dipole-dipole interactions with O...N distance of 3.061
+\%A which shorter than that of N-H...O (3.196 \%A) hydrogen bond.
+;
+
+_publ_section_related_literature 
+;
+For antimicrobial,insecticidal,and anti-inflammatory activities of
+pyranopyrazole derivatives, see: El-Tamany <i>et al.</i> (1999); Ismail <i>et
+al.</i> (2003); Zaki <i>et al.</i> (2006). For for Chk1 kinase inhibitor, see:
+Foloppe <i>et al.</i> (2006).
+;
+
+_publ_section_comment
+;
+Multi-component reaction (MCR) protocols in water will be one of the 
+most suitable strategies,which will meet the requirements of green chemistry 
+as well as for developing libraries of medicinal scaffolds (Chanda et al.,
+2009; Tejedor et al., 2007). pyranopyrazoles are an important class of
+heterocyclic compounds. They found applications as pharmaceutical ingredients
+and biodegradable agrochemicals(Junek et al., 1973; Wamhoff et al., 1993; 
+Sharanin et al., 1983; Vasuki et al., 2008). In order to further study the
+structure-activity relationship of pyranopyrazoles, we performed the synthesis
+of the title compound through an efficient and eco-friendly four-component 
+one-pot reaction protocol in aqueous medium in the presence of catalytic
+amount dodecyltrimethylammonium bromide and present the crystal structure 
+of the title compound in the hope that its structural features will appear
+interesting and helpful its practical applications.
+In the title molecule (Fig. 1), The pyranopyrazole ring essentially planar
+with a maximum deviation of 0.026 (0) \%A from the least-squares plane 
+defined by the nine constituent atoms. The dihedral angles formed by the 
+mean plane of the pyranopyrazole fragment with the 3-nitrophenyl ring 
+and phenyl ring is 81.11 (5)\% and 13.36(1)\% , respectively. In the crystal 
+the molecular packing (Fig. 2) is stabilized by Infinite chains via N-H...N
+hydrogen bonds propagate along c-axis, infinite chains via N-H...O hydrogen
+bonds propagate along a-axis and along a-axis there exists N-O...N-C 
+dipole-dipole interactions with O...N distance of 3.061 \%A which shorter 
+than that of N-H...O (3.196 \%A) hydrogen bond.
+;
+
+_publ_section_acknowledgements   
+;
+?
+;
+
+
+
+_publ_section_references
+;
+El-Tamany, E. S., El-Shahed, F. A. & Mohamed, B. H. (1999). J. Serb. Chem.
+Soc.64,9-8.
+
+Ismail, Z. H., Aly, G. M., El-Degwi, M. S., Heiba, H. I. & Ghorab, M. M.
+(2003). Egyp. J.Biotechnol.13, 73-82.
+
+Zaki, M. E. A., Soliman, H. A., Hiekal, O. A. & Rashad, A. E. Z. (2006).
+Naturforsch.C.61, 1-5.
+
+Foloppe, N., Fisher, L. M., Howes, R., Potter, A., Robertson Alan, G. S. &
+Surgenor, A. E. (2006). Bioorg. Med. Chem. 14, 4792-4802.
+
+Chanda, A. & Fokin, V. V. (2009). Chem. Rev. 109, 725-748.
+
+Junek, H. & Aigner, H. (1973). Chem. Ber. 106, 914-921.
+
+Sharanin, Y. A., Sharanina, L. G. & Puzanova, V. V. (1983). Zh. Org. Khim.
+19,2609-2615.
+
+Sheldrick, G. M. (2008). <i>Acta Cryst.</i> A<b>64</b>, 112--122.
+
+Tejedor, D. & GarciaTellado, F. (2007). Chem. Soc. Rev. 36, 484-491.
+
+Vasuki, G. & Kumaravel, K. (2008). Tetrahedron Letters. 49, 5636-5638.
+
+Wamhoff, H., Kroth, E. & Strauch, K. (1993). Synthesis. 11, 1129-1132.
+;
+
+_publ_section_figure_captions
+;
+Fig.1. The molecular structure of the title compound, with atom labels and 50%
+probability displacement ellipsoids for non-H atoms.
+
+Fig.2. Crystal packing of the title compound, viewed along the a axis
+Intermolecular hydrogen bonds are shown as dashed lines.
+;
+
+_publ_section_exptl_prep
+;
+To a stirred aqueous mixture of phenylhydrazine ( 0.216g, 2 mmol) and ethyl
+acetoacetate ( 0.260g, 2 mmol), 3-nitrobenzaldehyde ( 0.302g, 2 mmol), 
+malonitrile ( 0.132g, 2 mmol) and piperidine (5 mol %) were added successively 
+at 363 K in the presence of catalytic amount dodecyltrimethylammonium bromide 
+with vigorous stirring for 10 min. The precipitated solid was filtered, washed 
+with water and then with a mixture of ethyl acetate/hexane (20:80). The product
+obtained was purified by flash chromatograghy. Single crystals of the title 
+compound suitable for single-crystal X-ray analysis were obtained by 
+recrystallization from ethanol.
+;
+
+_publ_section_exptl_refinement
+;
+H atoms bonded to N atoms were located in a difference map and refined
+with distance restraints of N---H = 0.860 \%A, and with<i>U</i>~iso~(H)
+=1.2<i>U</i>~eq~(N). The remaining H atoms were positioned geometrically 
+and refined using a riding model with C-H = 0.93-0.98 \%A , and with 
+<i>U</i>~iso~(H)= 1.2<i>U</i>~eq~(C). 
+;
+ 
+#==============================================================================
+data_I 
+
+_audit_update_record
+;
+2010-07-30 # Formatted by publCIF
+
+2010-07-30 # Formatted by IUCr publCIF system
+;
+  
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic       
+;
+6-amino-4-(3-nitrophenyl)-5-cyano-3-methyl-1-
+phenyl-1,4-dihydropyrano[2,3-c]pyrazole
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          'C20 H15 N5 O3' 
+_chemical_formula_sum             'C20 H15 N5 O3' 
+_chemical_formula_weight          373.37 
+  
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'C'  'C'   0.0033   0.0016 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'H'  'H'   0.0000   0.0000 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'N'  'N'   0.0061   0.0033 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'O'  'O'   0.0106   0.0060 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+  
+_symmetry_cell_setting            monoclinic 
+_symmetry_space_group_name_H-M    P2(1)/c 
+  
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-x, y+1/2, -z+1/2' 
+ '-x, -y, -z' 
+ 'x, -y-1/2, z-1/2' 
+  
+_cell_length_a                    9.5089(8) 
+_cell_length_b                    13.9137(11) 
+_cell_length_c                    13.3747(12) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  96.2630(10) 
+_cell_angle_gamma                 90.00 
+_cell_volume                      1759.0(3) 
+_cell_formula_units_Z             4 
+_cell_measurement_temperature     298(2) 
+_cell_measurement_reflns_used     2416 
+_cell_measurement_theta_min       2.605 
+_cell_measurement_theta_max       23.498 
+  
+_exptl_crystal_description        plate 
+_exptl_crystal_colour             colourless 
+_exptl_crystal_size_max           0.50 
+_exptl_crystal_size_mid           0.48 
+_exptl_crystal_size_min           0.47 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     1.410 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              776 
+_exptl_absorpt_coefficient_mu     0.099 
+_exptl_absorpt_correction_type    multi-scan 
+_exptl_absorpt_correction_T_min   0.9522 
+_exptl_absorpt_correction_T_max   0.9550 
+_exptl_absorpt_process_details    sadabs 
+  
+_exptl_special_details 
+? 
+  
+_diffrn_ambient_temperature       298(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   'CCD area detector' 
+_diffrn_measurement_method        'phi and omega scans' 
+_diffrn_detector_area_resol_mean  ? 
+_diffrn_standards_number          ? 
+_diffrn_standards_interval_count  ? 
+_diffrn_standards_interval_time   ? 
+_diffrn_standards_decay_%         ? 
+_diffrn_reflns_number             8659 
+_diffrn_reflns_av_R_equivalents   0.0372 
+_diffrn_reflns_av_sigmaI/netI     0.0409 
+_diffrn_reflns_limit_h_min        -11 
+_diffrn_reflns_limit_h_max        11 
+_diffrn_reflns_limit_k_min        -16 
+_diffrn_reflns_limit_k_max        16 
+_diffrn_reflns_limit_l_min        -9 
+_diffrn_reflns_limit_l_max        15 
+_diffrn_reflns_theta_min          2.61 
+_diffrn_reflns_theta_max          25.02 
+_reflns_number_total              3087 
+_reflns_number_gt                 1961 
+_reflns_threshold_expression      >2sigma(I) 
+  
+_computing_data_collection        'Bruker SMART' 
+_computing_cell_refinement        'Bruker SMART' 
+_computing_data_reduction         'Bruker SAINT' 
+_computing_structure_solution     'SHELXS-97 (Sheldrick, 1990)' 
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     'Bruker SHELXTL' 
+_computing_publication_material   'Bruker SHELXTL' 
+  
+_refine_special_details 
+; 
+ Refinement of F^2^ against ALL reflections.  The weighted R-factor wR and 
+ goodness of fit S are based on F^2^, conventional R-factors R are based 
+ on F, with F set to zero for negative F^2^. The threshold expression of 
+ F^2^ > 2sigma(F^2^) is used only for calculating R-factors(gt) etc. and is 
+ not relevant to the choice of reflections for refinement.  R-factors based 
+ on F^2^ are statistically about twice as large as those based on F, and R- 
+ factors based on ALL data will be even larger. 
+; 
+  
+_refine_ls_structure_factor_coef  Fsqd 
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc 
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0397P)^2^+0.6842P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    geom 
+_refine_ls_hydrogen_treatment     constr 
+_refine_ls_extinction_method      SHELXL 
+_refine_ls_extinction_coef        0.0100(13) 
+_refine_ls_extinction_expression 
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^' 
+_refine_ls_number_reflns          3087 
+_refine_ls_number_parameters      255 
+_refine_ls_number_restraints      0 
+_refine_ls_R_factor_all           0.0812 
+_refine_ls_R_factor_gt            0.0420 
+_refine_ls_wR_factor_ref          0.1211 
+_refine_ls_wR_factor_gt           0.0916 
+_refine_ls_goodness_of_fit_ref    1.072 
+_refine_ls_restrained_S_all       1.072 
+_refine_ls_shift/su_max           0.000 
+_refine_ls_shift/su_mean          0.000 
+
+
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+N1 N 0.71933(19) 0.52908(13) 0.63123(13) 0.0440(5) Uani 1 1 d . . . 
+N2 N 0.8060(2) 0.46605(13) 0.58687(15) 0.0507(5) Uani 1 1 d . . . 
+N3 N 0.3851(2) 0.75499(15) 0.52319(15) 0.0565(6) Uani 1 1 d . . . 
+H3A H 0.3339 0.7879 0.4785 0.068 Uiso 1 1 calc R . . 
+H3B H 0.3776 0.7641 0.5860 0.068 Uiso 1 1 calc R . . 
+N4 N 0.3550(2) 0.74422(18) 0.24916(17) 0.0741(7) Uani 1 1 d . . . 
+N5 N 1.0378(2) 0.80263(17) 0.3702(2) 0.0674(7) Uani 1 1 d . . . 
+O1 O 0.54812(16) 0.64832(11) 0.57873(10) 0.0471(4) Uani 1 1 d . . . 
+O2 O 1.0555(2) 0.79273(15) 0.46155(19) 0.0900(7) Uani 1 1 d . . . 
+O3 O 1.1104(2) 0.85581(18) 0.3254(2) 0.1121(9) Uani 1 1 d . . . 
+C1 C 0.6433(2) 0.57976(15) 0.55812(16) 0.0404(5) Uani 1 1 d . . . 
+C2 C 0.6769(2) 0.55266(16) 0.46700(16) 0.0418(5) Uani 1 1 d . . . 
+C3 C 0.7801(2) 0.48064(16) 0.48860(18) 0.0466(6) Uani 1 1 d . . . 
+C4 C 0.8571(3) 0.42635(18) 0.4160(2) 0.0625(7) Uani 1 1 d . . . 
+H4A H 0.9190 0.4691 0.3853 0.094 Uiso 1 1 calc R . . 
+H4B H 0.7903 0.3987 0.3651 0.094 Uiso 1 1 calc R . . 
+H4C H 0.9118 0.3761 0.4508 0.094 Uiso 1 1 calc R . . 
+C5 C 0.4761(2) 0.68993(16) 0.49508(17) 0.0429(6) Uani 1 1 d . . . 
+C6 C 0.5006(2) 0.66700(16) 0.40010(16) 0.0429(6) Uani 1 1 d . . . 
+C7 C 0.6133(2) 0.59767(16) 0.37153(16) 0.0434(6) Uani 1 1 d . . . 
+H7 H 0.5673 0.5474 0.3283 0.052 Uiso 1 1 calc R . . 
+C8 C 0.7221(2) 0.64836(16) 0.31459(16) 0.0412(5) Uani 1 1 d . . . 
+C9 C 0.8293(2) 0.70132(16) 0.36589(17) 0.0445(6) Uani 1 1 d . . . 
+H9 H 0.8368 0.7053 0.4357 0.053 Uiso 1 1 calc R . . 
+C10 C 0.9247(2) 0.74805(16) 0.31350(19) 0.0482(6) Uani 1 1 d . . . 
+C11 C 0.9187(3) 0.74412(19) 0.2108(2) 0.0650(7) Uani 1 1 d . . . 
+H11 H 0.9848 0.7762 0.1767 0.078 Uiso 1 1 calc R . . 
+C12 C 0.8126(3) 0.6916(2) 0.1602(2) 0.0722(8) Uani 1 1 d . . . 
+H12 H 0.8063 0.6875 0.0904 0.087 Uiso 1 1 calc R . . 
+C13 C 0.7148(3) 0.64464(19) 0.21116(17) 0.0567(7) Uani 1 1 d . . . 
+H13 H 0.6426 0.6098 0.1752 0.068 Uiso 1 1 calc R . . 
+C14 C 0.4173(3) 0.71120(18) 0.31880(18) 0.0510(6) Uani 1 1 d . . . 
+C15 C 0.7217(3) 0.52889(16) 0.73764(17) 0.0466(6) Uani 1 1 d . . . 
+C16 C 0.6181(3) 0.57274(18) 0.78491(18) 0.0575(7) Uani 1 1 d . . . 
+H16 H 0.5454 0.6060 0.7476 0.069 Uiso 1 1 calc R . . 
+C17 C 0.6223(4) 0.5672(2) 0.8885(2) 0.0740(9) Uani 1 1 d . . . 
+H17 H 0.5521 0.5967 0.9208 0.089 Uiso 1 1 calc R . . 
+C18 C 0.7290(4) 0.5184(2) 0.9436(2) 0.0851(10) Uani 1 1 d . . . 
+H18 H 0.7303 0.5137 1.0131 0.102 Uiso 1 1 calc R . . 
+C19 C 0.8331(4) 0.4768(2) 0.8965(2) 0.0856(10) Uani 1 1 d . . . 
+H19 H 0.9066 0.4449 0.9343 0.103 Uiso 1 1 calc R . . 
+C20 C 0.8312(3) 0.4813(2) 0.7935(2) 0.0684(8) Uani 1 1 d . . . 
+H20 H 0.9028 0.4527 0.7619 0.082 Uiso 1 1 calc R . . 
+  
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+N1 0.0465(11) 0.0447(11) 0.0404(11) 0.0016(9) 0.0034(9) 0.0003(9) 
+N2 0.0507(12) 0.0471(12) 0.0553(13) 0.0039(10) 0.0105(10) 0.0015(10) 
+N3 0.0560(12) 0.0692(14) 0.0443(12) 0.0013(10) 0.0054(10) 0.0159(11) 
+N4 0.0683(15) 0.1012(19) 0.0511(14) 0.0171(14) -0.0008(12) 0.0056(14) 
+N5 0.0482(14) 0.0591(14) 0.096(2) -0.0085(15) 0.0149(14) -0.0073(11) 
+O1 0.0511(9) 0.0555(10) 0.0340(8) -0.0017(7) 0.0018(7) 0.0053(8) 
+O2 0.0833(15) 0.0804(14) 0.0994(18) -0.0020(14) -0.0219(14) -0.0252(12) 
+O3 0.0880(16) 0.1111(18) 0.147(2) -0.0233(16) 0.0570(16) -0.0534(15) 
+C1 0.0384(12) 0.0439(13) 0.0394(13) -0.0012(11) 0.0059(10) -0.0043(11) 
+C2 0.0441(13) 0.0418(12) 0.0403(13) 0.0008(10) 0.0079(11) -0.0090(10) 
+C3 0.0472(14) 0.0436(13) 0.0508(15) 0.0025(11) 0.0140(12) -0.0072(11) 
+C4 0.0662(17) 0.0579(16) 0.0672(17) -0.0015(14) 0.0251(14) 0.0054(13) 
+C5 0.0384(12) 0.0509(14) 0.0385(13) 0.0035(11) 0.0008(10) -0.0049(11) 
+C6 0.0380(12) 0.0541(14) 0.0366(13) 0.0033(11) 0.0035(10) -0.0080(11) 
+C7 0.0459(13) 0.0486(13) 0.0355(13) -0.0063(10) 0.0043(11) -0.0096(11) 
+C8 0.0429(13) 0.0458(13) 0.0351(12) -0.0018(10) 0.0056(10) 0.0002(10) 
+C9 0.0458(13) 0.0491(13) 0.0390(13) -0.0019(11) 0.0061(11) 0.0013(11) 
+C10 0.0412(13) 0.0444(13) 0.0606(16) -0.0014(12) 0.0126(12) -0.0014(11) 
+C11 0.0699(18) 0.0646(17) 0.0664(18) 0.0064(15) 0.0342(15) -0.0081(15) 
+C12 0.089(2) 0.090(2) 0.0416(15) 0.0038(15) 0.0238(15) -0.0100(18) 
+C13 0.0625(16) 0.0697(17) 0.0384(14) -0.0054(13) 0.0074(12) -0.0096(14) 
+C14 0.0469(14) 0.0646(16) 0.0416(14) 0.0037(13) 0.0058(12) -0.0040(12) 
+C15 0.0578(15) 0.0422(13) 0.0382(13) 0.0036(11) -0.0012(12) -0.0122(12) 
+C16 0.0750(18) 0.0536(15) 0.0437(15) -0.0018(12) 0.0049(13) -0.0003(13) 
+C17 0.109(2) 0.0685(19) 0.0459(16) -0.0063(14) 0.0144(17) -0.0019(17) 
+C18 0.142(3) 0.071(2) 0.0397(16) 0.0044(15) -0.005(2) -0.008(2) 
+C19 0.113(3) 0.081(2) 0.056(2) 0.0136(17) -0.0179(19) 0.008(2) 
+C20 0.0764(19) 0.0700(18) 0.0561(17) 0.0104(14) -0.0050(15) 0.0042(15) 
+  
+_geom_special_details 
+; 
+ All esds (except the esd in the dihedral angle between two l.s. planes) 
+ are estimated using the full covariance matrix.  The cell esds are taken 
+ into account individually in the estimation of esds in distances, angles 
+ and torsion angles; correlations between esds in cell parameters are only 
+ used when they are defined by crystal symmetry.  An approximate (isotropic) 
+ treatment of cell esds is used for estimating esds involving l.s. planes. 
+; 
+  
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+N1 C1 1.350(3) . ? 
+N1 N2 1.381(2) . ? 
+N1 C15 1.421(3) . ? 
+N2 C3 1.326(3) . ? 
+N3 C5 1.334(3) . ? 
+N3 H3A 0.8600 . ? 
+N3 H3B 0.8600 . ? 
+N4 C14 1.144(3) . ? 
+N5 O3 1.214(3) . ? 
+N5 O2 1.222(3) . ? 
+N5 C10 1.460(3) . ? 
+O1 C1 1.364(3) . ? 
+O1 C5 1.374(2) . ? 
+C1 C2 1.347(3) . ? 
+C2 C3 1.411(3) . ? 
+C2 C7 1.490(3) . ? 
+C3 C4 1.484(3) . ? 
+C4 H4A 0.9600 . ? 
+C4 H4B 0.9600 . ? 
+C4 H4C 0.9600 . ? 
+C5 C6 1.354(3) . ? 
+C6 C14 1.414(3) . ? 
+C6 C7 1.522(3) . ? 
+C7 C8 1.523(3) . ? 
+C7 H7 0.9800 . ? 
+C8 C9 1.378(3) . ? 
+C8 C13 1.379(3) . ? 
+C9 C10 1.369(3) . ? 
+C9 H9 0.9300 . ? 
+C10 C11 1.370(3) . ? 
+C11 C12 1.364(4) . ? 
+C11 H11 0.9300 . ? 
+C12 C13 1.377(4) . ? 
+C12 H12 0.9300 . ? 
+C13 H13 0.9300 . ? 
+C15 C16 1.371(3) . ? 
+C15 C20 1.382(3) . ? 
+C16 C17 1.384(3) . ? 
+C16 H16 0.9300 . ? 
+C17 C18 1.367(4) . ? 
+C17 H17 0.9300 . ? 
+C18 C19 1.360(4) . ? 
+C18 H18 0.9300 . ? 
+C19 C20 1.377(4) . ? 
+C19 H19 0.9300 . ? 
+C20 H20 0.9300 . ? 
+  
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+C1 N1 N2 108.55(17) . . ? 
+C1 N1 C15 132.5(2) . . ? 
+N2 N1 C15 118.94(18) . . ? 
+C3 N2 N1 105.87(18) . . ? 
+C5 N3 H3A 120.0 . . ? 
+C5 N3 H3B 120.0 . . ? 
+H3A N3 H3B 120.0 . . ? 
+O3 N5 O2 122.6(3) . . ? 
+O3 N5 C10 119.1(3) . . ? 
+O2 N5 C10 118.3(2) . . ? 
+C1 O1 C5 114.40(17) . . ? 
+C2 C1 N1 110.4(2) . . ? 
+C2 C1 O1 127.4(2) . . ? 
+N1 C1 O1 122.27(19) . . ? 
+C1 C2 C3 104.0(2) . . ? 
+C1 C2 C7 123.0(2) . . ? 
+C3 C2 C7 133.0(2) . . ? 
+N2 C3 C2 111.2(2) . . ? 
+N2 C3 C4 121.2(2) . . ? 
+C2 C3 C4 127.5(2) . . ? 
+C3 C4 H4A 109.5 . . ? 
+C3 C4 H4B 109.5 . . ? 
+H4A C4 H4B 109.5 . . ? 
+C3 C4 H4C 109.5 . . ? 
+H4A C4 H4C 109.5 . . ? 
+H4B C4 H4C 109.5 . . ? 
+N3 C5 C6 127.4(2) . . ? 
+N3 C5 O1 109.72(19) . . ? 
+C6 C5 O1 122.9(2) . . ? 
+C5 C6 C14 118.6(2) . . ? 
+C5 C6 C7 125.7(2) . . ? 
+C14 C6 C7 115.70(19) . . ? 
+C2 C7 C6 106.39(18) . . ? 
+C2 C7 C8 112.92(18) . . ? 
+C6 C7 C8 111.56(18) . . ? 
+C2 C7 H7 108.6 . . ? 
+C6 C7 H7 108.6 . . ? 
+C8 C7 H7 108.6 . . ? 
+C9 C8 C13 118.2(2) . . ? 
+C9 C8 C7 120.29(19) . . ? 
+C13 C8 C7 121.5(2) . . ? 
+C10 C9 C8 119.6(2) . . ? 
+C10 C9 H9 120.2 . . ? 
+C8 C9 H9 120.2 . . ? 
+C9 C10 C11 122.5(2) . . ? 
+C9 C10 N5 118.2(2) . . ? 
+C11 C10 N5 119.3(2) . . ? 
+C12 C11 C10 117.8(2) . . ? 
+C12 C11 H11 121.1 . . ? 
+C10 C11 H11 121.1 . . ? 
+C11 C12 C13 120.8(2) . . ? 
+C11 C12 H12 119.6 . . ? 
+C13 C12 H12 119.6 . . ? 
+C12 C13 C8 121.1(2) . . ? 
+C12 C13 H13 119.5 . . ? 
+C8 C13 H13 119.5 . . ? 
+N4 C14 C6 175.8(3) . . ? 
+C16 C15 C20 120.0(2) . . ? 
+C16 C15 N1 121.8(2) . . ? 
+C20 C15 N1 118.1(2) . . ? 
+C15 C16 C17 119.5(3) . . ? 
+C15 C16 H16 120.2 . . ? 
+C17 C16 H16 120.2 . . ? 
+C18 C17 C16 120.4(3) . . ? 
+C18 C17 H17 119.8 . . ? 
+C16 C17 H17 119.8 . . ? 
+C19 C18 C17 119.7(3) . . ? 
+C19 C18 H18 120.1 . . ? 
+C17 C18 H18 120.1 . . ? 
+C18 C19 C20 120.9(3) . . ? 
+C18 C19 H19 119.5 . . ? 
+C20 C19 H19 119.5 . . ? 
+C19 C20 C15 119.3(3) . . ? 
+C19 C20 H20 120.3 . . ? 
+C15 C20 H20 120.3 . . ? 
+  
+loop_ 
+ _geom_torsion_atom_site_label_1 
+ _geom_torsion_atom_site_label_2 
+ _geom_torsion_atom_site_label_3 
+ _geom_torsion_atom_site_label_4 
+ _geom_torsion 
+ _geom_torsion_site_symmetry_1 
+ _geom_torsion_site_symmetry_2 
+ _geom_torsion_site_symmetry_3 
+ _geom_torsion_site_symmetry_4 
+ _geom_torsion_publ_flag 
+C1 N1 N2 C3 0.1(2) . . . . ? 
+C15 N1 N2 C3 178.88(19) . . . . ? 
+N2 N1 C1 C2 -0.1(2) . . . . ? 
+C15 N1 C1 C2 -178.6(2) . . . . ? 
+N2 N1 C1 O1 -179.75(18) . . . . ? 
+C15 N1 C1 O1 1.7(3) . . . . ? 
+C5 O1 C1 C2 3.0(3) . . . . ? 
+C5 O1 C1 N1 -177.44(18) . . . . ? 
+N1 C1 C2 C3 0.1(2) . . . . ? 
+O1 C1 C2 C3 179.7(2) . . . . ? 
+N1 C1 C2 C7 -178.24(19) . . . . ? 
+O1 C1 C2 C7 1.4(3) . . . . ? 
+N1 N2 C3 C2 -0.1(2) . . . . ? 
+N1 N2 C3 C4 178.7(2) . . . . ? 
+C1 C2 C3 N2 0.0(3) . . . . ? 
+C7 C2 C3 N2 178.1(2) . . . . ? 
+C1 C2 C3 C4 -178.7(2) . . . . ? 
+C7 C2 C3 C4 -0.7(4) . . . . ? 
+C1 O1 C5 N3 179.41(18) . . . . ? 
+C1 O1 C5 C6 -2.0(3) . . . . ? 
+N3 C5 C6 C14 -4.0(4) . . . . ? 
+O1 C5 C6 C14 177.69(19) . . . . ? 
+N3 C5 C6 C7 175.1(2) . . . . ? 
+O1 C5 C6 C7 -3.3(3) . . . . ? 
+C1 C2 C7 C6 -5.6(3) . . . . ? 
+C3 C2 C7 C6 176.6(2) . . . . ? 
+C1 C2 C7 C8 117.1(2) . . . . ? 
+C3 C2 C7 C8 -60.7(3) . . . . ? 
+C5 C6 C7 C2 6.7(3) . . . . ? 
+C14 C6 C7 C2 -174.27(19) . . . . ? 
+C5 C6 C7 C8 -116.9(2) . . . . ? 
+C14 C6 C7 C8 62.2(2) . . . . ? 
+C2 C7 C8 C9 -40.3(3) . . . . ? 
+C6 C7 C8 C9 79.5(2) . . . . ? 
+C2 C7 C8 C13 141.2(2) . . . . ? 
+C6 C7 C8 C13 -99.0(2) . . . . ? 
+C13 C8 C9 C10 -0.2(3) . . . . ? 
+C7 C8 C9 C10 -178.7(2) . . . . ? 
+C8 C9 C10 C11 -0.3(4) . . . . ? 
+C8 C9 C10 N5 -179.3(2) . . . . ? 
+O3 N5 C10 C9 -169.2(2) . . . . ? 
+O2 N5 C10 C9 10.8(3) . . . . ? 
+O3 N5 C10 C11 11.8(4) . . . . ? 
+O2 N5 C10 C11 -168.2(3) . . . . ? 
+C9 C10 C11 C12 0.3(4) . . . . ? 
+N5 C10 C11 C12 179.3(2) . . . . ? 
+C10 C11 C12 C13 0.3(4) . . . . ? 
+C11 C12 C13 C8 -0.7(4) . . . . ? 
+C9 C8 C13 C12 0.7(4) . . . . ? 
+C7 C8 C13 C12 179.2(2) . . . . ? 
+C5 C6 C14 N4 175(4) . . . . ? 
+C7 C6 C14 N4 -5(4) . . . . ? 
+C1 N1 C15 C16 13.3(4) . . . . ? 
+N2 N1 C15 C16 -165.1(2) . . . . ? 
+C1 N1 C15 C20 -167.8(2) . . . . ? 
+N2 N1 C15 C20 13.8(3) . . . . ? 
+C20 C15 C16 C17 -1.4(4) . . . . ? 
+N1 C15 C16 C17 177.4(2) . . . . ? 
+C15 C16 C17 C18 0.1(4) . . . . ? 
+C16 C17 C18 C19 1.3(5) . . . . ? 
+C17 C18 C19 C20 -1.4(5) . . . . ? 
+C18 C19 C20 C15 0.0(5) . . . . ? 
+C16 C15 C20 C19 1.4(4) . . . . ? 
+N1 C15 C20 C19 -177.5(2) . . . . ? 
+  
+loop_ 
+ _geom_hbond_atom_site_label_D 
+ _geom_hbond_atom_site_label_H 
+ _geom_hbond_atom_site_label_A 
+ _geom_hbond_distance_DH 
+ _geom_hbond_distance_HA 
+ _geom_hbond_distance_DA 
+ _geom_hbond_angle_DHA 
+ _geom_hbond_site_symmetry_A 
+N3 H3A O2  0.86 2.63 3.196(3) 124.1 1_455 
+N3 H3B N4  0.86 2.22 3.067(3) 168.6 4_576 
+C19 H19 O2  0.93 2.54 3.294(4) 138.6 2_746 
+
+_diffrn_measured_fraction_theta_max    0.996 
+_diffrn_reflns_theta_full              25.02 
+_diffrn_measured_fraction_theta_full   0.996 
+_refine_diff_density_max               0.192 
+_refine_diff_density_min              -0.173 
+_refine_diff_density_rms               0.036
+

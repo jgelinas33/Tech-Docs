@@ -1,0 +1,11 @@
+Journal\Framework\AuthorObjects\AuthorInvitationStats
+	usp_InsertAuthorInvitationStats
+	usp_UpdateAuthorInvitationStats
+	usp_SelectAuthorInvitationStats
+	usp_SelectAuthorInvitationStatsByPeopleID
+	usp_SelectAuthorInvitationStatsByPeopleIDs
+	
+Journal\Framework\AuthorObjects\InvitedAuthor
+	usp_InsertInvitedAuthor
+	usp_UpdateInvitedAuthor
+	

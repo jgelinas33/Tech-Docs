@@ -1,0 +1,2 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+0000-0001-8921-2787;Note 3 for Author ORCIDTest;ORCID;AuthorTest;orcidauthortesting.orcid.org;false

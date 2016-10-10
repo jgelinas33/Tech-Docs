@@ -1,0 +1,575 @@
+data_global
+
+_audit_update_record
+;
+2007-08-10 # Formatted by IUCr publCIF
+
+2008-05-21 # Formatted by IUCr publCIF system
+;
+#============================================================================
+_audit_creation_method               'form.cif (version 2.0)'
+
+# PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_data_validation_number      ?
+
+_journal_date_recd_electronic     2007-08-08
+_journal_date_to_coeditor            ?
+_journal_date_from_coeditor       2007-08-10
+_journal_date_accepted            2007-08-10
+_journal_date_printers_first      2007-08-10
+_journal_date_printers_final         ?
+_journal_date_proofs_out          2007-08-13
+_journal_date_proofs_in              ?
+_journal_coeditor_name               ?
+_journal_coeditor_code            GG2036
+_journal_coeditor_notes
+; 
+;
+_journal_techeditor_code          E073977
+_iucr_compatibility_tag          ACTA95
+_journal_techeditor_notes
+;
+
+;
+_journal_coden_ASTM               ACSEBH
+_journal_name_full                'Acta Crystallographica, Section E'
+_journal_year                     2007
+_journal_volume                   63
+_journal_issue                    09
+_journal_page_first               m2360
+_journal_page_last                m2360
+_journal_paper_category          QM
+_journal_suppl_publ_number           ?
+_journal_suppl_publ_pages            ?
+
+#==============================================================================
+# SUBMISSION DETAILS
+
+_publ_contact_author_name           'Prof. Li, Zhongfang'
+_publ_contact_author_address          
+;
+      College of Chemical Engineering
+      Shandong University of Technology
+      Zibo, 255049
+      P. R. China        
+;
+_publ_contact_author_email        zhfli_sdut@yahoo.com.cn
+_publ_contact_author_fax          '0086-533-8230684'
+_publ_contact_author_phone        '0086-533-8428220'
+_publ_requested_journal           'Acta Crystallographica E'
+_publ_requested_category          'EM'
+_publ_requested_coeditor_name     ?
+_publ_contact_letter                   
+;
+     Date: 08 Aug. 2005
+
+     The Managing Editor
+     International Union of Crystallography
+     5 Abbey Square
+     Chester  CH1 2HU
+     England
+
+Dear editor, 
+We are willing to submit this paper to the journal of Acta E. If you have any 
+queries, please contact us.
+Best Wishes!
+Zhongfang Li
+;
+#============================================================================
+# TITLE AND AUTHOR LIST
+
+_publ_section_title
+;
+Poly[diaquadi-\m~3~-malonato-\m-pyrazine-dimanganese(II)]
+;
+
+loop_
+ _publ_author_name
+ _publ_author_address
+      'Li, Zhong-Fang'
+;     College of Chemical Engineering
+      Shandong University of Technology
+      Zibo 255049
+      People's Republic of China
+
+;
+      'Wang, Su-Wen'
+;     College of Chemical Engineering
+      Shandong University of Technology
+      Zibo 255049
+      People's Republic of China
+
+;
+      'Zhang, Qian'
+;     College of Chemical Engineering
+      Shandong University of Technology
+      Zibo 255049
+      People's Republic of China
+;
+
+      'Yu, Xian-Jin'
+;     College of Chemical Engineering
+      Shandong University of Technology
+      Zibo 255049
+      People's Republic of China
+      
+;
+
+#============================================================================
+# TEXT
+
+_publ_section_abstract
+;
+The title compound, [Mn~2~(C~3~H~2~O~4~)~2~(C~4~H~4~N~2~)(H~2~O)~2~]<i>~n~</i>,
+is isostructural with its Co^II^, Ni^II^, Zn^II^ and Cd^II^ analogues, and the
+complex resides on a crystallographic centre of inversion (at the pyrazine
+ring centroid). The Mn^II^ atoms are linked <i>via</i> coordinated malonates,
+forming a two-dimensional network with cavities. These sheets are further
+connected into a three-dimensional network by bridging pyrazine ligands which
+have inversion symmetry. The coordination geometry around the Mn^II^ atom is a
+tetragonally elongated octahedron, with pyrazine N and aqua O atoms at the
+apical positions.
+;
+
+_publ_section_related_literature
+;
+For studies and reviews of inorganic--organic hybrid materials, see: Chung <i>et
+al.</i> (1971); Okabe & Oya (2000); Serre <i>et al.</i> (2005); Pocker & Fong
+(1980); Scapin <i>et al.</i> (1997); Kim <i>et al.</i> (2001). For the
+isostructural analogues, see: Co^II^: Delgado <i>et al.</i> (2003); Ni^II^:
+Liu <i>et al.</i> (2005); Zn^II^: Zhang <i>et al.</i> (2003 or 2007); Delgado
+<i>et al.</i> (2003); Cd^II^: Mao <i>et al.</i> (2004).
+
+For related literature, see: Delgado <i>et al.</i> (2004); Zhang <i>et al.</i>
+(2003).
+;
+_publ_section_comment
+;
+In recent years, dicarboxylic acids have been widely used as polydentate
+ligands, which undergo various metal chelation reactions to form transition or
+rare earth metal complexes with interesting properties in materials science
+and in biological systems (Church <i>et al.</i>, 1971; Okabe & Oya, 2000;
+Serre <i>et al.</i>, 2005; Pocker & Fong, 1980; Scapin <i>et al.</i>, 1997).
+For example, Kim <i>et al.</i> (2001) focused on the syntheses of transition
+metal complexes containing benzene dicarboxylate and rigid aromatic pyridine
+ligands in order to study their electronic conductivity and magnetic
+properties. The importance of transition metal dicarboxylate complexes in
+materials science and biological systems prompted us to pursue synthetic
+strategies for these compounds, using malonate as a polydentate ligand and
+pyrazine as a rigid aromatic ligand. In this paper, we report the synthesis
+and X-ray crystal structure analysis of the title compound,
+[Mn~2~(C~3~H~2~O~4~)~2~(C~4~H~4~N~2~)(H~2~O)~2~]~n~.
+
+The Mn^II^ atom has sixfold coordination, chelated by two O atoms from one
+malonate ligand to form a six-membered boat-type ring, and by two O atoms from
+two neighbouring malonates, one aqua molecule and one N atom from the bridging
+pyrazine ligand (Fig. 1). The Mn---<i>O</i>(carboxylate) and Mn---N bond
+lengths are in the range 2.060(4) to 2.220(4) and 2.269(4) \%A, respectively.
+
+The packing diagram is shown in Fig. 2. If the pyrazine bridges are neglected,
+a two-dimensional network is formed by the [Mn(malonate)(H~2~O)] moieties
+parallel to the (010) plane. There are hydrogen bonds (Table 2) between the
+aqua and malonate ligands in this network.
+;
+
+_publ_section_acknowledgements
+;
+The authors thank Shandong University of Technology for financial support.
+;
+
+_publ_section_references
+;
+Bruker (2001). <i>SAINT-Plus</i>, <i>SHELXTL</i> and <i>SADABS</i>. Bruker AXS
+Inc., Madison, Wisconsin, USA.
+
+Bruker (2004). <i>APEX2</i>. Bruker AXS Inc., Madison, Wisconsin, USA.
+
+Chung, L., Rajan, K. S., Merdinger, E. & Crecz, N. (1971). <i>Biophys. J.</i>
+<b>11</b>, 469--475.
+
+Delgado, F. S., Hemandez-Molina, M., Sanchiz, J., Ruiz-Perez, C.,
+Rodriguez-Martin, Y., Lopez, T., Lioret, F. & Julve, M. (2004).
+<i>CrystEngComm</i>, <b>6</b>, 106--109.
+
+Delgado, F. S., Sanchiz, J., Ruiz-Perez, C., Lloret, F. & Julve, M. (2003).
+<i>CrystEngComm</i>, <b>5</b>, 280--286.
+
+Kim, Y., Lee, E. & Jung, D. Y. (2001). <i>Chem. Mater.</i> <b>13</b>,
+2684--2699.
+
+Liu, Y., Dou, J., Wang, D., Ma, G. & Li, D. (2005). <i>Acta Cryst.</i>
+E<b>61</b>, m1834--m1836.
+
+Mao, H. Y., Zhang, C. Z., Li, G., Zhang, H. Y., Hou, H. W., Li, L. J., Wu, Q.
+G., Zhu, Y. & Wang, E. B. (2004). <i>Discuss. Faraday Soc.</i> pp. 3918--3919.
+
+Okabe, N. & Oya, N. (2000). <i>Acta Cryst.</i> C<b>56</b>, 1416--1417.
+
+Pocker, Y. & Fong, C. T. O. (1980). <i>Biochemistry</i>, <b>19</b>, 2045--2049.
+
+Scapin, G., Reddy, S. G., Zheng, R. & Blanchard, J. S. (1997).
+<i>Biochemistry</i>, <b>36</b>, 1508--15088.
+
+Serre, C., Marrot, J. & Ferey, G. (2005). <i>Inorg. Chem.</i> <b>44</b>,
+654--658.
+
+Sheldrick, G. M. (1997). <i>SHELXS97</i> and <i>SHELXL97</i>. University of
+G\"ottingen, Germany.
+
+Zhang, X. T., Lu, C. Z., Zhang, Q. Z., Lu, S. F., Yang, W. B., Liu, J. C. &
+Zhuang, H. H. (2003). <i>Eur. J. Inorg. Chem.</i> pp. 1181--11816 Please check
+date; 2007 in text.
+;
+
+_publ_section_figure_captions
+;
+Fig. 1. Atom labeling scheme for the title complex (I), showing 30% probability
+displacement ellipsoids for non-H atoms. Atoms labeled with i are at the
+symmetry position (-<i>x</i> + 1,-<i>y</i>,-<i>z</i> + 1).
+
+Fig. 2. Packing diagram for the title complex along the <i>c</i> axis.
+;
+
+_publ_section_exptl_prep
+;
+A mixture of manganese(II) sulfate (0.5 mmol), malonate acid (0.5 mmol), sodium
+hydroxide (1 mmol), pyrazine (1 mmol) and H~2~O (8 ml) in a 25 ml Teflon-lined
+stainless steel autoclave was heated at 443 K for two days, and then cooled to
+room temperature. block crystals of complex (I) were obtained with a yield of
+22%. Anal. Calc. for C~5~H~6~NMnO~5~: C 27.91, H 2.79, N 6.51%; Found: C
+27.88, H 2.75, N 6.47%.
+;
+
+_publ_section_exptl_refinement
+;
+All H atoms on C atoms were generated geometrically and treated as riding atoms
+with C---H= 0.93\%A and <i>U</i>~iso~(H)= 1.2 times <i>U</i>~eq~(C). The H
+atoms of the water molecule were located from difference density maps and were
+refined with distance restraints of d(H--H) = 1.38(2) \%A, d(O--H) = 0.82(1)
+\%A.
+;
+#============================================================================
+data_I 
+  
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+;
+Poly[diaquadi-\m~3~-malonato-\m-pyrazine-dimanganese(II)]
+; 
+
+_chemical_formula_iupac 
+'[Mn2 (C3 H2 O4)2 (C4 H4 N2) (H2 O)2]'
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety         'C10 H12 Mn2 N2 O10' 
+_chemical_formula_sum            'C10 H12 Mn2 N2 O10' 
+_chemical_formula_weight          430.10 
+  
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'C'  'C'   0.0033   0.0016 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'H'  'H'   0.0000   0.0000 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'N'  'N'   0.0061   0.0033 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'O'  'O'   0.0106   0.0060 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'Mn'  'Mn'   0.3368   0.7283 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+  
+_symmetry_cell_setting            monoclinic 
+_symmetry_space_group_name_H-M    'P 21/n' 
+_symmetry_space_group_name_Hall   '-P 2yn'
+  
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-x+1/2, y+1/2, -z+1/2' 
+ '-x, -y, -z' 
+ 'x-1/2, -y-1/2, z-1/2' 
+  
+_cell_length_a                    7.0127(10) 
+_cell_length_b                    14.4898(20) 
+_cell_length_c                    7.3711(10) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  92.182(1) 
+_cell_angle_gamma                 90.00 
+_cell_volume                      748.45(18) 
+_cell_formula_units_Z             2 
+_cell_measurement_temperature     293(2) 
+_cell_measurement_reflns_used     1314 
+_cell_measurement_theta_min       2.81 
+_cell_measurement_theta_max       25.07
+  
+_exptl_crystal_description        block 
+_exptl_crystal_colour             colorless 
+_exptl_crystal_size_max           0.36 
+_exptl_crystal_size_mid           0.28 
+_exptl_crystal_size_min           0.24 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     1.908 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              432 
+_exptl_absorpt_coefficient_mu     1.744 
+_exptl_absorpt_correction_type    'multi-scan' 
+_exptl_absorpt_correction_T_min   0.5725 
+_exptl_absorpt_correction_T_max   0.6796 
+_exptl_absorpt_process_details    '(SADABS; Bruker, 2001)'  
+  
+_exptl_special_details 
+;
+
+; 
+  
+_diffrn_ambient_temperature       293(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   'Bruker APEX II CCD area-detector' 
+_diffrn_measurement_method        '\f and \w'
+_diffrn_detector_area_resol_mean  ? 
+_diffrn_standards_number          0 
+_diffrn_standards_interval_count  0 
+_diffrn_standards_interval_time   0 
+_diffrn_standards_decay_%         0 
+_diffrn_reflns_number             2397 
+_diffrn_reflns_av_R_equivalents   0.0225 
+_diffrn_reflns_av_sigmaI/netI     0.0375 
+_diffrn_reflns_limit_h_min        -8 
+_diffrn_reflns_limit_h_max        3 
+_diffrn_reflns_limit_k_min        -13 
+_diffrn_reflns_limit_k_max        16 
+_diffrn_reflns_limit_l_min        -8 
+_diffrn_reflns_limit_l_max        8 
+_diffrn_reflns_theta_min          2.81 
+_diffrn_reflns_theta_max          25.07 
+_reflns_number_total              1314 
+_reflns_number_gt                 1103 
+_reflns_threshold_expression      I>2\s(I) 
+ 
+_computing_data_collection        'APEX2 (Bruker, 2004)' 
+_computing_cell_refinement        'SAINT-Plus (Bruker, 2001)' 
+_computing_data_reduction         'SAINT-Plus (Bruker, 2001)' 
+_computing_structure_solution     'SHELXS97 (Sheldrick, 1997)' 
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 1997)' 
+_computing_molecular_graphics     'SHELXTL (Bruker, 2001)' 
+_computing_publication_material   'SHELXTL (Bruker, 2001)'
+  
+_refine_special_details 
+;
+Refinement of <i>F</i>^2^ against ALL reflections. The weighted <i>R</i>-factor
+<i>wR</i> and goodness of fit <i>S</i> are based on <i>F</i>^2^, conventional
+<i>R</i>-factors <i>R</i> are based on <i>F</i>, with <i>F</i> set to zero for
+negative <i>F</i>^2^. The threshold expression of <i>F</i>^2^ >
+\s(<i>F</i>^2^) is used only for calculating <i>R</i>-factors(gt) <i>etc</i>.
+and is not relevant to the choice of reflections for refinement.
+<i>R</i>-factors based on <i>F</i>^2^ are statistically about twice as large
+as those based on <i>F</i>, and <i>R</i>- factors based on ALL data will be
+even larger.
+; 
+  
+_refine_ls_structure_factor_coef  Fsqd 
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc 
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0636P)^2^+2.2589P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    geom 
+_refine_ls_hydrogen_treatment     mixed 
+_refine_ls_extinction_method      'SHELXL97 (Sheldrick, 1997)'  
+_refine_ls_extinction_coef        0.051(5) 
+_refine_ls_extinction_expression 
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^' 
+_refine_ls_number_reflns          1314 
+_refine_ls_number_parameters      116 
+_refine_ls_number_restraints      3 
+_refine_ls_R_factor_all           0.0517 
+_refine_ls_R_factor_gt            0.0450 
+_refine_ls_wR_factor_ref          0.1169 
+_refine_ls_wR_factor_gt           0.1124 
+_refine_ls_goodness_of_fit_ref    1.001 
+_refine_ls_restrained_S_all       1.000 
+_refine_ls_shift/su_max           0.013 
+_refine_ls_shift/su_mean          0.002 
+  
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+C3 C 0.5846(7) 0.3318(3) 0.7561(7) 0.0344(11) Uani 1 1 d . . . 
+C4 C 0.6125(8) 0.3910(4) 0.5887(7) 0.0432(12) Uani 1 1 d . . . 
+H4A H 0.7407 0.4162 0.5951 0.052 Uiso 1 1 calc R . . 
+H4B H 0.5240 0.4424 0.5904 0.052 Uiso 1 1 calc R . . 
+C5 C 0.5834(7) 0.3404(3) 0.4123(7) 0.0348(11) Uani 1 1 d . . . 
+C2 C 0.4526(8) 0.0744(4) 0.5906(8) 0.0507(14) Uani 1 1 d . . . 
+H2 H 0.4135 0.1258 0.6549 0.061 Uiso 1 1 calc R . . 
+C1 C 0.6785(7) -0.0046(4) 0.4448(8) 0.0468(13) Uani 1 1 d . . . 
+H1 H 0.8016 -0.0106 0.4036 0.056 Uiso 1 1 calc R . . 
+Mn1 Mn 0.83760(8) 0.19134(4) 0.58103(7) 0.0172(3) Uani 1 1 d . . . 
+N1 N 0.6323(6) 0.0717(3) 0.5372(6) 0.0389(10) Uani 1 1 d . . . 
+O2 O 0.6638(5) 0.2528(3) 0.7693(5) 0.0433(9) Uani 1 1 d . . . 
+O5 O 0.4862(5) 0.3675(2) 0.8747(5) 0.0435(9) Uani 1 1 d . . . 
+O3 O 0.6698(5) 0.2644(3) 0.3903(5) 0.0464(9) Uani 1 1 d . . . 
+O4 O 0.4753(5) 0.3775(2) 0.2943(5) 0.0427(9) Uani 1 1 d . . . 
+O1 O 1.0317(6) 0.3107(3) 0.5859(5) 0.0473(9) Uani 1 1 d D . . 
+H2W H 1.087(8) 0.313(5) 0.489(4) 0.080 Uiso 1 1 d D . . 
+H1W H 1.104(7) 0.303(5) 0.675(5) 0.080 Uiso 1 1 d D . . 
+  
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+C3 0.038(2) 0.031(3) 0.034(2) -0.005(2) 0.0003(19) 0.000(2) 
+C4 0.060(3) 0.035(3) 0.034(3) 0.000(2) 0.003(2) 0.005(2) 
+C5 0.039(2) 0.029(3) 0.036(3) 0.004(2) 0.005(2) 0.003(2) 
+C2 0.048(3) 0.042(3) 0.063(4) -0.014(3) 0.018(3) -0.006(3) 
+C1 0.041(3) 0.037(3) 0.063(4) -0.009(3) 0.012(2) -0.002(2) 
+Mn1 0.0218(4) 0.0155(4) 0.0144(4) -0.0006(2) 0.0018(2) 0.0007(2) 
+N1 0.039(2) 0.036(2) 0.042(2) -0.0012(19) 0.0021(17) -0.0017(18) 
+O2 0.056(2) 0.039(2) 0.0350(19) 0.0031(15) 0.0117(16) 0.0076(17) 
+O5 0.049(2) 0.040(2) 0.043(2) -0.0004(17) 0.0172(16) 0.0044(16) 
+O3 0.058(2) 0.045(2) 0.0355(19) -0.0029(16) -0.0044(16) 0.0118(18) 
+O4 0.053(2) 0.0347(19) 0.0399(19) 0.0032(16) -0.0064(16) 0.0032(17) 
+O1 0.051(2) 0.055(2) 0.037(2) 0.0004(18) 0.0019(16) -0.0021(18) 
+  
+_geom_special_details 
+;
+All e.s.d.'s (except the e.s.d. in the dihedral angle between two l.s. planes)
+are estimated using the full covariance matrix. The cell e.s.d.'s are taken
+into account individually in the estimation of e.s.d.'s in distances, angles
+and torsion angles; correlations between e.s.d.'s in cell parameters are only
+used when they are defined by crystal symmetry. An approximate (isotropic)
+treatment of cell e.s.d.'s is used for estimating e.s.d.'s involving l.s.
+planes.
+; 
+  
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+C3 O5 1.246(6) . ? 
+C3 O2 1.275(6) . ? 
+C3 C4 1.521(7) . ? 
+C4 C5 1.500(7) . ? 
+C4 H4A 0.9700 . ? 
+C4 H4B 0.9700 . ? 
+C5 O4 1.254(6) . ? 
+C5 O3 1.270(7) . ? 
+C2 N1 1.335(7) . ? 
+C2 C1 1.386(8) 3_656 ? 
+C2 H2 0.9300 . ? 
+C1 N1 1.344(7) . ? 
+C1 C2 1.386(8) 3_656 ? 
+C1 H1 0.9300 . ? 
+Mn1 O5 2.060(3) 4_665 ? 
+Mn1 O4 2.070(4) 4_666 ? 
+Mn1 O3 2.087(4) . ? 
+Mn1 O2 2.082(3) . ? 
+Mn1 O1 2.200(4) . ? 
+Mn1 N1 2.269(4) . ? 
+O5 Mn1 2.060(3) 4_566 ? 
+O4 Mn1 2.070(4) 4_565 ? 
+O1 H2W 0.83(4) . ? 
+O1 H1W 0.82(4) . ? 
+  
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+O5 C3 O2 124.7(5) . . ? 
+O5 C3 C4 115.3(4) . . ? 
+O2 C3 C4 119.9(4) . . ? 
+C3 C4 C5 114.2(4) . . ? 
+C3 C4 H4A 108.7 . . ? 
+C5 C4 H4A 108.7 . . ? 
+C3 C4 H4B 108.7 . . ? 
+C5 C4 H4B 108.7 . . ? 
+H4A C4 H4B 107.6 . . ? 
+O4 C5 O3 124.2(5) . . ? 
+O4 C5 C4 116.8(4) . . ? 
+O3 C5 C4 119.0(4) . . ? 
+N1 C2 C1 123.3(5) . 3_656 ? 
+N1 C2 H2 118.3 . . ? 
+C1 C2 H2 118.3 3_656 . ? 
+N1 C1 C2 121.7(5) . 3_656 ? 
+N1 C1 H1 119.2 . . ? 
+C2 C1 H1 119.2 3_656 . ? 
+O5 Mn1 O4 97.27(15) 4_665 4_666 ? 
+O5 Mn1 O3 90.03(15) 4_665 . ? 
+O4 Mn1 O3 172.30(14) 4_666 . ? 
+O5 Mn1 O2 173.92(15) 4_665 . ? 
+O4 Mn1 O2 88.18(14) 4_666 . ? 
+O3 Mn1 O2 84.41(14) . . ? 
+O5 Mn1 O1 90.42(14) 4_665 . ? 
+O4 Mn1 O1 95.52(14) 4_666 . ? 
+O3 Mn1 O1 86.84(16) . . ? 
+O2 Mn1 O1 91.75(15) . . ? 
+O5 Mn1 N1 85.11(15) 4_665 . ? 
+O4 Mn1 N1 90.85(15) 4_666 . ? 
+O3 Mn1 N1 87.32(16) . . ? 
+O2 Mn1 N1 92.14(15) . . ? 
+O1 Mn1 N1 172.65(15) . . ? 
+C2 N1 C1 115.0(4) . . ? 
+C2 N1 Mn1 122.4(4) . . ? 
+C1 N1 Mn1 122.4(3) . . ? 
+C3 O2 Mn1 126.7(3) . . ? 
+C3 O5 Mn1 131.0(3) . 4_566 ? 
+C5 O3 Mn1 127.8(3) . . ? 
+C5 O4 Mn1 124.9(3) . 4_565 ? 
+Mn1 O1 H2W 109(5) . . ? 
+Mn1 O1 H1W 105(5) . . ? 
+H2W O1 H1W 114(3) . . ? 
+  
+loop_ 
+ _geom_hbond_atom_site_label_D 
+ _geom_hbond_atom_site_label_H 
+ _geom_hbond_atom_site_label_A 
+ _geom_hbond_distance_DH 
+ _geom_hbond_distance_HA 
+ _geom_hbond_distance_DA 
+ _geom_hbond_angle_DHA 
+ _geom_hbond_site_symmetry_A 
+O1 H2W O2  0.83(4) 1.97(4) 2.705(5) 148(7) 4_665 
+O1 H1W O3  0.82(4) 1.90(4) 2.644(5) 149(7) 4_666 
+  
+_diffrn_measured_fraction_theta_max    0.985 
+_diffrn_reflns_theta_full              25.1
+_diffrn_measured_fraction_theta_full   0.985 
+_refine_diff_density_max    0.716 
+_refine_diff_density_min   -0.402 
+_refine_diff_density_rms    0.116 
+
+# Formatted by publCIF
+
+
+
+
+

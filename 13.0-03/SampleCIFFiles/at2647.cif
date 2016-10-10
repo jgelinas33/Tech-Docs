@@ -1,0 +1,682 @@
+data_I
+
+#==============================================================================
+
+_audit_creation_date                  '14-10-2011'
+_audit_creation_method                 SHELXL-97
+_audit_update_record
+;
+?
+
+2010-07-19 # Formatted by publCIF
+
+2011-11-02 # Formatted by IUCr publCIF system
+;
+
+#==============================================================================
+
+# SUBMISSION DETAILS
+
+_publ_requested_journal               ' Acta Crystallogr. E '
+
+_publ_requested_category              ' EO '
+
+_publ_contact_author_name             ' Edward RT Tiekink '
+
+_publ_contact_author_address
+;
+Department of Chemistry, University of Malaya,
+50603 Kuala Lumpur, Malaysia
+;
+_publ_contact_letter
+;
+    Dear Sir/Madam,
+    Please consider the following CIF as a contribution to Acta
+    Crystallographica E.
+    Yours sincerely,
+    Edward RT Tiekink
+    (on behalf of the authors)
+;
+
+_publ_requested_coeditor_name         '  '
+_publ_contact_author_phone            ' +60 3 7967 6775 '
+_publ_contact_author_fax              ' +60 3 7967 4193 '
+_publ_contact_author_email
+;
+Edward.Tiekink@gmail.com
+;
+
+
+#==============================================================================
+
+# PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_date_recd_electronic      ?
+_journal_date_to_coeditor         ?
+_journal_date_from_coeditor       ?
+_journal_date_accepted     ?
+_journal_date_printers_first      ?
+_journal_date_printers_final      ?
+_journal_date_proofs_out          ?
+_journal_date_proofs_in           ?
+_journal_coeditor_name            ?
+_journal_coeditor_code      ?
+_journal_paper_category      ?
+_journal_coeditor_notes
+;
+;
+_journal_techeditor_code      ?
+_iucr_compatibility_tag          ACTA95
+_journal_techeditor_notes
+;
+;
+_journal_coden_ASTM               ?
+_journal_name_full                ?
+_journal_year                     ?
+_journal_volume                   ?
+_journal_issue                    ?
+_journal_page_first               ?
+_journal_page_last                ?
+_journal_suppl_publ_number        ?
+_journal_suppl_publ_pages         ?
+
+#==============================================================================
+
+# TITLE AND AUTHOR LIST
+
+_publ_section_title
+;
+4-(Pyridin-4-yldisulfanyl)pyridine--2-aminobenzoic acid (1/1) 
+and an extra late change
+;
+
+_publ_section_title_footnote
+.
+
+
+loop_
+_publ_author_name
+_publ_author_footnote
+_publ_author_address
+'Arman, Hadi D.'  .
+;
+Department of Chemistry, The University of Texas at San Antonio,
+One UTSA Circle, San Antonio, Texas 78249-0698, USA
+;
+'Trupta Kaulgud'  .
+;
+Department of Chemistry, The University of Texas at San Antonio,
+One UTSA Circle, San Antonio, Texas 78249-0698, USA
+;
+'Tiekink, Edward R. T.'  .
+;
+Department of Chemistry, University of Malaya,
+50603 Kuala Lumpur, Malaysia
+;
+
+
+#==============================================================================
+
+# TEXT
+
+_publ_section_abstract
+;
+The title 1:1 co-crystal, C~10~H~8~N~2~S~2~--C~7~H~7~NO~2~, features a highly
+twisted 4-(pyridin-4-yldisulfanyl)pyridine molecule [dihedral angle between
+the pyridyl rings = 89.06(10)\%]. A small twist is evident in the
+2-aminobenzoic acid molecule with the C---C---C---O torsion angle being -7.7
+(3)\%. Molecules are linked by O---H...N and N---H...N hydrogen bonds into a
+supramolecular chain along the <i>b</i> axis. These are connected into layers
+by \p...\p interactions occurring between pyridyl rings [centroid...centroid
+distance = 3.8489 (15) \%A]. The layers are connected along the <i>a</i> axis
+by C---H...O contacts. The crystal studied was a racemic twin.
+;
+
+_publ_section_exptl_refinement
+;
+The C-bound H-atoms were placed in calculated positions (C---H = 0.95 \%A) and
+were included in the refinement in the riding model approximation with
+<i>U</i>~iso~(H) set to 1.2<i>U</i>~eq~(C). The O-- and N-bound H-atoms were
+located in a difference Fourier map and were refined with distance restraints
+of O---H = 0.840+-0.001 \%A and N---H = 0.880+-0.001 \%A, respectively, and 
+with <i>U</i>~iso~(H) = 1.5<i>U</i>~eq~(O, N). The crystal studied was a 
+racemic twin.
+;
+
+_publ_section_related_literature
+;
+For related studies on co-crystal formation between carboxylic acids and pyridyl
+derivatives, see: Arman & Tiekink (2010); Wardell & Tiekink (2011); Arman
+<i>et al.</i> (2011).
+;
+
+#==============================================================================
+
+_publ_section_exptl_prep
+;
+Colourless crystals of (I) were isolated from the 1:2 co-crystallization of
+4-(pyridin-4-yldisulfanyl)pyridine (Sigma-Aldrich, 0.104 mmol) and
+2-aminobenzoic acid (Sigma-Aldrich, 0.182 mmol) in chloroform solution (7 ml).
+;
+
+
+#==============================================================================
+_publ_section_comment
+;
+In connection with recent co-crystallization experiments of carboxylic acids
+with pyridyl-<i>N</i>-containing molecules (Arman & Tiekink, 2010; Wardell &
+Tiekink, 2011; Arman <i>et al.</i>, 2011), the 1:2 co-crystallization of
+4-(pyridin-4-yldisulfanyl)pyridine and 2-aminobenzoic acid was investigated.
+This led to the isolation and characterization of the title 1:1 co-crystal,
+(I).
+
+A single molecule of each of 4-(pyridin-4-yldisulfanyl)pyridine (Fig. 1), and
+2-aminobenzoic acid (Fig. 2), comprise the crystallographic asymmetric unit 
+Of (I). The molecule is twisted with the 4-pyridyl rings being almost
+perpendicular to each other as seen in the value of the dihedral angle of
+89.06(10)\%. The carboxylic acid residue is slightly twisted out of the plane
+of the benzene ring to which it is connected as seen in the C1---C2---C7---O1
+torsion angle of -7.7 (3)\%. This twist occurs despite the presence of an
+intramolecular N---H...O1 hydrogen bond (Table 1).
+
+The most prominent feature of the crystal packing is the formation of
+supramolecular chains comprising alternating
+4-(pyridin-4-yldisulfanyl)pyridine and 2-aminobenzoic acid molecules linked by
+O---H...N and N---H...N hydrogen bonds (Fig. 3 and Table 1). The chains pack
+into layers in the <i>bc</i> plane and are arranged so that pairs of chains
+face each other to allow for the formation of weak \p...\p interactions and
+for the interdigitation of the benzoic acid residues. The \p...\p interactions
+of 3.8489 (15) \%A occur between the ring centroids of the (N2,C8--C12) and
+(N3,C13--C17)^iii^ pyridyl rings (Fig. 4) [symmetry code (iii) <i>x</i>, 
+-<i>y</i> + 1, <i>z</i> + 1/2]. Layers stack along the
+<i>a</i> axis, being connected by C---H...O interactions [Fig. 5 and Table 1].
+;
+
+_publ_section_references
+;
+Arman, H. D., Kaulgud, T. & Tiekink, E. R. T. (2011). <i>Acta Cryst.</i>
+E<b>67</b>, o2933--?.
+
+Arman, H. D. & Tiekink, E. R. T. (2010). <i>Acta Cryst.</i> E<b>66</b>,
+o2188--?.
+
+Brandenburg, K. (2006). <i>DIAMOND</i>. Crystal Impact GbR, Bonn, Germany.
+
+Johnson, C. K. (1976). <i>ORTEPII</i>. Report ORNL-5138. Oak Ridge National
+Laboratory, Tennessee, USA.
+
+Molecular Structure Corporation & Rigaku (2005). <i>CrystalClear</i>. MSC, The
+Woodlands, Texas, USA, and Rigaku Corporation, Tokyo, Japan.
+
+Sheldrick, G. M. (2008). <i>Acta Cryst.</i> A<b>64</b>, 112--122.
+
+Wardell, J. L. & Tiekink, E. R. T. (2011). <i>J. Chem. Crystallogr.</i>
+<b>41</b>, 1418--1424.
+
+Westrip, S. P. (2010). <i>J. Appl. Cryst.</i> <b>43</b>, 920--925.
+;
+
+
+_publ_section_acknowledgements
+;
+The Ministry of Higher Education, Malaysia, is thanked for the award of a
+research grant (RG125/10AFR).
+;
+
+_publ_section_figure_captions
+;
+Molecular structure of 4-(pyridin-4-yldisulfanyl)pyridine in (I) showing
+atom-labelling scheme and displacement ellipsoids at the 50% probability
+level.
+
+Molecular structure of the 2-aminobenzoic acid molecule in (I) showing
+atom-labelling scheme and displacement ellipsoids at the 50% probability
+level.
+
+Supramolecular chain in (I) held together by O---H...N and N---H...N hydrogen
+bonds shown as orange and blue dashed lines, respectively.
+
+Supramolecular layer in (I) where the chains shown in Fig. 3 are linked by
+\p...\p interactions shown as purple dashed lines.
+
+View in projection down the <i>c</i> axis of the unit-cell contents of (I),
+highlighting the C---H...O connections (green dashed lines) between the layers
+shown in Fig. 4.
+;
+ 
+_chemical_name_systematic 
+;
+4-(pyridin-4-yldisulfanyl)pyridine--2-aminobenzoic acid (1/1)
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety         'C10 H8 N2 S2, C7 H7 N O2' 
+_chemical_formula_sum            'C17 H15 N3 O2 S2' 
+_chemical_formula_weight          357.46 
+ 
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'C'  'C'   0.0033   0.0016 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'H'  'H'   0.0000   0.0000 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'N'  'N'   0.0061   0.0033 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'O'  'O'   0.0106   0.0060 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'S'  'S'   0.1246   0.1234 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 
+_symmetry_cell_setting            'monoclinic' 
+_symmetry_space_group_name_H-M    'C c' 
+_symmetry_space_group_name_Hall   'C -2yc' 
+ 
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ 'x, -y, z+1/2' 
+ 'x+1/2, y+1/2, z' 
+ 'x+1/2, -y+1/2, z+1/2' 
+ 
+_cell_length_a                    8.636(2) 
+_cell_length_b                    12.728(3) 
+_cell_length_c                    15.688(4) 
+_cell_angle_alpha                 90 
+_cell_angle_beta                  103.218(4) 
+_cell_angle_gamma                 90 
+_cell_volume                      1678.7(7) 
+_cell_formula_units_Z             4 
+_cell_measurement_temperature     98(2) 
+_cell_measurement_reflns_used     3807 
+_cell_measurement_theta_min       2.7 
+_cell_measurement_theta_max       40.5 
+
+_exptl_crystal_description        'block' 
+_exptl_crystal_colour             'colourless' 
+_exptl_crystal_size_max           0.30  
+_exptl_crystal_size_mid           0.27 
+_exptl_crystal_size_min           0.15
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     1.414 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              744 
+_exptl_absorpt_coefficient_mu     0.332 
+_exptl_absorpt_correction_type    'none' 
+_exptl_absorpt_correction_T_min   ? 
+_exptl_absorpt_correction_T_max   ? 
+_exptl_absorpt_process_details    ?
+ 
+_exptl_special_details 
+;
+
+; 
+ 
+_diffrn_ambient_temperature       98(2) 
+_diffrn_radiation_type            MoK\a  
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   'AFC12\K/SATURN724 CCD' 
+_diffrn_measurement_method        '\w scans' 
+_diffrn_detector_area_resol_mean  ? 
+_diffrn_standards_number          0 
+_diffrn_standards_interval_count  . 
+_diffrn_standards_interval_time   . 
+_diffrn_standards_decay_%         ?
+_diffrn_reflns_number             3149 
+_diffrn_reflns_av_R_equivalents   0.000 
+_diffrn_reflns_av_sigmaI/netI     0.032 
+_diffrn_reflns_limit_h_min        -11 
+_diffrn_reflns_limit_h_max        10 
+_diffrn_reflns_limit_k_min        0 
+_diffrn_reflns_limit_k_max        16 
+_diffrn_reflns_limit_l_min        -20 
+_diffrn_reflns_limit_l_max        20 
+_diffrn_reflns_theta_min          2.7 
+_diffrn_reflns_theta_max          27.5 
+_reflns_number_total              3149 
+_reflns_number_gt                 3115 
+_reflns_threshold_expression      'I>2\s(I)' 
+ 
+_computing_data_collection        
+'CrystalClear (Molecular Structure Corporation & Rigaku  (2005)'
+_computing_cell_refinement 'CrystalClear '
+_computing_data_reduction  'CrystalClear '
+_computing_structure_solution     'SHELXS97 (Sheldrick, 2008)' 
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 2008)' 
+_computing_molecular_graphics
+'ORTEPII (Johnson, 1976) and Brandenburg (Brandenburg, 2006)'  
+_computing_publication_material   'publCIF (Westrip, 2010)' 
+ 
+_refine_special_details
+;
+Refinement of <i>F</i>^2^ against ALL reflections. The weighted <i>R</i>-factor
+<i>wR</i> and goodness of fit <i>S</i> are based on <i>F</i>^2^, conventional
+<i>R</i>-factors <i>R</i> are based on <i>F</i>, with <i>F</i> set to zero for
+negative <i>F</i>^2^. The threshold expression of <i>F</i>^2^ >
+2\s(<i>F</i>^2^) is used only for calculating <i>R</i>-factors(gt) <i>etc</i>.
+and is not relevant to the choice of reflections for refinement.
+<i>R</i>-factors based on <i>F</i>^2^ are statistically about twice as large
+as those based on <i>F</i>, and <i>R</i>- factors based on ALL data will be
+even larger.
+;
+
+_chemical_absolute_configuration  'unk' 
+_refine_ls_structure_factor_coef  Fsqd
+_refine_ls_matrix_type            full
+_refine_ls_weighting_scheme       calc
+_refine_ls_weighting_details
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0470P)^2^+0.5616P] where P=(Fo^2^+2Fc^2^)/3'
+_atom_sites_solution_primary      direct
+_atom_sites_solution_secondary    difmap
+_atom_sites_solution_hydrogens    geom
+_refine_ls_hydrogen_treatment     mixed
+_refine_ls_extinction_method      none
+_refine_ls_extinction_coef        ?
+_refine_ls_abs_structure_details  nd
+_refine_ls_abs_structure_Flack    ?
+_refine_ls_number_reflns          3149
+_refine_ls_number_parameters      227
+_refine_ls_number_restraints      6
+_refine_ls_R_factor_all           0.0308
+_refine_ls_R_factor_gt            0.0305
+_refine_ls_wR_factor_ref          0.0780
+_refine_ls_wR_factor_gt           0.0777
+_refine_ls_goodness_of_fit_ref    1.028
+_refine_ls_restrained_S_all       1.027
+_refine_ls_shift/su_max           0.001
+_refine_ls_shift/su_mean          0.000
+ 
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+S1 S 1.03842(6) 0.51910(4) 0.54403(3) 0.02643(12) Uani 1 1 d . . .
+S2 S 0.84697(6) 0.53636(3) 0.44236(3) 0.02623(12) Uani 1 1 d . . .
+O1 O 0.4176(2) 0.28720(11) 0.58052(9) 0.0301(3) Uani 1 1 d D . .
+H1o H 0.425(4) 0.2527(19) 0.6269(10) 0.045 Uiso 1 1 d D . .
+O2 O 0.45445(19) 0.42702(12) 0.66806(9) 0.0311(3) Uani 1 1 d . . .
+N1 N 0.4410(2) 0.30644(14) 0.41463(11) 0.0323(4) Uani 1 1 d D . .
+H1n H 0.428(3) 0.2877(17) 0.3594(5) 0.048 Uiso 1 1 d D . .
+H2n H 0.418(4) 0.2615(14) 0.4525(11) 0.048 Uiso 1 1 d D . .
+N2 N 0.9169(2) 0.27383(14) 0.73043(12) 0.0302(4) Uani 1 1 d . . .
+N3 N 0.9212(2) 0.33036(13) 0.21812(11) 0.0271(3) Uani 1 1 d . . .
+C1 C 0.4350(2) 0.41116(14) 0.43227(12) 0.0212(4) Uani 1 1 d . . .
+C2 C 0.4369(2) 0.45314(14) 0.51627(12) 0.0213(4) Uani 1 1 d . . .
+C3 C 0.4360(2) 0.56293(16) 0.52675(13) 0.0261(4) Uani 1 1 d . . .
+H3 H 0.4382 0.5912 0.5831 0.031 Uiso 1 1 calc R . .
+C4 C 0.4322(3) 0.63068(16) 0.45784(15) 0.0291(4) Uani 1 1 d . . .
+H4 H 0.4322 0.7046 0.4665 0.035 Uiso 1 1 calc R . .
+C5 C 0.4282(3) 0.58886(16) 0.37511(14) 0.0276(4) Uani 1 1 d . . .
+H5 H 0.4246 0.6347 0.3269 0.033 Uiso 1 1 calc R . .
+C6 C 0.4294(2) 0.48188(15) 0.36270(13) 0.0241(4) Uani 1 1 d . . .
+H6 H 0.4263 0.4551 0.3058 0.029 Uiso 1 1 calc R . .
+C7 C 0.4379(2) 0.38954(15) 0.59532(12) 0.0240(4) Uani 1 1 d . . .
+C8 C 1.0466(3) 0.33503(17) 0.75021(13) 0.0309(4) Uani 1 1 d . . .
+H8 H 1.1159 0.3276 0.8064 0.037 Uiso 1 1 calc R . .
+C9 C 1.0850(3) 0.40835(17) 0.69325(13) 0.0284(4) Uani 1 1 d . . .
+H9 H 1.1792 0.4492 0.7096 0.034 Uiso 1 1 calc R . .
+C10 C 0.9828(2) 0.42076(14) 0.61162(12) 0.0221(4) Uani 1 1 d . . .
+C11 C 0.8478(2) 0.35789(15) 0.58888(13) 0.0236(4) Uani 1 1 d . . .
+H11 H 0.7764 0.3636 0.5332 0.028 Uiso 1 1 calc R . .
+C12 C 0.8218(2) 0.28615(15) 0.65130(13) 0.0269(4) Uani 1 1 d . . .
+H12 H 0.7298 0.2430 0.6363 0.032 Uiso 1 1 calc R . .
+C13 C 0.8862(2) 0.45427(14) 0.35820(12) 0.0213(4) Uani 1 1 d . . .
+C14 C 1.0171(2) 0.38876(15) 0.36659(13) 0.0246(4) Uani 1 1 d . . .
+H14 H 1.0959 0.3849 0.4198 0.030 Uiso 1 1 calc R . .
+C15 C 1.0288(3) 0.32873(16) 0.29402(14) 0.0268(4) Uani 1 1 d . . .
+H15 H 1.1186 0.2841 0.2989 0.032 Uiso 1 1 calc R . .
+C16 C 0.7979(3) 0.39530(17) 0.21060(13) 0.0293(4) Uani 1 1 d . . .
+H16 H 0.7221 0.3981 0.1562 0.035 Uiso 1 1 calc R . .
+C17 C 0.7749(3) 0.45889(16) 0.27830(13) 0.0264(4) Uani 1 1 d . . .
+H17 H 0.6857 0.5045 0.2705 0.032 Uiso 1 1 calc R . .
+ 
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+S1 0.0318(3) 0.0275(2) 0.0204(2) -0.00252(17) 0.00692(19) -0.0070(2)
+S2 0.0341(3) 0.02419(19) 0.0212(2) 0.00134(17) 0.00813(19) 0.00549(19)
+O1 0.0455(9) 0.0265(7) 0.0172(6) 0.0027(5) 0.0050(6) -0.0018(6)
+O2 0.0382(9) 0.0363(8) 0.0188(7) -0.0036(6) 0.0064(6) -0.0070(7)
+N1 0.0531(12) 0.0238(8) 0.0201(8) -0.0032(6) 0.0088(8) 0.0013(8)
+N2 0.0332(10) 0.0307(9) 0.0260(9) 0.0039(7) 0.0054(7) 0.0007(8)
+N3 0.0332(9) 0.0268(8) 0.0216(8) -0.0034(7) 0.0066(7) -0.0033(7)
+C1 0.0197(8) 0.0249(8) 0.0181(8) 0.0000(7) 0.0023(7) 0.0014(7)
+C2 0.0188(8) 0.0256(8) 0.0185(9) -0.0031(7) 0.0024(7) -0.0009(7)
+C3 0.0270(9) 0.0290(9) 0.0223(9) -0.0054(8) 0.0053(8) -0.0009(8)
+C4 0.0306(11) 0.0222(9) 0.0334(11) -0.0014(8) 0.0053(9) 0.0015(8)
+C5 0.0282(10) 0.0287(9) 0.0253(10) 0.0060(8) 0.0050(8) 0.0008(8)
+C6 0.0240(10) 0.0291(9) 0.0181(9) -0.0005(7) 0.0025(8) 0.0001(7)
+C7 0.0210(9) 0.0301(9) 0.0201(9) -0.0010(7) 0.0030(7) -0.0019(7)
+C8 0.0307(10) 0.0391(11) 0.0207(10) 0.0023(8) 0.0011(8) 0.0028(9)
+C9 0.0249(9) 0.0349(10) 0.0244(10) -0.0007(8) 0.0033(8) -0.0004(8)
+C10 0.0245(9) 0.0234(9) 0.0193(8) -0.0030(7) 0.0068(7) 0.0013(7)
+C11 0.0233(9) 0.0259(8) 0.0209(9) -0.0009(7) 0.0035(7) 0.0013(7)
+C12 0.0290(10) 0.0247(9) 0.0267(10) -0.0008(7) 0.0057(8) -0.0017(7)
+C13 0.0270(10) 0.0199(8) 0.0190(9) 0.0015(6) 0.0092(7) -0.0005(7)
+C14 0.0283(10) 0.0246(8) 0.0203(9) 0.0000(7) 0.0043(8) -0.0008(7)
+C15 0.0291(10) 0.0258(9) 0.0257(10) 0.0004(7) 0.0069(8) 0.0015(8)
+C16 0.0319(10) 0.0362(10) 0.0185(9) 0.0025(8) 0.0031(8) -0.0031(8)
+C17 0.0276(10) 0.0319(9) 0.0202(9) 0.0047(7) 0.0068(8) 0.0027(8)
+ 
+_geom_special_details
+;
+All s.u.'s (except the s.u. in the dihedral angle between two l.s. planes) are
+estimated using the full covariance matrix. The cell s.u.'s are taken into
+account individually in the estimation of s.u.'s in distances, angles and
+torsion angles; correlations between s.u.'s in cell parameters are only used
+when they are defined by crystal symmetry. An approximate (isotropic)
+treatment of cell s.u.'s is used for estimating s.u.'s involving l.s. planes.
+;
+ 
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+S1 C10 1.7762(19) . ?
+S1 S2 2.0297(8) . ?
+S2 C13 1.7761(18) . ?
+O1 C7 1.328(2) . ?
+O1 H1o 0.8399(10) . ?
+O2 C7 1.215(2) . ?
+N1 C1 1.365(2) . ?
+N1 H1n 0.8800(11) . ?
+N1 H2n 0.8801(10) . ?
+N2 C12 1.332(3) . ?
+N2 C8 1.341(3) . ?
+N3 C16 1.332(3) . ?
+N3 C15 1.332(3) . ?
+C1 C6 1.407(3) . ?
+C1 C2 1.418(2) . ?
+C2 C3 1.407(3) . ?
+C2 C7 1.479(2) . ?
+C3 C4 1.377(3) . ?
+C3 H3 0.9500 . ?
+C4 C5 1.396(3) . ?
+C4 H4 0.9500 . ?
+C5 C6 1.376(3) . ?
+C5 H5 0.9500 . ?
+C6 H6 0.9500 . ?
+C8 C9 1.384(3) . ?
+C8 H8 0.9500 . ?
+C9 C10 1.388(3) . ?
+C9 H9 0.9500 . ?
+C10 C11 1.391(3) . ?
+C11 C12 1.394(3) . ?
+C11 H11 0.9500 . ?
+C12 H12 0.9500 . ?
+C13 C14 1.387(3) . ?
+C13 C17 1.396(3) . ?
+C14 C15 1.394(3) . ?
+C14 H14 0.9500 . ?
+C15 H15 0.9500 . ?
+C16 C17 1.385(3) . ?
+C16 H16 0.9500 . ?
+C17 H17 0.9500 . ?
+ 
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+C10 S1 S2 105.22(7) . . ?
+C13 S2 S1 105.12(7) . . ?
+C7 O1 H1o 112(2) . . ?
+C1 N1 H1n 117.5(15) . . ?
+C1 N1 H2n 118.2(15) . . ?
+H1n N1 H2n 119.4(18) . . ?
+C12 N2 C8 116.85(18) . . ?
+C16 N3 C15 117.96(17) . . ?
+N1 C1 C6 117.63(17) . . ?
+N1 C1 C2 124.29(18) . . ?
+C6 C1 C2 118.07(17) . . ?
+C3 C2 C1 118.91(17) . . ?
+C3 C2 C7 116.40(16) . . ?
+C1 C2 C7 124.69(17) . . ?
+C4 C3 C2 121.99(18) . . ?
+C4 C3 H3 119.0 . . ?
+C2 C3 H3 119.0 . . ?
+C3 C4 C5 118.82(18) . . ?
+C3 C4 H4 120.6 . . ?
+C5 C4 H4 120.6 . . ?
+C6 C5 C4 120.63(18) . . ?
+C6 C5 H5 119.7 . . ?
+C4 C5 H5 119.7 . . ?
+C5 C6 C1 121.56(18) . . ?
+C5 C6 H6 119.2 . . ?
+C1 C6 H6 119.2 . . ?
+O2 C7 O1 122.14(18) . . ?
+O2 C7 C2 123.34(18) . . ?
+O1 C7 C2 114.52(16) . . ?
+N2 C8 C9 123.6(2) . . ?
+N2 C8 H8 118.2 . . ?
+C9 C8 H8 118.2 . . ?
+C8 C9 C10 118.5(2) . . ?
+C8 C9 H9 120.8 . . ?
+C10 C9 H9 120.8 . . ?
+C9 C10 C11 119.33(18) . . ?
+C9 C10 S1 115.41(15) . . ?
+C11 C10 S1 125.26(16) . . ?
+C10 C11 C12 117.17(19) . . ?
+C10 C11 H11 121.4 . . ?
+C12 C11 H11 121.4 . . ?
+N2 C12 C11 124.59(19) . . ?
+N2 C12 H12 117.7 . . ?
+C11 C12 H12 117.7 . . ?
+C14 C13 C17 119.32(17) . . ?
+C14 C13 S2 124.98(16) . . ?
+C17 C13 S2 115.70(15) . . ?
+C13 C14 C15 117.50(19) . . ?
+C13 C14 H14 121.2 . . ?
+C15 C14 H14 121.3 . . ?
+N3 C15 C14 123.7(2) . . ?
+N3 C15 H15 118.1 . . ?
+C14 C15 H15 118.1 . . ?
+N3 C16 C17 123.1(2) . . ?
+N3 C16 H16 118.4 . . ?
+C17 C16 H16 118.4 . . ?
+C16 C17 C13 118.30(19) . . ?
+C16 C17 H17 120.8 . . ?
+C13 C17 H17 120.8 . . ?
+ 
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+C10 S1 S2 C13 -95.20(9) . . . . ?
+N1 C1 C2 C3 177.7(2) . . . . ?
+C6 C1 C2 C3 -1.1(3) . . . . ?
+N1 C1 C2 C7 -3.1(3) . . . . ?
+C6 C1 C2 C7 178.12(18) . . . . ?
+C1 C2 C3 C4 0.5(3) . . . . ?
+C7 C2 C3 C4 -178.81(18) . . . . ?
+C2 C3 C4 C5 0.3(3) . . . . ?
+C3 C4 C5 C6 -0.5(3) . . . . ?
+C4 C5 C6 C1 -0.2(3) . . . . ?
+N1 C1 C6 C5 -177.9(2) . . . . ?
+C2 C1 C6 C5 1.0(3) . . . . ?
+C3 C2 C7 O2 -7.8(3) . . . . ?
+C1 C2 C7 O2 172.92(19) . . . . ?
+C3 C2 C7 O1 171.55(19) . . . . ?
+C1 C2 C7 O1 -7.7(3) . . . . ?
+C12 N2 C8 C9 -0.2(3) . . . . ?
+N2 C8 C9 C10 1.1(3) . . . . ?
+C8 C9 C10 C11 -1.5(3) . . . . ?
+C8 C9 C10 S1 178.27(16) . . . . ?
+S2 S1 C10 C9 -169.32(13) . . . . ?
+S2 S1 C10 C11 10.46(18) . . . . ?
+C9 C10 C11 C12 1.1(3) . . . . ?
+S1 C10 C11 C12 -178.70(14) . . . . ?
+C8 N2 C12 C11 -0.3(3) . . . . ?
+C10 C11 C12 N2 -0.1(3) . . . . ?
+S1 S2 C13 C14 3.90(18) . . . . ?
+S1 S2 C13 C17 -175.51(13) . . . . ?
+C17 C13 C14 C15 -1.2(3) . . . . ?
+S2 C13 C14 C15 179.40(15) . . . . ?
+C16 N3 C15 C14 1.9(3) . . . . ?
+C13 C14 C15 N3 -0.6(3) . . . . ?
+C15 N3 C16 C17 -1.5(3) . . . . ?
+N3 C16 C17 C13 -0.2(3) . . . . ?
+C14 C13 C17 C16 1.6(3) . . . . ?
+S2 C13 C17 C16 -178.97(15) . . . . ?
+ 
+_diffrn_measured_fraction_theta_max    0.990
+_diffrn_reflns_theta_full              27.49
+_diffrn_measured_fraction_theta_full   0.990
+_refine_diff_density_max    0.247
+_refine_diff_density_min   -0.232
+_refine_diff_density_rms    0.044
+
+
+loop_
+ _geom_hbond_atom_site_label_D
+ _geom_hbond_atom_site_label_H
+ _geom_hbond_atom_site_label_A
+ _geom_hbond_distance_DH
+ _geom_hbond_distance_HA
+ _geom_hbond_distance_DA
+ _geom_hbond_angle_DHA
+ _geom_hbond_site_symmetry_A
+N1  H2n  O1       0.88(2)  2.036(18)   2.667(2)  127.9(15) .
+N1  H1n  N2     0.881(10)  2.151(12)   3.027(3)  172.8(19) 4_454
+O1  H1o  N3     0.840(18)    1.79(2)   2.621(2)     173(3) 4_455
+C17 H17  O2          0.95       2.42   3.251(3)        146 2_564
+
+
+
+
+
+
+
+

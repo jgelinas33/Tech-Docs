@@ -1,0 +1,4 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+;This is a note;Bobbo;Clown;bobboclown@oregoncc.org;1
+0000-0002-5605-6957;Note note note;Fred;Donuts;baker@dunkindonuts.com;false
+;Notif-yyyyyyy;;Lasty;;true

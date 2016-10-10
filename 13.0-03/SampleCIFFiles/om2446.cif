@@ -1,0 +1,762 @@
+data_global
+
+#==============================================================================
+# PROCESSING SUMMARY (IUCr Office Use Only)
+
+_journal_date_recd_electronic     2011-07-03
+_journal_date_to_coeditor         ?
+_journal_date_from_coeditor       2011-07-05
+_journal_date_accepted            2011-07-05
+_journal_date_printers_first      2011-07-05
+_journal_date_printers_final      ?
+_journal_date_proofs_out          2011-07-06
+_journal_date_proofs_in           ?
+_journal_coeditor_name            ?
+_journal_coeditor_code            OM2446
+_journal_coeditor_notes
+?
+_journal_paper_category          QM
+_journal_techeditor_code          E112679
+_iucr_compatibility_tag          ACTA95
+_journal_techeditor_notes  
+;
+;
+_journal_coden_ASTM               ACSEBH
+_journal_name_full                'Acta Crystallographica, Section E'
+_journal_year                     2011
+_journal_volume                   67
+_journal_issue                    08
+_journal_page_first               m1071
+_journal_page_last                m1071
+_journal_suppl_publ_number        ?
+_journal_suppl_publ_pages         ?
+
+#==============================================================================
+
+
+_publ_section_related_literature 
+;
+For the structures of similar potassium salts, see: Gowda <i>et al.</i>
+(2011)
+and references cited therein; Moers <i>et al.</i> (2001). For the
+structure
+of sodium sulfanilamide monohydrate, see: Moreno & Alleaume (1968).
+;
+
+
+# Added by publCIF - use a unique identifier for each data block
+
+#==============================================================================
+
+
+# SUBMISSION DETAILS
+
+_publ_contact_author_name            
+'Hamid Khaledi'   
+_publ_contact_author_address             
+
+
+;
+Department of Chemistry, University of Malaya, 50603 Kuala Lumpur, Malaysia
+;
+
+
+_publ_contact_author_email           'khaledi@siswa.um.edu.my'
+_publ_contact_author_fax             '+603-79674193'
+_publ_contact_author_phone           '+603-79674246'
+
+_publ_contact_letter
+;
+Please consider this CIF for publication. I certify that this contibution is the
+original work of those listed as authors; that it has not been published
+before (in any language or medium) and is not being considered for publication
+elsewhere; that all authors concur with and are aware of the submission; that
+all workers involved in the study are listed as authors or given proper credit
+in the acknowledgements; that I have obtained permission for and acknowledged
+the source of any excerpts from other copyright works; and that to the best of
+my knowledge the paper contains no statements which are libellous, unlawful or
+in any way actionable. All coauthors have made significant scientific
+contributions to the work reported, including the ideas and their execution,
+and share responsibility and accountability for the results.
+;
+   
+_publ_requested_journal              'Acta Cryst. E'
+_publ_requested_category             QM   
+
+#==============================================================================
+
+# TITLE AND AUTHOR LIST
+
+_publ_section_title
+;
+Dipotassium disulfanilamidate trihydrate
+;
+
+loop_
+_publ_author_name
+_publ_author_address
+_publ_author_footnote
+_publ_author_email
+'How, Fiona N.-F'
+;
+Department of Biomedical Sciences, Kulliyah of Science, IIUM Kuantan, 
+25200 Kuantan, Malaysia
+;
+.
+;
+howfiona@iium.edu.my
+;
+'Rahima, Z. A.'
+;
+Department of Biomedical Sciences, Kulliyah of Science, IIUM Kuantan, 
+25200 Kuantan, Malaysia
+;
+.
+;
+ra_zilf@yahoo.com
+;
+'Khaledi, Hamid'
+;
+Department of Chemistry, University of Malaya, 50603 Kuala Lumpur, Malaysia
+;
+.
+;
+khaledi@siswa.um.edu.my
+;
+'Mohd Ali, Hapipah'
+;
+Department of Chemistry, University of Malaya, 50603 Kuala Lumpur, Malaysia
+;
+.
+;
+hapipah@um.edu.my
+;
+
+
+#==============================================================================
+# TEXT
+
+_publ_section_abstract
+;
+The asymmetric unit of the title compound, 2K^+^.2C~6~H~7~N~2~O~2~S^-^.3H~2~O,
+consists of two half potassium cations located on mirror planes, one
+sulfanilamidate anion and one and a half molecules of water. One of the
+potassium cations is seven-coordinated by six sulfonyl O atoms and one water
+molecule, whereas the other is surrounded by six water O atoms and two
+sulfonyl O atoms. In the crystal structure, the  components are connected into
+polymeric sheets in the <i>bc</i> plane. The two-dimensional structure is
+consolidated by N---H...O, O---H...O, O---H...N and C---H...\p interactions.
+The layers are further linked into a three-dimensional network <i>via</i>
+N---H...O, N---H...N and O---H...N hydrogen bonds.
+;
+
+_publ_section_comment
+;
+The title potassium salt (Fig. 1) was obtained through the deprotonation of
+sulfanilamide by KOH. The structure contains two types of potassium cation,
+one of which, K1, is hepta-coordinated by six sulfonyl O atoms and one water
+molecule while the other one, K2, is octa-coordinated by six water O atoms and
+two sulfonyl O atoms. Both potassium atoms and one water oxygen atom, O4, are
+placed on a mirror plane.
+
+The bond distance of S---N [1.5410 (12) \%A] implies its double bond character
+and is slightly shorter than the observed values (\~ 1.58 \%A) in similar
+potassium salts (Gowda <i>et al.</i>, 2011; Moers <i>et al.</i>,
+2001), but
+comparable with the bond length reported for sodium sulfanilamide (Moreno &
+Alleaume, 1968). The S1---O1 and S1---O2 distances of 1.4686 (9) and
+1.4705
+(9) \%A attest to delocalization of the negative charge over the O---S---O
+fragment. These values are similar to the corresponding values in sodium
+sulfanilamide (1.45--1.46 \%A).
+
+In the crystal, coordination polymeric layers are formed in the <i>bc</i> plane
+(Fig. 2). The two dimensional structure is supplemented by N---H...O,
+O---H...O, O---H...N and C---H...\p interactions (Table 1). The layers are
+further linked into a three dimensional network <i>via</i> N---H...O,
+N---H...N and O---H...N hydrogen bonds (Fig. 3)
+;
+_publ_section_acknowledgements  # remove if not required
+;
+IIUM is acknowledged for funding this study (Endowment fund A No: EDW
+A10--150-0697).
+;
+
+_publ_section_references
+;
+Barbour, L. J. (2001). <i>J. Supramol. Chem.</i> <b>1</b>, 189--191.
+
+Bruker (2007). <i>APEX2</i> and <i>SAINT</i>. Bruker AXS Inc., Madison,
+Wisconsin, USA.
+
+Flack, H. D. (1983). <i>Acta Cryst.</i> A<b>39</b>, 876--881.
+
+Gowda, B. T., Foro, S. & Shakuntala, K. (2011). <i>Acta Cryst.</i> E<b>67</b>,
+m1015.
+
+Moers, O., Blaschette, A. & Jones, P. G. (2001). <i>Z. Anorg. Allg. Chem.</i>
+<b>627</b>, 95--102.
+
+Moreno, J. & Alleaume, M. (1968). <i>C. R. Acad. Sci. Ser. C</i>, <b>267</b>,
+64--66.
+
+Sheldrick, G. M. (1996). <i>SADABS</i>. University of G\"ottingen, Germany.
+
+Sheldrick, G. M. (2008). <i>Acta Cryst.</i> A<b>64</b>, 112--122.
+
+Westrip, S. P. (2010). <i>J. Appl. Cryst.</i> <b>43</b>, 920--925.
+;
+
+_publ_section_figure_captions
+;
+Fig. 1. Thermal ellipsoid plot of the title compound at the 50% probability
+level. Hydrogen atoms are drawn as spheres of arbitrary radius. Symmetry code:
+i = -<i>x</i> + 1, <i>y</i>, <i>z</i>; ii = <i>x</i>, -<i>y</i> + 1, <i>z</i>
++ 1/2; iii = -<i>x</i> + 1, -<i>y</i> + 1, <i>z</i> + 1/2; iv = <i>x</i>,
+-<i>y</i>, <i>z</i> + 1/2; v = -<i>x</i> + 1, -<i>y</i>, <i>z</i> + 1/2; vi =
+<i>x</i>, <i>y</i>, <i>z</i> - 1; vii = -<i>x</i> + 1, -<i>y</i>, <i>z</i> -
+1/2.
+
+Fig. 2. Packing view looking down the crystallographic \a axis showing the two
+dimensional coordination polymer netwrok.
+
+Fig. 3. Packing view looking down the crystallographic <i>c</i> axis. H-bonds
+are shown as red dashed lines.
+;
+_publ_section_exptl_prep
+;
+Sulfanilamide (2 g) in ethanol (30 ml) was mixed with an equimolar amount of KOH
+in 90% ethanol (10 ml). The solution was then refluxed for 2 hr and left to
+cool down at room temperature. The colorless crystals of the the potassium
+salt were obtained within a day.
+;
+_publ_section_exptl_refinement
+;
+The C-bound H atoms were placed at calculated positions and were treated as
+riding on their parent C atoms with C---H = 0.95 \%A. The N-- and O-bound H
+atoms were located in a difference Fourier map, and refined with distance
+restraints of O---H = 0.84(2) \%A and N---H = 0.91(2) \%A. For all H atoms,
+<i>U</i>~iso~(H) was set to 1.2(1.5 for hydroxyl)<i>U</i>~eq~(carrier atom).
+An absolute structure was established using anomalous dispersion effects; 985
+Friedel pairs were not merged.
+;
+#==============================================================================
+
+data_I 
+
+_iucr_geom_hbonds_special_details   
+;
+Cg1 is the centroid of the C1--C6 ring.
+;
+
+#Added by publCIF
+
+_audit_update_record
+;
+2011-06-21 # Formatted by publCIF
+
+2011-07-05 # Formatted by IUCr publCIF system
+;
+  
+_audit_creation_method            SHELXL-97 
+_chemical_name_systematic 
+;
+Dipotassium disulfanilamidate trihydrate
+; 
+_chemical_name_common             ? 
+_chemical_melting_point           ? 
+_chemical_formula_moiety          '2(K +), 2(C6 H7 N2 O2 S1 -), 3(H2 O1)' 
+_chemical_formula_sum 
+ 'C12 H20 K2 N4 O7 S2' 
+_chemical_formula_weight          474.64 
+_chemical_formula_iupac           '2K +, 2C6 H7 N2 O2 S1 -, 3H2 O1'   
+
+loop_ 
+ _atom_type_symbol 
+ _atom_type_description 
+ _atom_type_scat_dispersion_real 
+ _atom_type_scat_dispersion_imag 
+ _atom_type_scat_source 
+ 'C'  'C'   0.0033   0.0016 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'H'  'H'   0.0000   0.0000 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'N'  'N'   0.0061   0.0033 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'O'  'O'   0.0106   0.0060 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'S'  'S'   0.1246   0.1234 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+ 'K'  'K'   0.2009   0.2494 
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4' 
+  
+_symmetry_cell_setting            orthorhombic 
+_symmetry_space_group_name_H-M    'C m c 21' 
+_symmetry_space_group_name_Hall   'C 2c -2'
+  
+loop_ 
+ _symmetry_equiv_pos_as_xyz 
+ 'x, y, z' 
+ '-x, -y, z+1/2' 
+ 'x, -y, z+1/2' 
+ '-x, y, z' 
+ 'x+1/2, y+1/2, z' 
+ '-x+1/2, -y+1/2, z+1/2' 
+ 'x+1/2, -y+1/2, z+1/2' 
+ '-x+1/2, y+1/2, z' 
+  
+_cell_length_a                    23.8174(4) 
+_cell_length_b                    10.9141(2) 
+_cell_length_c                    7.46450(10) 
+_cell_angle_alpha                 90.00 
+_cell_angle_beta                  90.00 
+_cell_angle_gamma                 90.00 
+_cell_volume                      1940.36(5) 
+_cell_formula_units_Z             4 
+_cell_measurement_temperature     100(2) 
+_cell_measurement_reflns_used     9001 
+_cell_measurement_theta_min       2.73 
+_cell_measurement_theta_max       30.52 
+  
+_exptl_crystal_description        blade 
+_exptl_crystal_colour             colorless
+_exptl_crystal_size_max           0.33 
+_exptl_crystal_size_mid           0.27 
+_exptl_crystal_size_min           0.10 
+_exptl_crystal_density_meas       ? 
+_exptl_crystal_density_diffrn     1.625 
+_exptl_crystal_density_method     'not measured' 
+_exptl_crystal_F_000              984 
+_exptl_absorpt_coefficient_mu     0.746 
+_exptl_absorpt_correction_type    multi-scan 
+_exptl_absorpt_correction_T_min   0.7908 
+_exptl_absorpt_correction_T_max   0.9291 
+_exptl_absorpt_process_details    '(SADABS; Sheldrick, 1996)' 
+  
+_exptl_special_details  ? 
+  
+_diffrn_ambient_temperature       100(2) 
+_diffrn_radiation_wavelength      0.71073 
+_diffrn_radiation_type            MoK\a 
+_diffrn_radiation_source          'fine-focus sealed tube' 
+_diffrn_radiation_monochromator   graphite 
+_diffrn_measurement_device_type   'Bruker APEXII CCD' 
+_diffrn_measurement_method        '\f and \w' 
+_diffrn_detector_area_resol_mean  ? 
+_diffrn_reflns_number             8594 
+_diffrn_reflns_av_R_equivalents   0.0145 
+_diffrn_reflns_av_sigmaI/netI     0.0143 
+_diffrn_reflns_limit_h_min        -30 
+_diffrn_reflns_limit_h_max        30 
+_diffrn_reflns_limit_k_min        -13 
+_diffrn_reflns_limit_k_max        13 
+_diffrn_reflns_limit_l_min        -9 
+_diffrn_reflns_limit_l_max        9 
+_diffrn_reflns_theta_min          2.05 
+_diffrn_reflns_theta_max          27.00 
+_reflns_number_total              2157 
+_reflns_number_gt                 2149 
+_reflns_threshold_expression      I>2\s(I) 
+  
+_computing_data_collection        'APEX2 (Bruker, 2007)' 
+_computing_cell_refinement        'SAINT (Bruker, 2007)'
+_computing_data_reduction         'SAINT (Bruker, 2007)'
+_computing_structure_solution     'SHELXS97 (Sheldrick, 2008)' 
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 2008)' 
+_computing_molecular_graphics     'X-SEED (Barbour, 2001)'    
+_computing_publication_material   
+'SHELXL97 (Sheldrick, 2008) and publCIF (Westrip, 2010)'
+  
+_refine_special_details 
+;
+Refinement of <i>F</i>^2^ against ALL reflections. The weighted <i>R</i>-factor
+<i>wR</i> and goodness of fit <i>S</i> are based on <i>F</i>^2^, conventional
+<i>R</i>-factors <i>R</i> are based on <i>F</i>, with <i>F</i> set to zero for
+negative <i>F</i>^2^. The threshold expression of <i>F</i>^2^ >
+\s(<i>F</i>^2^) is used only for calculating <i>R</i>-factors(gt) <i>etc</i>.
+and is not relevant to the choice of reflections for refinement.
+<i>R</i>-factors based on <i>F</i>^2^ are statistically about twice as large
+as those based on <i>F</i>, and <i>R</i>- factors based on ALL data will be
+even larger.
+; 
+  
+_refine_ls_structure_factor_coef  Fsqd 
+_refine_ls_matrix_type            full 
+_refine_ls_weighting_scheme       calc 
+_refine_ls_weighting_details 
+ 'calc w=1/[\s^2^(Fo^2^)+(0.0201P)^2^+1.0371P] where P=(Fo^2^+2Fc^2^)/3' 
+_atom_sites_solution_primary      direct 
+_atom_sites_solution_secondary    difmap 
+_atom_sites_solution_hydrogens    geom 
+_refine_ls_hydrogen_treatment     mixed 
+_refine_ls_extinction_method      none 
+_refine_ls_extinction_coef        ? 
+_refine_ls_abs_structure_details  'Flack (1983), 985 Friedel pairs' 
+_refine_ls_abs_structure_Flack    0.04(3) 
+_chemical_absolute_configuration  ad
+_refine_ls_number_reflns          2157 
+_refine_ls_number_parameters      145 
+_refine_ls_number_restraints      7
+_refine_ls_R_factor_all           0.0154 
+_refine_ls_R_factor_gt            0.0154 
+_refine_ls_wR_factor_ref          0.0421 
+_refine_ls_wR_factor_gt           0.0421 
+_refine_ls_goodness_of_fit_ref    1.107
+_refine_ls_restrained_S_all       1.108 
+_refine_ls_shift/su_max           0.000 
+_refine_ls_shift/su_mean          0.000 
+  
+loop_ 
+ _atom_site_label 
+ _atom_site_type_symbol 
+ _atom_site_fract_x 
+ _atom_site_fract_y 
+ _atom_site_fract_z 
+ _atom_site_U_iso_or_equiv 
+ _atom_site_adp_type 
+ _atom_site_occupancy 
+ _atom_site_symmetry_multiplicity 
+ _atom_site_calc_flag 
+ _atom_site_refinement_flags 
+ _atom_site_disorder_assembly 
+ _atom_site_disorder_group 
+K1 K 0.5000 0.39021(4) 0.59975(5) 0.01535(8) Uani 1 2 d S . . 
+K2 K 0.5000 0.05477(3) 0.26065(6) 0.01442(8) Uani 1 2 d S . . 
+S1 S 0.404982(11) 0.35192(2) 0.25404(4) 0.01158(7) Uani 1 1 d . . . 
+O1 O 0.42926(4) 0.47094(8) 0.30427(12) 0.01535(19) Uani 1 1 d . . . 
+O2 O 0.42708(4) 0.25122(8) 0.36386(12) 0.01634(19) Uani 1 1 d . . . 
+N1 N 0.41122(4) 0.31915(11) 0.05418(15) 0.0147(2) Uani 1 1 d D . . 
+H1 H 0.4057(7) 0.3869(13) -0.007(2) 0.018 Uiso 1 1 d D . . 
+N2 N 0.15806(5) 0.38097(11) 0.38621(15) 0.0148(2) Uani 1 1 d D . . 
+H2A H 0.1423(6) 0.3121(13) 0.430(2) 0.018 Uiso 1 1 d D . . 
+H2B H 0.1402(6) 0.4057(14) 0.285(2) 0.018 Uiso 1 1 d D . . 
+C1 C 0.33256(5) 0.36379(11) 0.30816(17) 0.0124(2) Uani 1 1 d . . . 
+C2 C 0.30175(5) 0.46150(10) 0.23864(18) 0.0138(2) Uani 1 1 d . . . 
+H2 H 0.3202 0.5243 0.1732 0.017 Uiso 1 1 calc R . . 
+C3 C 0.24417(5) 0.46705(10) 0.26498(19) 0.0134(2) Uani 1 1 d . . . 
+H3 H 0.2234 0.5342 0.2183 0.016 Uiso 1 1 calc R . . 
+C4 C 0.21636(5) 0.37450(11) 0.35982(16) 0.0126(2) Uani 1 1 d . . . 
+C5 C 0.24773(5) 0.27905(12) 0.43346(18) 0.0144(2) Uani 1 1 d . . . 
+H5 H 0.2295 0.2175 0.5023 0.017 Uiso 1 1 calc R . . 
+C6 C 0.30546(5) 0.27342(11) 0.40674(17) 0.0138(2) Uani 1 1 d . . . 
+H6 H 0.3265 0.2075 0.4561 0.017 Uiso 1 1 calc R . . 
+O3 O 0.58605(4) -0.04452(9) 0.07181(13) 0.0173(2) Uani 1 1 d D . . 
+H3A H 0.6103(6) 0.0020(18) 0.023(3) 0.026 Uiso 1 1 d D . . 
+H3B H 0.5880(8) -0.1110(15) 0.019(3) 0.026 Uiso 1 1 d D . . 
+O4 O 0.5000 0.18900(13) 0.8893(2) 0.0207(3) Uani 1 2 d SD . . 
+H4 H 0.4747(6) 0.2267(16) 0.929(3) 0.031 Uiso 1 1 d D . . 
+  
+loop_ 
+ _atom_site_aniso_label 
+ _atom_site_aniso_U_11 
+ _atom_site_aniso_U_22 
+ _atom_site_aniso_U_33 
+ _atom_site_aniso_U_23 
+ _atom_site_aniso_U_13 
+ _atom_site_aniso_U_12 
+K1 0.01301(16) 0.01830(18) 0.01474(17) -0.00331(15) 0.000 0.000 
+K2 0.01360(16) 0.01577(17) 0.01391(16) -0.00172(17) 0.000 0.000 
+S1 0.01032(12) 0.01235(13) 0.01206(13) 0.00013(13) 0.00042(13) -0.00085(9) 
+O1 0.0144(4) 0.0149(4) 0.0168(5) -0.0022(3) 0.0009(3) -0.0035(3) 
+O2 0.0134(4) 0.0169(4) 0.0188(5) 0.0048(4) -0.0002(4) 0.0009(3) 
+N1 0.0158(5) 0.0161(5) 0.0123(5) -0.0005(4) 0.0024(4) -0.0002(4) 
+N2 0.0118(5) 0.0178(5) 0.0148(5) 0.0019(4) 0.0004(4) 0.0007(4) 
+C1 0.0113(6) 0.0142(5) 0.0118(5) -0.0027(4) 0.0009(4) -0.0010(5) 
+C2 0.0163(5) 0.0129(5) 0.0120(6) 0.0017(5) 0.0019(5) -0.0015(4) 
+C3 0.0157(5) 0.0123(5) 0.0121(5) 0.0008(5) -0.0004(5) 0.0017(4) 
+C4 0.0121(6) 0.0156(6) 0.0102(6) -0.0028(5) 0.0009(4) -0.0001(5) 
+C5 0.0161(6) 0.0136(5) 0.0136(5) 0.0016(5) 0.0017(5) -0.0019(5) 
+C6 0.0139(6) 0.0134(5) 0.0142(6) 0.0016(5) -0.0007(5) 0.0010(4) 
+O3 0.0177(4) 0.0155(4) 0.0187(5) -0.0010(4) 0.0033(4) -0.0009(3) 
+O4 0.0135(7) 0.0205(7) 0.0280(8) -0.0097(6) 0.000 0.000 
+  
+_geom_special_details 
+;
+All e.s.d.'s (except the e.s.d. in the dihedral angle between two l.s. planes)
+are estimated using the full covariance matrix. The cell e.s.d.'s are taken
+into account individually in the estimation of e.s.d.'s in distances, angles
+and torsion angles; correlations between e.s.d.'s in cell parameters are only
+used when they are defined by crystal symmetry. An approximate (isotropic)
+treatment of cell e.s.d.'s is used for estimating e.s.d.'s involving l.s.
+planes.
+; 
+  
+loop_ 
+ _geom_bond_atom_site_label_1 
+ _geom_bond_atom_site_label_2 
+ _geom_bond_distance 
+ _geom_bond_site_symmetry_2 
+ _geom_bond_publ_flag 
+K1 O1 2.7325(9) 2_665 ? 
+K1 O1 2.7325(9) 3_565 ? 
+K1 O2 2.9014(10) 4_655 ? 
+K1 O2 2.9014(10) . ? 
+K1 O1 2.9121(10) . ? 
+K1 O1 2.9121(10) 4_655 ? 
+K1 O4 3.0810(16) . ? 
+K2 O3 2.7133(10) . ? 
+K2 O3 2.7133(10) 4_655 ? 
+K2 O4 2.8285(15) 2_654 ? 
+K2 O2 2.8648(10) 4_655 ? 
+K2 O2 2.8648(10) . ? 
+K2 O3 3.0996(10) 3 ? 
+K2 O3 3.0996(10) 2_655 ? 
+K2 O4 3.1355(17) 1_554 ? 
+S1 O2 1.4686(9) . ? 
+S1 O1 1.4705(9) . ? 
+S1 N1 1.5413(12) . ? 
+S1 C1 1.7763(13) . ? 
+O1 K1 2.7324(9) 2_664 ? 
+N1 H1 0.878(14) . ? 
+N2 C4 1.4044(16) . ? 
+N2 H2A 0.903(13) . ? 
+N2 H2B 0.906(14) . ? 
+C1 C6 1.3895(17) . ? 
+C1 C2 1.3947(17) . ? 
+C2 C3 1.3868(17) . ? 
+C2 H2 0.9500 . ? 
+C3 C4 1.4000(17) . ? 
+C3 H3 0.9500 . ? 
+C4 C5 1.3948(18) . ? 
+C5 C6 1.3908(17) . ? 
+C5 H5 0.9500 . ? 
+C6 H6 0.9500 . ? 
+O3 K2 3.0996(10) 2_654 ? 
+O3 H3A 0.852(15) . ? 
+O3 H3B 0.828(15) . ? 
+O4 K2 2.8284(15) 2_655 ? 
+O4 K2 3.1355(17) 1_556 ? 
+O4 H4 0.787(13) . ? 
+  
+loop_ 
+ _geom_angle_atom_site_label_1 
+ _geom_angle_atom_site_label_2 
+ _geom_angle_atom_site_label_3 
+ _geom_angle 
+ _geom_angle_site_symmetry_1 
+ _geom_angle_site_symmetry_3 
+ _geom_angle_publ_flag 
+O1 K1 O1 76.15(4) 2_665 3_565 ? 
+O1 K1 O2 105.06(3) 2_665 4_655 ? 
+O1 K1 O2 176.54(3) 3_565 4_655 ? 
+O1 K1 O2 176.54(3) 2_665 . ? 
+O1 K1 O2 105.06(3) 3_565 . ? 
+O2 K1 O2 73.54(4) 4_655 . ? 
+O1 K1 O1 127.75(2) 2_665 . ? 
+O1 K1 O1 84.18(2) 3_565 . ? 
+O2 K1 O1 92.57(3) 4_655 . ? 
+O2 K1 O1 49.62(3) . . ? 
+O1 K1 O1 84.18(2) 2_665 4_655 ? 
+O1 K1 O1 127.75(2) 3_565 4_655 ? 
+O2 K1 O1 49.62(3) 4_655 4_655 ? 
+O2 K1 O1 92.58(3) . 4_655 ? 
+O1 K1 O1 70.71(4) . 4_655 ? 
+O1 K1 O4 90.20(3) 2_665 . ? 
+O1 K1 O4 90.20(3) 3_565 . ? 
+O2 K1 O4 93.04(3) 4_655 . ? 
+O2 K1 O4 93.04(3) . . ? 
+O1 K1 O4 138.32(2) . . ? 
+O1 K1 O4 138.32(2) 4_655 . ?  
+O3 K2 O3 98.12(4) . 4_655 ? 
+O3 K2 O4 78.50(3) . 2_654 ? 
+O3 K2 O4 78.50(3) 4_655 2_654 ? 
+O3 K2 O2 88.89(3) . 4_655 ? 
+O3 K2 O2 153.71(3) 4_655 4_655 ? 
+O4 K2 O2 127.79(3) 2_654 4_655 ? 
+O3 K2 O2 153.71(3) . . ? 
+O3 K2 O2 88.89(3) 4_655 . ? 
+O4 K2 O2 127.78(3) 2_654 . ? 
+O2 K2 O2 74.64(4) 4_655 . ? 
+O3 K2 O3 82.84(3) . 3 ? 
+O3 K2 O3 150.97(2) 4_655 3 ? 
+O4 K2 O3 73.24(3) 2_654 3 ? 
+O2 K2 O3 54.88(3) 4_655 3 ? 
+O2 K2 O3 103.08(3) . 3 ? 
+O3 K2 O3 150.97(2) . 2_655 ? 
+O3 K2 O3 82.84(3) 4_655 2_655 ? 
+O4 K2 O3 73.24(3) 2_654 2_655 ? 
+O2 K2 O3 103.08(3) 4_655 2_655 ? 
+O2 K2 O3 54.87(3) . 2_655 ? 
+O3 K2 O3 82.79(4) 3 2_655 ? 
+O3 K2 O4 74.17(3) . 1_554 ? 
+O3 K2 O4 74.17(3) 4_655 1_554 ? 
+O4 K2 O4 137.70(5) 2_654 1_554 ? 
+O2 K2 O4 83.57(3) 4_655 1_554 ? 
+O2 K2 O4 83.57(3) . 1_554 ? 
+O3 K2 O4 132.79(2) 3 1_554 ? 
+O3 K2 O4 132.79(2) 2_655 1_554 ? 
+O2 S1 O1 112.21(6) . . ? 
+O2 S1 N1 109.40(6) . . ? 
+O1 S1 N1 114.44(6) . . ? 
+O2 S1 C1 106.00(6) . . ? 
+O1 S1 C1 105.03(6) . . ? 
+N1 S1 C1 109.31(6) . . ? 
+S1 O1 K1 126.15(5) . 2_664 ? 
+S1 O1 K1 98.82(4) . . ? 
+K1 O1 K1 103.54(3) 2_664 . ? 
+S1 O2 K2 128.84(5) . . ? 
+S1 O2 K1 99.32(5) . . ? 
+K2 O2 K1 101.04(3) . . ? 
+S1 N1 H1 106.9(11) . . ? 
+C4 N2 H2A 114.8(10) . . ? 
+C4 N2 H2B 111.3(10) . . ? 
+H2A N2 H2B 110.9(15) . . ? 
+C6 C1 C2 119.69(11) . . ? 
+C6 C1 S1 121.31(10) . . ? 
+C2 C1 S1 118.83(10) . . ? 
+C3 C2 C1 120.07(11) . . ? 
+C3 C2 H2 120.0 . . ? 
+C1 C2 H2 120.0 . . ? 
+C2 C3 C4 120.53(11) . . ? 
+C2 C3 H3 119.7 . . ? 
+C4 C3 H3 119.7 . . ? 
+C5 C4 C3 119.00(11) . . ? 
+C5 C4 N2 120.79(11) . . ? 
+C3 C4 N2 120.15(11) . . ? 
+C6 C5 C4 120.40(12) . . ? 
+C6 C5 H5 119.8 . . ? 
+C4 C5 H5 119.8 . . ? 
+C1 C6 C5 120.25(11) . . ? 
+C1 C6 H6 119.9 . . ? 
+C5 C6 H6 119.9 . . ? 
+K2 O3 K2 84.51(3) . 2_654 ? 
+K2 O3 H3A 119.9(14) . . ? 
+K2 O3 H3A 98.5(13) 2_654 . ? 
+K2 O3 H3B 129.9(13) . . ? 
+K2 O3 H3B 69.3(13) 2_654 . ? 
+H3A O3 H3B 106(2) . . ? 
+K2 O4 K1 115.62(5) 2_655 . ? 
+K2 O4 K2 81.99(4) 2_655 1_556 ? 
+K1 O4 K2 162.39(5) . 1_556 ? 
+K2 O4 H4 128.2(13) 2_655 . ? 
+K1 O4 H4 83.7(15) . . ? 
+K2 O4 H4 85.1(16) 1_556 . ? 
+  
+loop_ 
+ _geom_hbond_atom_site_label_D 
+ _geom_hbond_atom_site_label_H 
+ _geom_hbond_atom_site_label_A 
+ _geom_hbond_distance_DH 
+ _geom_hbond_distance_HA 
+ _geom_hbond_distance_DA 
+ _geom_hbond_angle_DHA 
+ _geom_hbond_site_symmetry_A 
+N1 H1 O1  0.878(14) 2.171(14) 2.9854(15) 154.1(15) 3_564 
+N2 H2A N1  0.903(13) 2.129(14) 3.0109(16) 165.5(14) 6 
+N2 H2B O3  0.906(14) 2.121(14) 3.0183(15) 170.5(14) 5_455 
+O3 H3A N2  0.852(15) 1.991(16) 2.8366(15) 171.9(18) 7_554 
+O3 H3B O2  0.828(15) 1.951(15) 2.7561(13) 163.8(18) 2_654 
+O4 H4 N1  0.787(13) 2.045(14) 2.8291(14) 175(2) 1_556 
+C2 H2 Cg1 0.95 2.98 3.5872(14) 123 3_564
+C5 H5 Cg1 0.95 2.66 3.4531(14) 141 6
+
+  
+_diffrn_measured_fraction_theta_max    0.998 
+_diffrn_reflns_theta_full              27.00 
+_diffrn_measured_fraction_theta_full   0.998 
+_refine_diff_density_max    0.261 
+_refine_diff_density_min   -0.226 
+_refine_diff_density_rms    0.039
+
+loop_
+_iucr_refine_instructions_details
+
+TITL 1 in Cmc2(1)
+CELL 0.71073  23.8174  10.9141   7.4645  90.000  90.000  90.000
+ZERR    4.00   0.0004   0.0002   0.0001   0.000   0.000   0.000
+LATT -7
+SYMM -X, -Y, 0.5+Z
+SYMM X, -Y, 0.5+Z
+SYMM -X, Y, Z
+SFAC C  H  N  O  S  K
+UNIT 48  80  16  28  8  8
+OMIT 8 0 0
+OMIT -2 54
+L.S. 24
+BOND $H
+PLAN 4
+FMAP
+ACTA
+HTAB N1 O1_$1
+HTAB N2 N1_$2
+HTAB N2 O3_$3
+HTAB O3 N2_$4
+HTAB O3 O2_$5
+HTAB O4 N1_$6
+SIZE 0.100 0.270 0.330
+EQIV $1 x, -y+1, z-1/2
+EQIV $2 -x+1/2, -y+1/2, z+1/2
+EQIV $3 x-1/2, y+1/2, z
+EQIV $4 x+1/2, -y+1/2, z-1/2
+EQIV $5 -X+1, -Y, Z-1/2
+EQIV $6 x, y, z+1
+DFIX 0.84 O4 H4 O3 H3A O3 H3B
+DFIX 0.91 N2 H2A N2 H2B N1 H1
+TEMP -173
+WGHT    0.020100    1.037100
+FVAR       0.10134
+K1    6    0.500000    0.390210    0.599747    10.50000    0.01301    0.01830 =
+         0.01474   -0.00331    0.00000    0.00000
+K2    6    0.500000    0.054771    0.260649    10.50000    0.01360    0.01577 =
+         0.01391   -0.00172    0.00000    0.00000
+S1    5    0.404982    0.351917    0.254041    11.00000    0.01032    0.01235 =
+         0.01206    0.00013    0.00042   -0.00085
+O1    4    0.429255    0.470943    0.304265    11.00000    0.01440    0.01485 =
+         0.01679   -0.00221    0.00093   -0.00349
+O2    4    0.427076    0.251218    0.363864    11.00000    0.01336    0.01691 =
+         0.01876    0.00479   -0.00018    0.00091
+N1    3    0.411225    0.319154    0.054183    11.00000    0.01577    0.01609 =
+         0.01230   -0.00048    0.00238   -0.00023
+H1    2    0.405673    0.386914   -0.006675    11.00000   -1.20000
+N2    3    0.158055    0.380975    0.386211    11.00000    0.01184    0.01781 =
+         0.01478    0.00187    0.00042    0.00075
+H2A   2    0.142315    0.312106    0.430451    11.00000   -1.20000
+H2B   2    0.140196    0.405650    0.285265    11.00000   -1.20000
+C1    1    0.332561    0.363787    0.308156    11.00000    0.01126    0.01422 =
+         0.01178   -0.00268    0.00091   -0.00098
+C2    1    0.301747    0.461497    0.238638    11.00000    0.01631    0.01295 =
+         0.01200    0.00173    0.00195   -0.00146
+AFIX  43
+H2    2    0.320222    0.524315    0.173168    11.00000   -1.20000
+AFIX   0
+C3    1    0.244167    0.467050    0.264984    11.00000    0.01568    0.01228 =
+         0.01211    0.00081   -0.00043    0.00172
+AFIX  43
+H3    2    0.223423    0.534195    0.218310    11.00000   -1.20000
+AFIX   0
+C4    1    0.216362    0.374495    0.359816    11.00000    0.01206    0.01564 =
+         0.01025   -0.00285    0.00090   -0.00010
+C5    1    0.247730    0.279047    0.433460    11.00000    0.01605    0.01361 =
+         0.01358    0.00163    0.00165   -0.00195
+AFIX  43
+H5    2    0.229549    0.217511    0.502285    11.00000   -1.20000
+AFIX   0
+C6    1    0.305462    0.273421    0.406738    11.00000    0.01393    0.01339 =
+         0.01421    0.00162   -0.00070    0.00101
+AFIX  43
+H6    2    0.326451    0.207543    0.456075    11.00000   -1.20000
+AFIX   0
+O3    4    0.586051   -0.044519    0.071808    11.00000    0.01774    0.01553 =
+         0.01875   -0.00100    0.00329   -0.00091
+H3A   2    0.610299    0.001989    0.022672    11.00000   -1.50000
+H3B   2    0.588006   -0.110996    0.018689    11.00000   -1.50000
+O4    4    0.500000    0.189000    0.889258    10.50000    0.01353    0.02052 =
+         0.02795   -0.00973    0.00000    0.00000
+H4    2    0.474694    0.226669    0.928621    11.00000   -1.50000
+HKLF 4
+ 
+REM  1 in Cmc2(1)
+REM R1 =  0.0154 for   2149 Fo > 4sig(Fo)  and  0.0154 for all   2157 data
+REM    145 parameters refined using      7 restraints
+ 
+END  
+     
+WGHT      0.0200      1.0282 
+REM Highest difference peak  0.261,  deepest hole -0.226,  1-sigma level  0.039
+Q1    1   0.3648  0.3562  0.2689  11.00000  0.05    0.26
+Q2    1   0.2717  0.4645  0.2706  11.00000  0.05    0.23
+Q3    1   0.2300  0.4186  0.2915  11.00000  0.05    0.20
+Q4    1   0.2764  0.2752  0.4061  11.00000  0.05    0.18
+
+
+

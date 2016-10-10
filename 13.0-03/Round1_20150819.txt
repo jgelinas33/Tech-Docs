@@ -1,0 +1,4 @@
+Results Page - close instead of navigate back to referrer.
+Results page - error result needs to be formatted to other jquery windows
+Results page - leave page needs to be formatted to other jquery windows
+Results page - ajax call to send files for check - docID incorrect/null

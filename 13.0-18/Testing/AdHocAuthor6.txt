@@ -1,0 +1,2 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+;;UploadTest;AuthorSix;jgelinas@ariessys.com;true

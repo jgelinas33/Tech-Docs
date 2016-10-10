@@ -1,0 +1,4455 @@
+"Subject","Body","From: (Name)","From: (Address)","From: (Type)","To: (Name)","To: (Address)","To: (Type)","CC: (Name)","CC: (Address)","CC: (Type)","BCC: (Name)","BCC: (Address)","BCC: (Type)","Billing Information","Categories","Importance","Mileage","Sensitivity"
+"RE: Engineering handover - 13.0-03 CIF Checker","Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 	
+ <http://www.twitter.com/ariesmarketing>  Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX",,,,,,,,,"Normal",,"Normal"
+"RE: Engineering handover - 13.0-03 CIF Checker","Hi Jean,
+
+Can you let Bob know? He may need to adjust the engineering schedule. I can do the handover with Andrew, then redo one for you when you are back.
+
+Don’t think the spec will be ready for handover this week, unfortunately. I am still working on it, then it needs to go for management approval.
+
+Thanks - Caroline
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:07 AM
+To: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"FW: Engineering handover - 13.0-03 CIF Checker","Bob – fyi – taking the July 6th week with my daughter.  I can be available for a meeting if necessary.
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 	
+ <http://www.twitter.com/ariesmarketing>  Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+_____________________________________________
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:09 AM
+To: Jean Gelinas
+Cc: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Hi Jean,
+
+Can you let Bob know? He may need to adjust the engineering schedule. I can do the handover with Andrew, then redo one for you when you are back.
+
+Don’t think the spec will be ready for handover this week, unfortunately. I am still working on it, then it needs to go for management approval.
+
+Thanks - Caroline
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:07 AM
+To: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Bob Massicotte","/o=aries systems/ou=first administrative group/cn=recipients/cn=bmassicotte","EX",,,,,,,,,"Normal",,"Normal"
+"RE: Engineering handover - 13.0-03 CIF Checker","PS I don’t think the time off is marked on your personal calendar, which is what I use for scheduling…you might want to do this. When we have time off we usually mark on both the out of office common calendar and our own personal calendars. Let me know if you need help with this.
+
+Caroline
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:07 AM
+To: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"RE: Engineering handover - 13.0-03 CIF Checker","Make sure Andrew is available for the handoff
+
+
+
+Bob Massicotte
+Director of Engineering
+ 
+
+  Aries Systems Corporation
+200 Sutton Street • North Andover, MA • 01845 • USA
+(978) 975-7570 Main Office
+(978) 975-3811 Fax
+(978) 291-1913 Direct
+bmassicotte@ariessys.com
+ <http://www.editorialmanager.com/homepage/newsletterarchive.html>  	
+For the latest EM, PM, and industry news, subscribe
+to our e-newsletter and view archived issues here <http://www.editorialmanager.com/homepage/newsletterarchive.html> ! 
+	
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:10 AM
+To: Bob Massicotte
+Subject: FW: Engineering handover - 13.0-03 CIF Checker
+
+
+Bob – fyi – taking the July 6th week with my daughter.  I can be available for a meeting if necessary.
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+_____________________________________________
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:09 AM
+To: Jean Gelinas
+Cc: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Hi Jean,
+
+Can you let Bob know? He may need to adjust the engineering schedule. I can do the handover with Andrew, then redo one for you when you are back.
+
+Don’t think the spec will be ready for handover this week, unfortunately. I am still working on it, then it needs to go for management approval.
+
+Thanks - Caroline
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:07 AM
+To: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Bob Massicotte","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=BMASSICOTTE","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"FW: Engineering handover - 13.0-03 CIF Checker","Andrew,
+
+FYI – was planning on taking July 6 week off but can be available for a meeting (could we do a webex or something?).  Let me know…
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 	
+ <http://www.twitter.com/ariesmarketing>  Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+_____________________________________________
+From: Bob Massicotte 
+Sent: Monday, June 29, 2015 11:00 AM
+To: Jean Gelinas
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Make sure Andrew is available for the handoff
+
+
+
+Bob Massicotte
+Director of Engineering
+ 
+
+  Aries Systems Corporation
+200 Sutton Street • North Andover, MA • 01845 • USA
+(978) 975-7570 Main Office
+(978) 975-3811 Fax
+(978) 291-1913 Direct
+bmassicotte@ariessys.com
+ <http://www.editorialmanager.com/homepage/newsletterarchive.html>  	
+For the latest EM, PM, and industry news, subscribe
+to our e-newsletter and view archived issues here <http://www.editorialmanager.com/homepage/newsletterarchive.html> ! 
+	
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:10 AM
+To: Bob Massicotte
+Subject: FW: Engineering handover - 13.0-03 CIF Checker
+
+
+Bob – fyi – taking the July 6th week with my daughter.  I can be available for a meeting if necessary.
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+_____________________________________________
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:09 AM
+To: Jean Gelinas
+Cc: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Hi Jean,
+
+Can you let Bob know? He may need to adjust the engineering schedule. I can do the handover with Andrew, then redo one for you when you are back.
+
+Don’t think the spec will be ready for handover this week, unfortunately. I am still working on it, then it needs to go for management approval.
+
+Thanks - Caroline
+
+_____________________________________________
+From: Jean Gelinas 
+Sent: Monday, June 29, 2015 10:07 AM
+To: Caroline Webber
+Subject: RE: Engineering handover - 13.0-03 CIF Checker
+
+
+Caroline – I have this week off.  Can we do it  this Thursday (or Wednesday)?
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+www.editorialmanager.com	 << OLE Object: Picture (Device Independent Bitmap) >> 	
+ << OLE Object: Picture (Device Independent Bitmap) >>  <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+
+-----Original Appointment-----
+From: Caroline Webber 
+Sent: Monday, June 29, 2015 10:06 AM
+To: Andrew Pokrovski; Jean Gelinas; Bob Massicotte; Jennifer Fleet; Kristin Mahoney
+Cc: Tony Alves; Caroline Webber
+Subject: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Spec to follow. This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"Tentative: Engineering handover - 13.0-03 CIF Checker","Caroline,
+
+Can you set up a teleconference/webex or something like that so I don’t have to come into the office?  
+
+Thanks,
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX",,,,,,,,,,,,"Normal",,"Normal"
+"RE: Engineering handover - 13.0-03 CIF Checker","Yes, but if you are on vacation, you are not required to attend!! I am happy to redo it for you when you get back.
+Caroline
+
+-----Original Appointment-----
+From: Jean Gelinas 
+Sent: Thursday, July 02, 2015 10:31 AM
+To: Caroline Webber
+Subject: Tentative: Engineering handover - 13.0-03 CIF Checker
+When: Monday, July 06, 2015 1:30 PM-2:30 PM (UTC-05:00) Eastern Time (US & Canada).
+Where: _220 Sutton Back Conference Room
+
+
+Caroline,
+
+Can you set up a teleconference/webex or something like that so I don’t have to come into the office?  
+
+Thanks,
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"Engineering handover - 13.0-03 CIF Checker","This is an Aries sponsored spec incorporating use of the 3rd party tool “checkCIF” from the International Union of Crystollagraphy.
+
+Latest version of spec attached 
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski;Jean Gelinas;Bob Massicotte;Jennifer Fleet;Kristin Mahoney","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=bmassicotte;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=Jfleet1;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=Kmahoney","EX;EX;EX;EX;EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"13.0-03 Spec","Caroline,
+
+ 
+
+Perhaps I’m a bit confused but do section 2.3.4 (Details page layouts) and section 2.5 (Custom Details page) describe the same functionality?
+
+ 
+
+Thanks,
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Ann McLaughlin","/o=aries systems/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=arichards","EX",,,,,,"Normal",,"Normal"
+"tech spec activities","\\badger\public\Engineering\Technical Specifications\Cross_Spec_Collaboration\EnumsAndIDs.txt
+
+Make sure the asynch request type and new master config IDs go into that file as well.
+
+ 
+
+Initial tech design notes are located at:
+
+\\badger\public\Engineering\Technical Specifications\13.0\13.0-03 checkCIF API\initialtechdesignnotes.txt <file:///\\badger\public\Engineering\Technical%20Specifications\13.0\13.0-03%20checkCIF%20API\initialtechdesignnotes.txt> 
+
+ 
+
+Tech spec should probably go in the same folder.
+
+ 
+
+Template located at \\badger\public\Engineering\Technical Specifications\TechnicalSpecificationTemplate\TechSpecTemplate_10062012.docx <file:///\\badger\public\Engineering\Technical%20Specifications\TechnicalSpecificationTemplate\TechSpecTemplate_10062012.docx> , but it may be a good idea to maintain two different files and then merge at the end of the process.
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 questions","Hi Caroline
+
+ 
+
+A few so far:
+
+ 
+
+1.       What’s the plan regarding archiving the cif checker result files?
+
+2.       What should happen to a results file when the original file gets “deleted” by the user.
+
+3.       The “View checkCIF Results”  link logic (such as described in section 2.6) makes reference to “un-hidden” files. What user interface action(s) correspond to “hiding” a file?
+
+4.       What about site cleanout? (probably clean those files out too, but it should be spelled out in the spec)
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 questions"," 
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Thursday, July 16, 2015 2:34 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: 13.0-03 questions
+
+ 
+
+Hi Caroline
+
+ 
+
+A few so far:
+
+ 
+
+1.      What’s the plan regarding archiving the cif checker result files?
+
+Didn’t think about this... What do we do with Reference Checking marked up and cleaned-up Word files? Should probably do the same thing. My guess is archive it when the original file is archived.
+
+2.      What should happen to a results file when the original file gets “deleted” by the user.
+
+Whatever we do with reference checking marked up and cleaned up word files. Most likely delete.
+
+3.      The “View checkCIF Results”  link logic (such as described in section 2.6) makes reference to “un-hidden” files. What user interface action(s) correspond to “hiding” a file?
+
+File Inventory, Hide link next to Companion file, in Companion Files grid. Only Companion Files can be hidden. Goes into Hidden Companion Files grid. There is a screen shot of this in spec. Didn’t discuss replacing Companion file – when you click Replace link (also on File Inventory in Companion Files grid), you are uploading a new Companion file to replace the old one. Uploading the new companion file should trigger the checkCIF (if configured for the Item Type being uploaded). The replaced companion file goes into the Hidden Companion files grid. A Hidden file should retain its results PDF, because it can be restored using the ‘Restore’ link.
+
+4.      What about site cleanout? (probably clean those files out too, but it should be spelled out in the spec)
+
+5.      Clean out the results PDF when the original file is cleaned out,  check into what we do with Reference checking marked up and cleaned up Word files.
+
+ 
+
+ 
+
+Here is a screen shot of file Inventory showing the Hide and Restore links for Companion Files.
+
+ 
+
+
+
+ 
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"tech spec feedback","Looks good so far. Some changes:
+
+ 
+
+MASTER_CONFIG row 195 (Enable CIF Check) should be set to true initially.
+
+MASTER_CONFIG row 196 (CIF Check Trigger – Original PDF …) should be set to true initially.
+
+ 
+
+CIF_FILE_TRAFFIC_LOG doesn’t need a FILE_CATALOGUE_ID, it looks like the spec just calls for aggregating total traffic over the day.
+
+We do want both an UPLOAD_COUNT and a DOWNLOAD_COUNT column instead.
+
+We also want to create framework objects (probably in the [FWJ].CIFObjects namespace) to support this table, since we will be writing to it from .NET code.
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"RE: tech spec feedback","Let’s leave it. I’m pretty sure we don’t have to change anything there anyway.
+
+ 
+
+From: Jean Gelinas 
+Sent: Friday, July 17, 2015 9:40 AM
+To: Andrew Pokrovski
+Subject: RE: tech spec feedback
+
+ 
+
+OK.
+
+ 
+
+Also, looking at the Details page layout, items to display (SelectItemsToDisplay.aspx) – data gathering is hard-coded within the page and doesn’t use the framework.  Should this be changed or just leave it be?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Thursday, July 16, 2015 5:17 PM
+To: Jean Gelinas
+Subject: tech spec feedback
+
+ 
+
+Looks good so far. Some changes:
+
+ 
+
+MASTER_CONFIG row 195 (Enable CIF Check) should be set to true initially.
+
+MASTER_CONFIG row 196 (CIF Check Trigger – Original PDF …) should be set to true initially.
+
+ 
+
+CIF_FILE_TRAFFIC_LOG doesn’t need a FILE_CATALOGUE_ID, it looks like the spec just calls for aggregating total traffic over the day.
+
+We do want both an UPLOAD_COUNT and a DOWNLOAD_COUNT column instead.
+
+We also want to create framework objects (probably in the [FWJ].CIFObjects namespace) to support this table, since we will be writing to it from .NET code.
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 export/transmittal question","Hi Caroline
+
+ 
+
+Before I put a bunch of time into designing and implementing this, is there a requirement to write out metadata about the CIF result files in the various production task exports/transmittals?
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 export/transmittal question","I think that would be a future enhancement. The results files are not “submission files” or “Companion  Files” per se. 
+
+ 
+
+They should be incorporated into the transmitted zip files if selected, but I don’t think there is a requirement to change the XSLTs for the XML metadata files (JATS, NLM 3.0, etc).  However they should be listed in the go.xml file created for production task transmittals  as a <file-name> in since they are part of the zip file.
+
+ 
+
+I will clarify this in the spec.
+
+ 
+
+Thanks! - Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Friday, July 17, 2015 1:17 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: 13.0-03 export/transmittal question
+
+ 
+
+Hi Caroline
+
+ 
+
+Before I put a bunch of time into designing and implementing this, is there a requirement to write out metadata about the CIF result files in the various production task exports/transmittals?
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"13.0-03 2.10.1","Caroline,
+
+ 
+
+Is appearance of cif file results in the assignment files listing dependent on the cifcheck enabled configuration?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 2.10.1","Hi Jean,
+
+ 
+
+Sounds like you are talking about a use case where checkCIF was enabled for a journal (and results were obtained), and then the journal turned checkCIF off. I’d say this is an edge case, and if we have checkCIF PDFs, go ahead and display them.
+
+ 
+
+Thanks- Caroline
+
+ 
+
+From: Jean Gelinas 
+Sent: Tuesday, July 21, 2015 9:05 AM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 2.10.1
+
+ 
+
+Caroline,
+
+ 
+
+Is appearance of cif file results in the assignment files listing dependent on the cifcheck enabled configuration?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Andrew Pokrovski;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"13.0-03 spec","I’ve gone ahead and added all your notes to my spec file.  I’m going to go through and just indicate the related functional spec sections.
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 Section 2.13.3","Caroline,
+
+ 
+
+Where do you want the action link to be for the Search Submissions page?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 Section 2.13.3","Also kind of fuzzy on how this should look/work on the File Inventory page.
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+From: Jean Gelinas 
+Sent: Wednesday, July 22, 2015 2:14 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 Section 2.13.3
+
+ 
+
+Caroline,
+
+ 
+
+Where do you want the action link to be for the Search Submissions page?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 Section 2.13.3","Never mind!  Andrew pointed them out in the spec.
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+From: Jean Gelinas 
+Sent: Wednesday, July 22, 2015 2:14 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 Section 2.13.3
+
+ 
+
+Caroline,
+
+ 
+
+Where do you want the action link to be for the Search Submissions page?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"Tech Spec 2 updated","I put my changes into tech spec v2.  Was just wondering, you removed the capture of FILE_IS_CIF field from FILEVIEW_SUBMISSIONFILES, FILEVIEW_COMPANIONFILES and usp_SelectCompanionFileRecordsByRoleProdID.  Was this on purpose?  I’m thinking we will still need this …
+
+ 
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14121","You need to rework defects found in Review #14121: ""CIF_FILE_TRAFFIC_LOG"".
+Created: Mon Jul 27 13:18:47 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-29
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21495	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: The DBAs complain when we invoke stored procedures without specifying the owner. In our case, the owner is always ""dbo."", so add a dbo. prefix to the stored proc name.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14121>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14121","Andrew Pokrovski has commented in Review #14121: ""CIF_FILE_TRAFFIC_LOG"".  You will need to read the comments and respond if appropriate.
+Created: Mon Jul 27 13:18:47 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-29
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21495	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: The DBAs complain when we invoke stored procedures without specifying the owner. In our case, the owner is always ""dbo."", so add a dbo. prefix to the stored proc name.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14121>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14121","You need to rework defects found in Review #14121: ""CIF_FILE_TRAFFIC_LOG"".
+Created: Mon Jul 27 13:18:47 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-29
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21495	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: The DBAs complain when we invoke stored procedures without specifying the owner. In our case, the owner is always ""dbo."", so add a dbo. prefix to the stored proc name.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14121>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14128","You need to rework defects found in Review #14128: ""13.0-13: Permission Items"".
+Created: Tue Jul 28 10:05:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-30
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 2 Open; 0 Fixed; 0 External.
+21496	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Default constraints need to be explicitly named, otherwise they are incredibly difficult to change/delete later on (due to the randomly generated name). Same goes for all the other default constraints created in this file.
+21497	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: It appears you're missing the update and insert stored procs for authors and editors, select for authors.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14128>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14128","Andrew Pokrovski has commented in Review #14128: ""13.0-13: Permission Items"".  You will need to read the comments and respond if appropriate.
+Created: Tue Jul 28 10:05:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-30
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21496	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Default constraints need to be explicitly named, otherwise they are incredibly difficult to change/delete later on (due to the randomly generated name). Same goes for all the other default constraints created in this file.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14128>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Configuration","Also have done the following (mistakenly did yesterday).
+
+ 
+
+CheckCIFSettings.cs
+
+ConfigItemEnum.cs changes
+
+CustomInstructionGroupType.cs changes
+
+CustomInstructionObjecttype.cs changes
+
+HTMLUtilityCIFCheck.cs changes related to exposing CheckCIFSettings stuff.
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14129","Review #14129: ""13.0-03:  Configuration Data Items"" is complete.
+You can now commit these changes to version control.
+Created: Tue Jul 28 11:42:41 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-30
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14129>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14128","Review #14128: ""13.0-13: Permission Items"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Tue Jul 28 10:05:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-30
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 0 Open; 2 Fixed; 0 External.
+21496	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Default constraints need to be explicitly named, otherwise they are incredibly difficult to change/delete later on (due to the randomly generated name). Same goes for all the other default constraints created in this file.
+21497	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: It appears you're missing the update and insert stored procs for authors and editors, select for authors.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14128>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14121","Review #14121: ""CIF_FILE_TRAFFIC_LOG"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Mon Jul 27 13:18:47 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-29 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21495	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: The DBAs complain when we invoke stored procedures without specifying the owner. In our case, the owner is always ""dbo."", so add a dbo. prefix to the stored proc name.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14121>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14131","Review #14131: ""13.0-03:  Configuration Data Items"" is complete.
+You can now commit these changes to version control.
+Created: Tue Jul 28 13:07:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-07-30
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14131>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Role Mgr Pages","Need to check for the CIF enabled setting for the journal before I show roles the view cif results and/or initiate check results settings boxes.  You are putting the settings in the CIFManager?  How so?
+
+ 
+
+Thanks,
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"RE: Role Mgr Pages","You’ll be able to access it directly from the CIFConfig object.  EMPage has a RetrieveConfigItem method you can use to get the CIFConfig object. I’ll promote what I have now so you can use it.
+
+ 
+
+From: Jean Gelinas 
+Sent: Tuesday, July 28, 2015 1:55 PM
+To: Andrew Pokrovski
+Subject: Role Mgr Pages
+
+ 
+
+Need to check for the CIF enabled setting for the journal before I show roles the view cif results and/or initiate check results settings boxes.  You are putting the settings in the CIFManager?  How so?
+
+ 
+
+Thanks,
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"CIFConfig Facade","Need to use the HTMLUtilityCIFCheck.cs for the role manager pages – expect this will expose CIFConfig.cs?  Are you working on this?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 questions","First, can you acquire credentials for the CIF checker utility soon?
+
+ 
+
+Also few more questions have come up:
+
+ 
+
+1)      Do we still want to send (correctly configured) companion files uploaded for schedule groups to the CIF checker? If so, there’s not currently a mechanism to display those. The lowest-impact way is probably to add a “CIF Results” link to a schedule group grid and re-use the CIF results page that will be developed for submissions.
+
+2)      In section 2.3.1.1, there is one set of customizable CIF check instructions (to be displayed on the CIF Results page), but the default instructions are different for the author/reviewer and editor/publisher versions of the CIF results page. Do we want to have two different customizable instructions instead, or consolidate?
+
+3)      What do we want the text for the “%CHECKCIF_RESULTS_PDF% link to be?
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"Credentials and sample cifs for 13.0-03","Please see below for credentials. I will ask for more sample CIFs.
+
+ 
+
+Caroline
+
+ 
+
+From: Mike Hoyland [mailto:mh@iucr.org] 
+Sent: Friday, February 13, 2015 10:30 AM
+To: Caroline Webber
+Cc: Rob Muhlig; mh@iucr.org
+Subject: Re: CIF crystallography checker
+
+ 
+
+Dear Caroline,
+
+ 
+
+Please accept our apologies for not realising that the correct documentation hadn't been passed onto you. 
+
+ 
+
+The documentation may be found at:
+
+http://publcif.co.uk/checkcif.html
+
+ 
+
+The documentation notes a userid and password as part of the specification. For 
+
+testing purposes your may use the following:
+
+userid=AriesTest
+
+passcode=Aries123
+
+ 
+
+I have attached two example CIF files (one quick, one more complex and slower to run). I have also attached an output PDF file for each.
+
+ 
+
+We look forward to working with you over the coming months.
+
+ 
+
+With best wishes,
+
+Mike
+
+ 
+
+Mike Hoyland
+
+Systems Developer
+
+IUCr, Chester
+
+===================================================
+
+ 
+
+On Friday 13 Feb 2015 09:45:25 you wrote:
+
+> Mike -
+
+> 
+
+> Thanks for getting everyone organized on your end.
+
+> 
+
+> I've copied Caroline Webber on this email so that you both have each others'
+
+> addresses.
+
+> 
+
+> Looking forward to working with you guys!
+
+> 
+
+> TONY ALVES
+
+> Director of Product Management
+
+> Editorial Manager,
+
+> http://www.edmgr.com<https://mercury.ariessys.com/owa/UrlBlockedError.aspx <http://www.edmgr.com%3chttps:/mercury.ariessys.com/owa/UrlBlockedError.aspx> >
+
+> Aries Systems Corp.,
+
+> http://www.ariessys.com<https://mercury.ariessys.com/owa/UrlBlockedError.as <http://www.ariessys.com%3chttps:/mercury.ariessys.com/owa/UrlBlockedError.as> 
+
+> px> 200 Sutton Street
+
+> North Andover, MA 01845
+
+> Phone: 978-975-7570, ext. 205
+
+> Fax: 978-975-3811
+
+> talves@edmgr.com<mailto:talves@edmgr.com <mailto:talves@edmgr.com%3cmailto:talves@edmgr.com> >
+
+> 
+
+> 
+
+> 200 Sutton Street â€¢ North Andover, MA â€¢ 01845 â€¢ USA
+
+> 
+
+> <http://www.editorialmanager.com/homepage/newsletterarchive.html>
+
+> 
+
+> 
+
+> For the latest EM, PM, and industry news, subscribe
+
+> to our e-newsl
+
+> 
+
+> 
+
+> ________________________________
+
+> From: Mike Hoyland [mh@iucr.org]
+
+> Sent: Friday, February 13, 2015 6:15 AM
+
+> To: Tony Alves
+
+> Cc: mh@iucr.org
+
+> Subject: Re: RE: RE: CIF crystallography checker
+
+> 
+
+> 
+
+> Dear Tony,
+
+> 
+
+> 
+
+> 
+
+> An update to who will be present at this end of the call today.
+
+> 
+
+> 
+
+> 
+
+> Peter Strickland (Managing Editor)
+
+> 
+
+> Mike Hoyland (Systems Developer)
+
+> 
+
+> Jonathan Agbenyega (Business Development Manager)
+
+> 
+
+> Simon Westrip (Systems Developer)
+
+> 
+
+> 
+
+> 
+
+> With best wishes,
+
+> 
+
+> Mike Hoyland
+
+> 
+
+> On Wednesday 11 Feb 2015 11:43:23 you wrote:
+
+> > Hello Mike,
+
+> > 
+
+> > 
+
+> > 
+
+> > Our agenda is to explore integration and understand your API. We will have
+
+> > 
+
+> > Ariesâ€™ Director of Engineering on the call, as well as one of his lead
+
+> > 
+
+> > engineers and one of my Business Systems Analysts. They will likely have
+
+> > 
+
+> > some questions that can be addressed in the meeting.
+
+> > 
+
+> > I have a WebEx set up, just in case we need to see some sort of
+
+> > 
+
+> > demonstration, or give one.
+
+> > 
+
+> > Talk to you on Friday!
+
+> > 
+
+> > 
+
+> > 
+
+> > TONY ALVES
+
+> > 
+
+> > Aries Systems Corporation
+
+> > 
+
+> > Director, Product Management
+
+> > 
+
+> > Tel: 978-975-7570 x1205
+
+> > 
+
+> > Fax: 978-975-3811
+
+> > 
+
+> > ORCiD.org/0000-0001-7054-1732
+
+> > 
+
+> > talves@edmgr.com<mailto:talves@edmgr.com <mailto:talves@edmgr.com%3cmailto:talves@edmgr.com> >
+
+> > 
+
+> > www.editorialmanager.com<http://www.editorialmanager.com/ <http://www.editorialmanager.com%3chttp:/www.editorialmanager.com/> >
+
+ 
+
+-----------------------------------------
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: CIF crystallography checker","Hi Mike,
+
+ 
+
+We are in the coding stage now! We will be sending some tests using the credentials you gave us below.
+
+ 
+
+Would it be possible to get some more sample cif files?
+
+ 
+
+Also, just following up on whether you have a graphic that you want us to use. Can you let us know if there is one and when we can expect it?
+
+ 
+
+I have added our 2 coding engineers to the email string.
+
+ 
+
+Thanks!
+
+ 
+
+Caroline
+
+ 
+
+From: Mike Hoyland [mailto:mh@iucr.org] 
+Sent: Friday, February 13, 2015 10:30 AM
+To: Caroline Webber
+Cc: Rob Muhlig; mh@iucr.org
+Subject: Re: CIF crystallography checker
+
+ 
+
+Dear Caroline,
+
+ 
+
+Please accept our apologies for not realising that the correct documentation hadn't been passed onto you. 
+
+ 
+
+The documentation may be found at:
+
+http://publcif.co.uk/checkcif.html
+
+ 
+
+The documentation notes a userid and password as part of the specification. For 
+
+testing purposes your may use the following:
+
+userid=AriesTest
+
+passcode=Aries123
+
+ 
+
+I have attached two example CIF files (one quick, one more complex and slower to run). I have also attached an output PDF file for each.
+
+ 
+
+We look forward to working with you over the coming months.
+
+ 
+
+With best wishes,
+
+Mike
+
+ 
+
+Mike Hoyland
+
+Systems Developer
+
+IUCr, Chester
+
+===================================================
+
+ 
+
+On Friday 13 Feb 2015 09:45:25 you wrote:
+
+> Mike -
+
+> 
+
+> Thanks for getting everyone organized on your end.
+
+> 
+
+> I've copied Caroline Webber on this email so that you both have each others'
+
+> addresses.
+
+> 
+
+> Looking forward to working with you guys!
+
+> 
+
+> TONY ALVES
+
+> Director of Product Management
+
+> Editorial Manager,
+
+> http://www.edmgr.com<https://mercury.ariessys.com/owa/UrlBlockedError.aspx <http://www.edmgr.com%3chttps:/mercury.ariessys.com/owa/UrlBlockedError.aspx> >
+
+> Aries Systems Corp.,
+
+> http://www.ariessys.com<https://mercury.ariessys.com/owa/UrlBlockedError.as <http://www.ariessys.com%3chttps:/mercury.ariessys.com/owa/UrlBlockedError.as> 
+
+> px> 200 Sutton Street
+
+> North Andover, MA 01845
+
+> Phone: 978-975-7570, ext. 205
+
+> Fax: 978-975-3811
+
+> talves@edmgr.com<mailto:talves@edmgr.com <mailto:talves@edmgr.com%3cmailto:talves@edmgr.com> >
+
+> 
+
+> 
+
+> 200 Sutton Street â€¢ North Andover, MA â€¢ 01845 â€¢ USA
+
+> 
+
+> <http://www.editorialmanager.com/homepage/newsletterarchive.html>
+
+> 
+
+> 
+
+> For the latest EM, PM, and industry news, subscribe
+
+> to our e-newsl
+
+> 
+
+> 
+
+> ________________________________
+
+> From: Mike Hoyland [mh@iucr.org]
+
+> Sent: Friday, February 13, 2015 6:15 AM
+
+> To: Tony Alves
+
+> Cc: mh@iucr.org
+
+> Subject: Re: RE: RE: CIF crystallography checker
+
+> 
+
+> 
+
+> Dear Tony,
+
+> 
+
+> 
+
+> 
+
+> An update to who will be present at this end of the call today.
+
+> 
+
+> 
+
+> 
+
+> Peter Strickland (Managing Editor)
+
+> 
+
+> Mike Hoyland (Systems Developer)
+
+> 
+
+> Jonathan Agbenyega (Business Development Manager)
+
+> 
+
+> Simon Westrip (Systems Developer)
+
+> 
+
+> 
+
+> 
+
+> With best wishes,
+
+> 
+
+> Mike Hoyland
+
+> 
+
+> On Wednesday 11 Feb 2015 11:43:23 you wrote:
+
+> > Hello Mike,
+
+> > 
+
+> > 
+
+> > 
+
+> > Our agenda is to explore integration and understand your API. We will have
+
+> > 
+
+> > Ariesâ€™ Director of Engineering on the call, as well as one of his lead
+
+> > 
+
+> > engineers and one of my Business Systems Analysts. They will likely have
+
+> > 
+
+> > some questions that can be addressed in the meeting.
+
+> > 
+
+> > I have a WebEx set up, just in case we need to see some sort of
+
+> > 
+
+> > demonstration, or give one.
+
+> > 
+
+> > Talk to you on Friday!
+
+> > 
+
+> > 
+
+> > 
+
+> > TONY ALVES
+
+> > 
+
+> > Aries Systems Corporation
+
+> > 
+
+> > Director, Product Management
+
+> > 
+
+> > Tel: 978-975-7570 x1205
+
+> > 
+
+> > Fax: 978-975-3811
+
+> > 
+
+> > ORCiD.org/0000-0001-7054-1732
+
+> > 
+
+> > talves@edmgr.com<mailto:talves@edmgr.com <mailto:talves@edmgr.com%3cmailto:talves@edmgr.com> >
+
+> > 
+
+> > www.editorialmanager.com<http://www.editorialmanager.com/ <http://www.editorialmanager.com%3chttp:/www.editorialmanager.com/> >
+
+ 
+
+-----------------------------------------
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Mike Hoyland","mh@iucr.org","SMTP","Rob Muhlig;Andrew Pokrovski;Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=rmuhlig;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX;EX;EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 questions","Hi Andrew,
+
+ 
+
+See my comments below.
+
+ 
+
+Thanks! Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Wednesday, July 29, 2015 12:29 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: 13.0-03 questions
+
+ 
+
+First, can you acquire credentials for the CIF checker utility soon?
+
+Sent these in a separate email.
+
+ 
+
+Also few more questions have come up:
+
+ 
+
+1)      Do we still want to send (correctly configured) companion files uploaded for schedule groups to the CIF checker? If so, there’s not currently a mechanism to display those. The lowest-impact way is probably to add a “CIF Results” link to a schedule group grid and re-use the CIF results page that will be developed for submissions.
+
+CW: This was a spec oversight. In addition to adding the results files to submission File Inventory, I meant to add them to Schedule Group File Inventory. ScheduleGroupFIleInventory.aspx. Is this possible? 
+
+ 
+
+They *are* currently spec’ed to be included on Schedule Group Production Task Assignment page – but this is one of the pages we are dropping, right?
+
+2)      In section 2.3.1.1, there is one set of customizable CIF check instructions (to be displayed on the CIF Results page), but the default instructions are different for the author/reviewer and editor/publisher versions of the CIF results page. Do we want to have two different customizable instructions instead, or consolidate?
+
+Whatever is easier to code. You are right, 2 sets of custom instructions is better, but I don’t think we have to have it.
+
+ 
+
+3)      What do we want the text for the “%CHECKCIF_RESULTS_PDF% link to be?
+
+View checkCIF Results PDF . This is populated in an HTML letter only, right? Otherwise they see the url, I think.
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 questions","Also few more questions have come up:
+
+ 
+
+1)      Do we still want to send (correctly configured) companion files uploaded for schedule groups to the CIF checker? If so, there’s not currently a mechanism to display those. The lowest-impact way is probably to add a “CIF Results” link to a schedule group grid and re-use the CIF results page that will be developed for submissions.
+
+CW: This was a spec oversight. In addition to adding the results files to submission File Inventory, I meant to add them to Schedule Group File Inventory. ScheduleGroupFIleInventory.aspx. Is this possible? 
+
+ 
+
+They *are* currently spec’ed to be included on Schedule Group Production Task Assignment page – but this is one of the pages we are dropping, right?
+
+ 
+
+That’s correct, we’re dropping that page. We can add a results link to the schedule group file inventory without any problems.
+
+2)      In section 2.3.1.1, there is one set of customizable CIF check instructions (to be displayed on the CIF Results page), but the default instructions are different for the author/reviewer and editor/publisher versions of the CIF results page. Do we want to have two different customizable instructions instead, or consolidate?
+
+Whatever is easier to code. You are right, 2 sets of custom instructions is better, but I don’t think we have to have it.
+
+ 
+
+There’s no significant extra time involved in doing two sets of instructions, so we can do that.
+
+ 
+
+What do we want the text for the “%CHECKCIF_RESULTS_PDF% link to be?
+
+View checkCIF Results PDF . This is populated in an HTML letter only, right? Otherwise they see the url, I think.
+
+Works for me.
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14142","Andrew Pokrovski has commented in Review #14142: ""13.0-03: Role Manager Config Pages"".  You will need to read the comments and respond if appropriate.
+Created: Thu Jul 30 09:08:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-01
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21499	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why bother passing ""this"" to this method? Since the method is part of the same class, can't you just reference it inside the method?
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14142>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14142","You need to rework defects found in Review #14142: ""13.0-03: Role Manager Config Pages"".
+Created: Thu Jul 30 09:08:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-01
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 3 Open; 0 Fixed; 0 External.
+21499	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why bother passing ""this"" to this method? Since the method is part of the same class, can't you just reference it inside the method?
+21500	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: This looks a little weird, and probably won't compile.
+21501	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Reinvention of Wheel
+	Description: There is already have a CIF_CHECK_ENABLED constant at the bottom of the file.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14142>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"RE: 13.0-03 test journal name","Hi Andrew,
+
+ 
+
+I am pretty sure we talked about “Aries”. Seems like it should be something more like “Aries Test Journal”. Why don’t we go with Aries Test Journal for now.
+
+ 
+
+I am going to be working on cleaning up this spec to make it ready for Round 1 testing today.
+
+ 
+
+Let me know when we are ready for the over the shoulder.
+
+ 
+
+Thanks!
+
+ 
+
+Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Thursday, July 30, 2015 3:25 PM
+To: Caroline Webber
+Subject: 13.0-03 test journal name
+
+ 
+
+What journal name are we supposed to be using for our testing when submitting test files to the cif checker utility? I remember there was supposed to be one, but I can’t find it in the spec or any of our emails.
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 test journal name","This was actually in the spec, in the Overview section, as “Aries”. But I think “Aries Test Journal” is better.
+
+ 
+
+From: Caroline Webber 
+Sent: Friday, July 31, 2015 9:48 AM
+To: Andrew Pokrovski
+Cc: Jean Gelinas; Caroline Webber
+Subject: RE: 13.0-03 test journal name
+
+ 
+
+Hi Andrew,
+
+ 
+
+I am pretty sure we talked about “Aries”. Seems like it should be something more like “Aries Test Journal”. Why don’t we go with Aries Test Journal for now.
+
+ 
+
+I am going to be working on cleaning up this spec to make it ready for Round 1 testing today.
+
+ 
+
+Let me know when we are ready for the over the shoulder.
+
+ 
+
+Thanks!
+
+ 
+
+Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Thursday, July 30, 2015 3:25 PM
+To: Caroline Webber
+Subject: 13.0-03 test journal name
+
+ 
+
+What journal name are we supposed to be using for our testing when submitting test files to the cif checker utility? I remember there was supposed to be one, but I can’t find it in the spec or any of our emails.
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"Adding checkCIF results link to the SG file inventory page","Hi Andrew/Jean,
+
+ 
+
+I am updating 13.0-03 for the oversight that Andrew caught – we need to have the checkCIF Results link appear on the Schedule Group file inventory page. However, I realize the actual results popup will need to be slightly different when reached in this way. For example, currently in the spec the checkCIF Results page header shows the MS # and the article title. The page header, the grid names and even the database table where the files are pulled from will need to be adjusted for Schedule Group Companion files.
+
+ 
+
+Let me know if you need this design today.
+
+
+Thanks!
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com <mailto:cwebber@ariessys.com> 
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: Adding checkCIF results link to the SG file inventory page","It’s not necessary to update the design today, we have plenty of other stuff to work on.
+
+ 
+
+From: Caroline Webber 
+Sent: Friday, July 31, 2015 11:45 AM
+To: Andrew Pokrovski
+Cc: Jean Gelinas; Caroline Webber
+Subject: Adding checkCIF results link to the SG file inventory page
+
+ 
+
+Hi Andrew/Jean,
+
+ 
+
+I am updating 13.0-03 for the oversight that Andrew caught – we need to have the checkCIF Results link appear on the Schedule Group file inventory page. However, I realize the actual results popup will need to be slightly different when reached in this way. For example, currently in the spec the checkCIF Results page header shows the MS # and the article title. The page header, the grid names and even the database table where the files are pulled from will need to be adjusted for Schedule Group Companion files.
+
+ 
+
+Let me know if you need this design today.
+
+
+Thanks!
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14142","Andrew Pokrovski has commented in Review #14142: ""13.0-03: Role Manager Config Pages"".  You will need to read the comments and respond if appropriate.
+Created: Thu Jul 30 09:08:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-01 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 3 Open; 0 Fixed; 0 External.
+21499	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why bother passing ""this"" to this method? Since the method is part of the same class, can't you just reference it inside the method?
+21500	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: This looks a little weird, and probably won't compile.
+21501	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Reinvention of Wheel
+	Description: There is already have a CIF_CHECK_ENABLED constant at the bottom of the file.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14142>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14142","Review #14142: ""13.0-03: Role Manager Config Pages"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Thu Jul 30 09:08:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-01 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 0 Open; 2 Fixed; 0 External.
+21500	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: This looks a little weird, and probably won't compile.
+21501	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Reinvention of Wheel
+	Description: There is already have a CIF_CHECK_ENABLED constant at the bottom of the file.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14142>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Spec error in 13.0-03","Hi Guys,
+
+ 
+
+I am revising 13.0-03 to cut scope and finalize the use cases, and I realized there is an inconsistency in the spec regarding the instructions on the checkCIF Results page. 
+
+ 
+
+I realized that I provided default instructions on the configuration page but added additional instructions on the results page. Instead, the results page should reflect either 1) the default instructions (if they were not customized on the Configure checkCIF page) or 2) the customized instructions if they were customized on that configuration page.
+
+ 
+
+There is no need for a (more…) link.
+
+ 
+
+I will correct this in the next version of the spec which I hope to pass to you early this week.
+
+ 
+
+Please let me know if the tech spec is ready and when you want to try to have the over the shoulder review.
+
+ 
+
+Thanks!
+
+ 
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com <mailto:cwebber@ariessys.com> 
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski;Jean Gelinas","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX;EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"Jquery warning boxes","Here are 2 pages that have jquery boxes and red warning triangles: 
+
+ 
+
+You can start with Mark Kane to talk about this.
+
+ 
+
+MsFundingInformation.aspx
+
+ 
+
+ 
+
+MsAuthorsOverview.aspx
+
+ 
+
+The yellow warning triangle is in the EM mobile application. Bill Penney is a good person to ask about this.
+
+ 
+
+ 
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com <mailto:cwebber@ariessys.com> 
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Andrew Pokrovski;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14162","Andrew Pokrovski has commented in Review #14162: ""13.0-03: checkCIF config page"".  You will need to read the comments and respond if appropriate.
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21507	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14162","You need to rework defects found in Review #14162: ""13.0-03: checkCIF config page"".
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 3 Open; 0 Fixed; 0 External.
+21507	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+21508	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: All methods need ///<summary> comments.
+21509	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: You will want to record the transaction in the admin audit trail.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14162","Andrew Pokrovski has commented in Review #14162: ""13.0-03: checkCIF config page"".  You will need to read the comments and respond if appropriate.
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 3 Open; 0 Fixed; 0 External.
+21507	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+21508	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: All methods need ///<summary> comments.
+21509	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: You will want to record the transaction in the admin audit trail.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14162","You need to rework defects found in Review #14162: ""13.0-03: checkCIF config page"".
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 2 Open; 1 Fixed; 0 External.
+21507	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+21508	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: All methods need ///<summary> comments.
+21509	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: You will want to record the transaction in the admin audit trail.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Link to checkCIF results in PDF","HI Andrew/Jean,
+
+ 
+
+How are we going to code the link to the checkCIF results PDF that appears within the EM PDF? I’m thinking there may be an issue because the EM PDF may be built before the results PDF has been returned from the checkCIF tool. We can build the link to the .cif file itself, but having a separate link for the results PDF is where I am thinking we may have an issue.
+
+ 
+
+For Reference Checking, we build a link to the Reference Checking Results page into the PDF, and when the user clicks the link they are directed to the Reference Checking Results page within EM, which displays a message if the RC results are not yet available. If the results are available, they are displayed on the page. We do not provide a link to the marked-up and cleaned-up Word files from the EM PDF.
+
+ 
+
+I’m think we may need to build the checkCIF results link for a specific file in a similar way. Have the link direct to an EM page behind the scenes - when the user clicks the link, the EM page determines whether the results PDF is actually available or not. If it is available, it downloads. If it is not available, the user receives an EM page that lets them know that the results PDF is not yet available.
+
+ 
+
+Have you guys gotten to this part of the spec yet?
+
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com <mailto:cwebber@ariessys.com> 
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: Link to checkCIF results in PDF","Well, we can always not put the link in if the results file doesn’t exist. There may be a very long interval between pdf build and the cif check if the journal has (for example) notify author configured as the only CIF Check trigger point.
+
+ 
+
+Andrew
+
+ 
+
+From: Caroline Webber 
+Sent: Tuesday, August 04, 2015 1:17 PM
+To: Andrew Pokrovski
+Cc: Jean Gelinas; Caroline Webber
+Subject: Link to checkCIF results in PDF
+
+ 
+
+HI Andrew/Jean,
+
+ 
+
+How are we going to code the link to the checkCIF results PDF that appears within the EM PDF? I’m thinking there may be an issue because the EM PDF may be built before the results PDF has been returned from the checkCIF tool. We can build the link to the .cif file itself, but having a separate link for the results PDF is where I am thinking we may have an issue.
+
+ 
+
+For Reference Checking, we build a link to the Reference Checking Results page into the PDF, and when the user clicks the link they are directed to the Reference Checking Results page within EM, which displays a message if the RC results are not yet available. If the results are available, they are displayed on the page. We do not provide a link to the marked-up and cleaned-up Word files from the EM PDF.
+
+ 
+
+I’m think we may need to build the checkCIF results link for a specific file in a similar way. Have the link direct to an EM page behind the scenes - when the user clicks the link, the EM page determines whether the results PDF is actually available or not. If it is available, it downloads. If it is not available, the user receives an EM page that lets them know that the results PDF is not yet available.
+
+ 
+
+Have you guys gotten to this part of the spec yet?
+
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"RE: Link to checkCIF results in PDF","It is better to put the link in, but we need to check the rules we use to determine when to put in the View Reference Checking Results link. For example, if the file has not yet reached a workflow trigger point when the PDF is being built, then the Results PDF link shouldn’t be in there either, even though the file itself is in there. This would mimic what would happen with a Word file that is built into the original PDF but not configured to go to the RC tool until Revision.  If the file is configured to go to the tool when the PDF is being built, my guess is especially for the Reviewer PDF, the results file will exist by the time the reviewer clicks on it. However, it is possible that it won’t exist right after the Author builds it, if the Author goes back into the PDF and clicks on it.
+
+ 
+
+Let’s check out the logic we use for Reference Checking…
+
+ 
+
+Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Tuesday, August 04, 2015 1:23 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: RE: Link to checkCIF results in PDF
+
+ 
+
+Well, we can always not put the link in if the results file doesn’t exist. There may be a very long interval between pdf build and the cif check if the journal has (for example) notify author configured as the only CIF Check trigger point.
+
+ 
+
+Andrew
+
+ 
+
+From: Caroline Webber 
+Sent: Tuesday, August 04, 2015 1:17 PM
+To: Andrew Pokrovski
+Cc: Jean Gelinas; Caroline Webber
+Subject: Link to checkCIF results in PDF
+
+ 
+
+HI Andrew/Jean,
+
+ 
+
+How are we going to code the link to the checkCIF results PDF that appears within the EM PDF? I’m thinking there may be an issue because the EM PDF may be built before the results PDF has been returned from the checkCIF tool. We can build the link to the .cif file itself, but having a separate link for the results PDF is where I am thinking we may have an issue.
+
+ 
+
+For Reference Checking, we build a link to the Reference Checking Results page into the PDF, and when the user clicks the link they are directed to the Reference Checking Results page within EM, which displays a message if the RC results are not yet available. If the results are available, they are displayed on the page. We do not provide a link to the marked-up and cleaned-up Word files from the EM PDF.
+
+ 
+
+I’m think we may need to build the checkCIF results link for a specific file in a similar way. Have the link direct to an EM page behind the scenes - when the user clicks the link, the EM page determines whether the results PDF is actually available or not. If it is available, it downloads. If it is not available, the user receives an EM page that lets them know that the results PDF is not yet available.
+
+ 
+
+Have you guys gotten to this part of the spec yet?
+
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: Link to checkCIF results in PDF","I guess I did cover this in the spec already J.
+
+ 
+
+I am eliminating discrepancies for the default instructions for the results page. I had about 3 different versions of them. Since they are tokenized, we can just change the default English for the token when I pass you the latest version of the spec. If you need them earlier, let me know.
+
+ 
+
+FYI I am off Monday through Thurs next week; in on Friday of next week.
+
+ 
+
+Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Tuesday, August 04, 2015 1:23 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: RE: Link to checkCIF results in PDF
+
+ 
+
+Well, we can always not put the link in if the results file doesn’t exist. There may be a very long interval between pdf build and the cif check if the journal has (for example) notify author configured as the only CIF Check trigger point.
+
+ 
+
+Andrew
+
+ 
+
+From: Caroline Webber 
+Sent: Tuesday, August 04, 2015 1:17 PM
+To: Andrew Pokrovski
+Cc: Jean Gelinas; Caroline Webber
+Subject: Link to checkCIF results in PDF
+
+ 
+
+HI Andrew/Jean,
+
+ 
+
+How are we going to code the link to the checkCIF results PDF that appears within the EM PDF? I’m thinking there may be an issue because the EM PDF may be built before the results PDF has been returned from the checkCIF tool. We can build the link to the .cif file itself, but having a separate link for the results PDF is where I am thinking we may have an issue.
+
+ 
+
+For Reference Checking, we build a link to the Reference Checking Results page into the PDF, and when the user clicks the link they are directed to the Reference Checking Results page within EM, which displays a message if the RC results are not yet available. If the results are available, they are displayed on the page. We do not provide a link to the marked-up and cleaned-up Word files from the EM PDF.
+
+ 
+
+I’m think we may need to build the checkCIF results link for a specific file in a similar way. Have the link direct to an EM page behind the scenes - when the user clicks the link, the EM page determines whether the results PDF is actually available or not. If it is available, it downloads. If it is not available, the user receives an EM page that lets them know that the results PDF is not yet available.
+
+ 
+
+Have you guys gotten to this part of the spec yet?
+
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14162","Andrew Pokrovski has commented in Review #14162: ""13.0-03: checkCIF config page"".  You will need to read the comments and respond if appropriate.
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 1 Open; 2 Fixed; 0 External.
+21507	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+21508	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: All methods need ///<summary> comments.
+21509	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: You will want to record the transaction in the admin audit trail.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14162","Review #14162: ""13.0-03: checkCIF config page"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Tue Aug 04 10:24:38 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-06
+Workflow: Aries Code Review
+Defect Log: 3 Total Defects: 0 Open; 3 Fixed; 0 External.
+21507	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs standard class comment (description goes here rather than in the header).
+21508	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: All methods need ///<summary> comments.
+21509	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Code Omission
+	Description: You will want to record the transaction in the admin audit trail.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14162>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Promotion Dependency","I’ve got a dependency on my issues against 27075.  Can that issue be promoted?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"
+"RE: Promotion Dependency","Not yet, it’s still in code review.
+
+ 
+
+From: Jean Gelinas 
+Sent: Wednesday, August 05, 2015 7:58 AM
+To: Andrew Pokrovski
+Subject: Promotion Dependency
+
+ 
+
+I’ve got a dependency on my issues against 27075.  Can that issue be promoted?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03, section 2.3.2","Caroline,
+
+ 
+
+Working on the submission item type edit page and can’t see anything in the spec (section 2.3.2), that indicates what should happen when the ‘file is cif’ checkbox is already checked and saved and the pdf handling item is changed and/or the external resource status is changed which would make the ‘file is cif’ no longer enabled.  You are indicating that the checkbox should be ‘nulled out’.  Does this mean, in this case, it should be set to unchecked?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03, section 2.3.2","Yes that’s right.
+
+ 
+
+From: Jean Gelinas 
+Sent: Wednesday, August 05, 2015 3:43 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03, section 2.3.2
+
+ 
+
+Caroline,
+
+ 
+
+Working on the submission item type edit page and can’t see anything in the spec (section 2.3.2), that indicates what should happen when the ‘file is cif’ checkbox is already checked and saved and the pdf handling item is changed and/or the external resource status is changed which would make the ‘file is cif’ no longer enabled.  You are indicating that the checkbox should be ‘nulled out’.  Does this mean, in this case, it should be set to unchecked?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03, section 2.3.2","Also, it should be disabled/grayed out.
+
+ 
+
+From: Caroline Webber 
+Sent: Wednesday, August 05, 2015 3:44 PM
+To: Jean Gelinas
+Cc: Caroline Webber
+Subject: RE: 13.0-03, section 2.3.2
+
+ 
+
+Yes that’s right.
+
+ 
+
+From: Jean Gelinas 
+Sent: Wednesday, August 05, 2015 3:43 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03, section 2.3.2
+
+ 
+
+Caroline,
+
+ 
+
+Working on the submission item type edit page and can’t see anything in the spec (section 2.3.2), that indicates what should happen when the ‘file is cif’ checkbox is already checked and saved and the pdf handling item is changed and/or the external resource status is changed which would make the ‘file is cif’ no longer enabled.  You are indicating that the checkbox should be ‘nulled out’.  Does this mean, in this case, it should be set to unchecked?  
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14167","You need to rework defects found in Review #14167: ""13.0-03: Submission Item Types"".
+Created: Wed Aug 05 16:08:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-07
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 2 Open; 0 Fixed; 0 External.
+21513	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: Client side comments should be enclosed in server-side tags so they don't get sent out to the client.
+21514	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: No need to tag every change you make to a file - if someone really wants to track you down, it can be done via Accurev's annotate feature.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14167>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14167","Andrew Pokrovski has commented in Review #14167: ""13.0-03: Submission Item Types"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 05 16:08:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-07
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21513	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: Client side comments should be enclosed in server-side tags so they don't get sent out to the client.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14167>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14167","Andrew Pokrovski has commented in Review #14167: ""13.0-03: Submission Item Types"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 05 16:08:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-07 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 1 Open; 1 Fixed; 0 External.
+21513	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: Client side comments should be enclosed in server-side tags so they don't get sent out to the client.
+21514	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: No need to tag every change you make to a file - if someone really wants to track you down, it can be done via Accurev's annotate feature.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14167>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14167","Review #14167: ""13.0-03: Submission Item Types"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Wed Aug 05 16:08:53 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-07 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 2 Total Defects: 0 Open; 2 Fixed; 0 External.
+21513	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: Client side comments should be enclosed in server-side tags so they don't get sent out to the client.
+21514	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: No need to tag every change you make to a file - if someone really wants to track you down, it can be done via Accurev's annotate feature.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14167>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 - Result file status colors","Caroline,
+
+ 
+
+Did you have any specific colors that we should use for the color coding (red,green,yellow,blue) of the result files in the results page?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Caroline Webber","/o=aries systems/ou=first administrative group/cn=recipients/cn=cwebber","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 - Result file status colors","Yes, please see the colors we currently use for AQC [Artwork Quality Check]. I think I mentioned that in the spec. Let me know if you need more direction!
+
+ 
+
+Caroline
+
+ 
+
+From: Jean Gelinas 
+Sent: Thursday, August 06, 2015 3:19 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 - Result file status colors
+
+ 
+
+Caroline,
+
+ 
+
+Did you have any specific colors that we should use for the color coding (red,green,yellow,blue) of the result files in the results page?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Andrew Pokrovski;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 - Result file status colors","ViewMSAQC.asp will probably have it…
+
+ 
+
+From: Jean Gelinas 
+Sent: Thursday, August 06, 2015 3:32 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: RE: 13.0-03 - Result file status colors
+
+ 
+
+Can you point to a visual for me – I’m having a hard time finding it in the code base.  Maybe a page name?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+From: Caroline Webber 
+Sent: Thursday, August 06, 2015 3:20 PM
+To: Jean Gelinas
+Cc: Andrew Pokrovski; Caroline Webber
+Subject: RE: 13.0-03 - Result file status colors
+
+ 
+
+Yes, please see the colors we currently use for AQC [Artwork Quality Check]. I think I mentioned that in the spec. Let me know if you need more direction!
+
+ 
+
+Caroline
+
+ 
+
+From: Jean Gelinas 
+Sent: Thursday, August 06, 2015 3:19 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 - Result file status colors
+
+ 
+
+Caroline,
+
+ 
+
+Did you have any specific colors that we should use for the color coding (red,green,yellow,blue) of the result files in the results page?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Andrew Pokrovski;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 - Result file status colors","I believe the colors are also specified on this page:
+
+ 
+
+admin/AQCConfig.asp
+
+ 
+
+Caroline
+
+ 
+
+From: Jean Gelinas 
+Sent: Thursday, August 06, 2015 3:32 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: RE: 13.0-03 - Result file status colors
+
+ 
+
+Can you point to a visual for me – I’m having a hard time finding it in the code base.  Maybe a page name?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+From: Caroline Webber 
+Sent: Thursday, August 06, 2015 3:20 PM
+To: Jean Gelinas
+Cc: Andrew Pokrovski; Caroline Webber
+Subject: RE: 13.0-03 - Result file status colors
+
+ 
+
+Yes, please see the colors we currently use for AQC [Artwork Quality Check]. I think I mentioned that in the spec. Let me know if you need more direction!
+
+ 
+
+Caroline
+
+ 
+
+From: Jean Gelinas 
+Sent: Thursday, August 06, 2015 3:19 PM
+To: Caroline Webber
+Cc: Andrew Pokrovski
+Subject: 13.0-03 - Result file status colors
+
+ 
+
+Caroline,
+
+ 
+
+Did you have any specific colors that we should use for the color coding (red,green,yellow,blue) of the result files in the results page?
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com
+
+www.editorialmanager.com
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"New version of 13.0-03 CheckCIF attached - please use for coding and  Round 1 testing","Hi Andrew/Jean,
+
+ 
+
+Please find attached version 7 of spec 13.0-03 checkCIF API.
+
+ 
+
+Andrew brought it to my attention that the Schedule Group File Inventory page was not included in the earlier versions of the spec. I have added the Schedule Group File Inventory page as I discussed with Andrew. I have also brought the design of this page into congruence with the design of the Submission File Inventory page. This is desirable but if it is not possible to do under the current LOEE let me know. The checkCIF Results link is added to this page under certain conditions.
+
+ 
+
+I have also moved several sections of the spec to the ‘Possible Future Development’ section. Bob had proposed eliminating the deep link merge field, but Richard and Lyndon did not approve this change, so the deep link merge field must remain as part of the spec to be implemented in version 13.0.
+
+ 
+
+I am out next Mon through Thurs – I am back in on Friday. If there are questions please consult Tony or Sally, unless they can wait for my return.
+
+ 
+
+Thanks!
+
+ 
+
+Caroline
+
+ 
+
+Caroline Webber
+Aries Systems Corporation
+Senior Business Systems Analyst
+
+978-291-1941 (direct)
+978-975-7570 (main office)
+978-975-3811 (fax)
+cwebber@ariessys.com <mailto:cwebber@ariessys.com> 
+www.editorialmanager.com <http://www.editorialmanager.com/> 
+
+Description: Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+Description: Description: Description: aries_systems_logo_4c copy
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+ 
+
+ 
+
+This message is confidential and is intended solely for the use of the individual(s) to whom it is addressed. 
+
+If you have received this message in error, do not open any attachment but please notify the sender (above) and delete this message from your system.
+
+ 
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski;Jean Gelinas","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX;EX","Bob Massicotte;Tony Alves;Sally Ubnoske;Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=bmassicotte;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=talves;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=Subnoske;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX;EX;EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14188","Andrew Pokrovski has commented in Review #14188: ""13.0-03: CheckCIFResults"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21522	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14188","You need to rework defects found in Review #14188: ""13.0-03: CheckCIFResults"".
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14
+Workflow: Aries Code Review
+Defect Log: 6 Total Defects: 6 Open; 0 Fixed; 0 External.
+21522	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+21523	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You'll want VerifyLoggedIn() instead. Admin is too restrictive.
+21524	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You will want to use Aries:TranslationButton instead, so that you get the various visual effects when you mouse over/click the button.
+21525	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why not just use the lazy-loading, self-initializing property instead?
+21527	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: The changes to the SubmissionCompanionFiles and SubmissionItems properties seem unnecessary (you don't actually use the fromAllRevisions parameter in this particular method even). Let's roll those back to avoid confusion.
+21528	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: I see what you're trying to do here, although the pattern for the other ""file list"" properties in this class is that it returns the FWJ.FileObjects.FileEntity subclass. I'm thinking that we might move the logic that returns the flattened data structures to the CIF Check Manager.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14188","Andrew Pokrovski has commented in Review #14188: ""13.0-03: CheckCIFResults"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14
+Workflow: Aries Code Review
+Defect Log: 6 Total Defects: 5 Open; 1 Fixed; 0 External.
+21522	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+21523	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You'll want VerifyLoggedIn() instead. Admin is too restrictive.
+21524	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You will want to use Aries:TranslationButton instead, so that you get the various visual effects when you mouse over/click the button.
+21525	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why not just use the lazy-loading, self-initializing property instead?
+21527	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: The changes to the SubmissionCompanionFiles and SubmissionItems properties seem unnecessary (you don't actually use the fromAllRevisions parameter in this particular method even). Let's roll those back to avoid confusion.
+21528	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: I see what you're trying to do here, although the pattern for the other ""file list"" properties in this class is that it returns the FWJ.FileObjects.FileEntity subclass. I'm thinking that we might move the logic that returns the flattened data structures to the CIF Check Manager.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14188","You need to rework defects found in Review #14188: ""13.0-03: CheckCIFResults"".
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14
+Workflow: Aries Code Review
+Defect Log: 7 Total Defects: 1 Open; 6 Fixed; 0 External.
+21522	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+21523	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You'll want VerifyLoggedIn() instead. Admin is too restrictive.
+21524	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You will want to use Aries:TranslationButton instead, so that you get the various visual effects when you mouse over/click the button.
+21525	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why not just use the lazy-loading, self-initializing property instead?
+21527	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: The changes to the SubmissionCompanionFiles and SubmissionItems properties seem unnecessary (you don't actually use the fromAllRevisions parameter in this particular method even). Let's roll those back to avoid confusion.
+21528	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: I see what you're trying to do here, although the pattern for the other ""file list"" properties in this class is that it returns the FWJ.FileObjects.FileEntity subclass. I'm thinking that we might move the logic that returns the flattened data structures to the CIF Check Manager.
+21529	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: So yeah, definitely get rid of the unused code in CheckCifResults.aspx/cs (we don't need real-time updates on cif check status).
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14188","Andrew Pokrovski has commented in Review #14188: ""13.0-03: CheckCIFResults"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 7 Total Defects: 0 Open; 7 Fixed; 0 External.
+21522	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+21523	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You'll want VerifyLoggedIn() instead. Admin is too restrictive.
+21524	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You will want to use Aries:TranslationButton instead, so that you get the various visual effects when you mouse over/click the button.
+21525	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why not just use the lazy-loading, self-initializing property instead?
+21527	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: The changes to the SubmissionCompanionFiles and SubmissionItems properties seem unnecessary (you don't actually use the fromAllRevisions parameter in this particular method even). Let's roll those back to avoid confusion.
+21528	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: I see what you're trying to do here, although the pattern for the other ""file list"" properties in this class is that it returns the FWJ.FileObjects.FileEntity subclass. I'm thinking that we might move the logic that returns the flattened data structures to the CIF Check Manager.
+21529	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: So yeah, definitely get rid of the unused code in CheckCifResults.aspx/cs (we don't need real-time updates on cif check status).
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14188","Review #14188: ""13.0-03: CheckCIFResults"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Wed Aug 12 11:44:56 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-14 (due in 1 day)
+Workflow: Aries Code Review
+Defect Log: 7 Total Defects: 0 Open; 7 Fixed; 0 External.
+21522	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Is this a message called for in the spec? If so, it needs to be tokenized. Otherwise, why is it here?
+21523	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You'll want VerifyLoggedIn() instead. Admin is too restrictive.
+21524	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You will want to use Aries:TranslationButton instead, so that you get the various visual effects when you mouse over/click the button.
+21525	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Why not just use the lazy-loading, self-initializing property instead?
+21527	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: The changes to the SubmissionCompanionFiles and SubmissionItems properties seem unnecessary (you don't actually use the fromAllRevisions parameter in this particular method even). Let's roll those back to avoid confusion.
+21528	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Needs Investigation
+	Description: I see what you're trying to do here, although the pattern for the other ""file list"" properties in this class is that it returns the FWJ.FileObjects.FileEntity subclass. I'm thinking that we might move the logic that returns the flattened data structures to the CIF Check Manager.
+21529	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: So yeah, definitely get rid of the unused code in CheckCifResults.aspx/cs (we don't need real-time updates on cif check status).
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14188>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14195","Andrew Pokrovski has commented in Review #14195: ""13.0-03:  Update CIFCheckManager for link logic"".  You will need to read the comments and respond if appropriate.
+Created: Thu Aug 13 11:20:10 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-15
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21532	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: You'll want to use the dictionary here if it is available.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14195>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14195","You need to rework defects found in Review #14195: ""13.0-03:  Update CIFCheckManager for link logic"".
+Created: Thu Aug 13 11:20:10 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-15
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21532	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: You'll want to use the dictionary here if it is available.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14195>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14195","You need to rework defects found in Review #14195: ""13.0-03:  Update CIFCheckManager for link logic"".
+Created: Thu Aug 13 11:20:10 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-15
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21532	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: You'll want to use the dictionary here if it is available.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14195>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14195","Review #14195: ""13.0-03:  Update CIFCheckManager for link logic"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Thu Aug 13 11:20:10 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-15
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21532	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: You'll want to use the dictionary here if it is available.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14195>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14204","Andrew Pokrovski has commented in Review #14204: ""13.0-03:  Action Links"".  You will need to read the comments and respond if appropriate.
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21534	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14204","You need to rework defects found in Review #14204: ""13.0-03:  Action Links"".
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16
+Workflow: Aries Code Review
+Defect Log: 5 Total Defects: 5 Open; 0 Fixed; 0 External.
+21534	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 status/schedule group file inventory question","Hi Caroline
+
+ 
+
+We’ll be ready for the OTS early next week.
+
+ 
+
+Also, did you get around to putting a section in the spec covering schedule group file inventory?
+
+ 
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 status/schedule group file inventory question","Yes, that section is in the version of the spec I sent last Friday. Re-attached here.
+
+ 
+
+I think Jean may have had a question about the checkCIF results page that allows a file to be sent to checkCIF using the checkCIF: Selected Files button. It should function like the page in AQC that has the Resend button. I don’t believe that page closes when the files are re-sent. The AQC page also does not refresh with the new statuses and results , but it would be best of the checkCIF results page *did* refresh when the results are returned. At the time we coded the AQC page we did not have the option to refresh the page automatically. Let me know if you need more details on this.
+
+I will schedule the OTS – thanks!
+
+ 
+
+Caroline
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Friday, August 14, 2015 1:26 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: 13.0-03 status/schedule group file inventory question
+
+ 
+
+Hi Caroline
+
+ 
+
+We’ll be ready for the OTS early next week.
+
+ 
+
+Also, did you get around to putting a section in the spec covering schedule group file inventory?
+
+ 
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"OTS 13.0-03"," 
+
+Over the shoulder review of this spec. 
+
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski;Jean Gelinas","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski;/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX;EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14204","Andrew Pokrovski has commented in Review #14204: ""13.0-03:  Action Links"".  You will need to read the comments and respond if appropriate.
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16
+Workflow: Aries Code Review
+Defect Log: 5 Total Defects: 4 Open; 1 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14204","You need to rework defects found in Review #14204: ""13.0-03:  Action Links"".
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16
+Workflow: Aries Code Review
+Defect Log: 7 Total Defects: 2 Open; 5 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+21539	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Ok, so now that I'm thinking about it, this dictionary (and the logic for initializing it) thematically belongs within the CIFCheckManager.
+21540	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Logic Issue
+	Description: Please go through and update every file that I've marked with a ""viewCrossCheckResults"" comment.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14204","Andrew Pokrovski has commented in Review #14204: ""13.0-03:  Action Links"".  You will need to read the comments and respond if appropriate.
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16 (overdue)
+Workflow: Aries Code Review
+Defect Log: 8 Total Defects: 3 Open; 5 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+21539	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Ok, so now that I'm thinking about it, this dictionary (and the logic for initializing it) thematically belongs within the CIFCheckManager.
+21540	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Logic Issue
+	Description: Please go through and update every file that I've marked with a ""viewCrossCheckResults"" comment.
+21542	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: dbo. on MASTER_CONFIG and other tables in FROM clauses.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14204","You need to rework defects found in Review #14204: ""13.0-03:  Action Links"".
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16 (overdue)
+Workflow: Aries Code Review
+Defect Log: 8 Total Defects: 2 Open; 6 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+21539	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Ok, so now that I'm thinking about it, this dictionary (and the logic for initializing it) thematically belongs within the CIFCheckManager.
+21540	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Logic Issue
+	Description: Please go through and update every file that I've marked with a ""viewCrossCheckResults"" comment.
+21542	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: dbo. on MASTER_CONFIG and other tables in FROM clauses.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14204","Andrew Pokrovski has commented in Review #14204: ""13.0-03:  Action Links"".  You will need to read the comments and respond if appropriate.
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16 (overdue)
+Workflow: Aries Code Review
+Defect Log: 8 Total Defects: 1 Open; 7 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+21539	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Ok, so now that I'm thinking about it, this dictionary (and the logic for initializing it) thematically belongs within the CIFCheckManager.
+21540	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Logic Issue
+	Description: Please go through and update every file that I've marked with a ""viewCrossCheckResults"" comment.
+21542	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: dbo. on MASTER_CONFIG and other tables in FROM clauses.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14204","Review #14204: ""13.0-03:  Action Links"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Fri Aug 14 12:16:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-16 (overdue)
+Workflow: Aries Code Review
+Defect Log: 8 Total Defects: 0 Open; 8 Fixed; 0 External.
+21534	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: If this is user visible, it needs to be tokenized.
+21535	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: I would recommend having the CIFCheckManager as a lazy-loaded property instead, to avoid loading it on pages where CIF links aren't going to be displayed.
+21536	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Documentation Issue
+	Description: Needs comments for the parameters and return value.
+21537	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: General Bug
+	Description: CrossCheckResultsLink?
+21538	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: You should really do a merge before you promote stuff up. I had removed this ""file_types"" addition.
+21539	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Maintainability Issue
+	Description: Ok, so now that I'm thinking about it, this dictionary (and the logic for initializing it) thematically belongs within the CIFCheckManager.
+21540	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Logic Issue
+	Description: Please go through and update every file that I've marked with a ""viewCrossCheckResults"" comment.
+21542	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: dbo. on MASTER_CONFIG and other tables in FROM clauses.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14204>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"13.0-03 technical difficulties","Hi Caroline
+
+ 
+
+I’m running into a way too many technical issues while preparing for the OTS to make it worthwhile, can we postpone it for a day or so?
+
+ 
+
+Thanks,
+
+Andrew
+
+","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=APOKROVSKI","EX","Caroline Webber","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,"Normal",,"Normal"
+"RE: 13.0-03 technical difficulties","Sure no problem.
+
+ 
+
+From: Andrew Pokrovski 
+Sent: Tuesday, August 18, 2015 5:06 PM
+To: Caroline Webber
+Cc: Jean Gelinas
+Subject: 13.0-03 technical difficulties
+
+ 
+
+Hi Caroline
+
+ 
+
+I’m running into a way too many technical issues while preparing for the OTS to make it worthwhile, can we postpone it for a day or so?
+
+ 
+
+Thanks,
+
+Andrew
+
+","Caroline Webber","/O=ARIES SYSTEMS/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=CWEBBER","EX","Andrew Pokrovski","/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=apokrovski","EX","Jean Gelinas;Caroline Webber","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas;/O=ARIES SYSTEMS/OU=First administrative group/cn=recipients/cn=cwebber","EX;EX",,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14227","Review #14227: ""13.0-03:  Bugs in cif config"" is complete.
+You can now commit these changes to version control.
+Created: Wed Aug 19 13:02:35 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14227>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14228","Review #14228: ""13.0-03: Merges from Matt uploaded code for 13.0-12"" is complete.
+You can now commit these changes to version control.
+Created: Wed Aug 19 13:07:30 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14228>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14229","Andrew Pokrovski has commented in Review #14229: ""13.0-03: CIF Results Link for Schedule Group"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 19 14:29:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21545	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: It's preferred to use String.Format to construct this kind of string.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14229>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14229","You need to rework defects found in Review #14229: ""13.0-03: CIF Results Link for Schedule Group"".
+Created: Wed Aug 19 14:29:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21545	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: It's preferred to use String.Format to construct this kind of string.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14229>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14229","Andrew Pokrovski has commented in Review #14229: ""13.0-03: CIF Results Link for Schedule Group"".  You will need to read the comments and respond if appropriate.
+Created: Wed Aug 19 14:29:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21545	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: It's preferred to use String.Format to construct this kind of string.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14229>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14229","Review #14229: ""13.0-03: CIF Results Link for Schedule Group"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Wed Aug 19 14:29:21 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-21
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21545	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Performance Issue
+	Description: It's preferred to use String.Format to construct this kind of string.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14229>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14237","Review #14237: ""13.0-03"" is complete.
+You can now commit these changes to version control.
+Created: Thu Aug 20 10:36:41 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14237>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14242","Andrew Pokrovski has commented in Review #14242: ""13.0-03"".  You will need to read the comments and respond if appropriate.
+Created: Thu Aug 20 15:13:19 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21546	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Turn the IDENTITY_INSERT off after you're done. Additionally, there needs to be a space between T and [dbo]
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14242>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Rework defects in Review #14242","You need to rework defects found in Review #14242: ""13.0-03"".
+Created: Thu Aug 20 15:13:19 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 1 Open; 0 Fixed; 0 External.
+21546	Status: Open
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Turn the IDENTITY_INSERT off after you're done. Additionally, there needs to be a space between T and [dbo]
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14242>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14243","Review #14243: ""13.0-03 Author/Reviewer pages with CIF result links"" is complete.
+You can now commit these changes to version control.
+Created: Thu Aug 20 15:14:15 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14243>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Respond to new chat in Review #14242","Andrew Pokrovski has commented in Review #14242: ""13.0-03"".  You will need to read the comments and respond if appropriate.
+Created: Thu Aug 20 15:13:19 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21546	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Turn the IDENTITY_INSERT off after you're done. Additionally, there needs to be a space between T and [dbo]
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14242>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete and Contains Unread Messages; Submit changes from Review #14242","Review #14242: ""13.0-03"" is complete and contains unread messages.
+You can now commit these changes to version control.
+You need to take a look at the unread messages before committing.
+Created: Thu Aug 20 15:13:19 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-22
+Workflow: Aries Code Review
+Defect Log: 1 Total Defects: 0 Open; 1 Fixed; 0 External.
+21546	Status: Fixed
+	Defect Creator: Andrew Pokrovski
+	Severity: Minor
+	Type: Misunderstanding
+	Description: Turn the IDENTITY_INSERT off after you're done. Additionally, there needs to be a space between T and [dbo]
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14242>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14248","Review #14248: ""13.0-03: Editor Requires Assignment page cifResult link"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 12:14:37 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14248>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14249","Review #14249: ""13.0-03: New Submissions Old Page CIF Link"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 12:17:28 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14249>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14251","Review #14251: ""13.0-03: Revised Submissions cif result link"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 12:45:54 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14251>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14257","Review #14257: ""13.0-03:  Select Items to Display in Detail Layout - checkCIFResults SB under Similarity Check"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 16:16:59 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14257>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14256","Review #14256: ""13.0-03: add cifcheckresult to 'old' versions of 'new' pages"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 16:03:13 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14256>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"[Code Collaborator] Review Complete; Submit changes from Review #14255","Review #14255: ""13.0-03: Edit Submission Type Bug enabling/disabling checkCIFresults checkbox"" is complete.
+You can now commit these changes to version control.
+Created: Fri Aug 21 15:59:14 EDT 2015 by Jean Gelinas
+Deadline: 2015-08-23
+Workflow: Aries Code Review
+Defect Log: 0 Total Defects: 0 Open; 0 Fixed; 0 External.
+
+
+
+Select this link to display or participate in the review:
+<http://hydra.ariessc.com:7000/ui#review:id=14255>
+
+---
+This email is an automatic notification sent by Collaborator.
+","Collaborator","admin@ariessys.com","SMTP","Jean Gelinas","/O=ARIES SYSTEMS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=JGelinas","EX",,,,,,,,,"Normal",,"Normal"
+"Changes to Check CIF Results Link in FG Controllers","Andrew,
+
+ 
+
+Saw that there were several changes after I left yesterday regards the controllers for the FG grids.  I tested all of these yesterday before our over-the-shoulder meeting and they allwere showing the result link correctly.  The New Submissions Requiring Assignment grid was missed I think – I just noticed that it is no longer showing the link.
+
+ 
+
+I’m sure you understand, it’s difficult to test/code these things and then see them not working again so I am going to beg off doing any testing/coding unless directly assigned by you specifically, OK.  I think I’m wasting my time in doing the testing/coding if things are just going to change thereafter.  
+
+ 
+
+Right now on my list is
+
+                Tech Check not showing the results link
+
+                Details page not showing the results link
+
+                Custom instructions not showing on check results page.
+
+ 
+
+If you are making any changes that might affect these pages/processes, please let me know and I’ll forgo doing anything with them until you’ve finished.  I’m off on Monday and will return to the list above on Tuesday.
+
+ 
+
+Thanks,
+
+ 
+
+Jean Gelinas
+Aries Systems Corporation
+Software Engineer
+
+ 
+
+Tel:  978-291-0433 (direct) jgelinas@ariessys.com <mailto:jgelinas@ariessys.com> 
+
+www.editorialmanager.com <http://www.editorialmanager.com> 
+
+cid:image001.gif@01CC714C.5FD8AAF0
+
+Description: cid:image002.png@01CFE6F0.110A2210 <http://www.twitter.com/ariesmarketing> Follow us on Twitter! <http://www.twitter.com/ariesmarketing> 
+
+200 Sutton Street  • North Andover, MA • 01845 • USA
+
+ 
+
+","Jean Gelinas","/o=Aries Systems/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=JGelinas","EX","Andrew Pokrovski","/o=aries systems/ou=first administrative group/cn=recipients/cn=apokrovski","EX",,,,,,,,,"Normal",,"Normal"

@@ -1,0 +1,57 @@
+Waiting:
+
+Where is the file data?
+How is the import overlay called?
+What page to return to at ConfirmAndCustomizeInvitedAuthors.cancel click?
+
+
+
+To Do:
+
+	Deletion of import file on 'Remove' link 	
+	Display of import overlay in UploadedAuthorSearchResults
+		
+	UploadedAuthorSearchResult.btnCancel_Click - 
+		remove uploaded file?
+		redirect to ? Upload Author List Page
+			
+	ImportedAuthorManager.GetMatchedCandidates - should check be made that start/end indexes passed in exist in the candidates listing?
+	
+	UploadedAuthorSearchResults
+		where is the file data for displaying in the file grid?
+		file data displaying
+		how do I call the import overlay when called for from the file grid?
+		
+	UploadedAuthorSearchResults - removing uploaded author file data
+		return to the upload authors page.
+		need a warning at the client
+		how to tell at post (warning is passed by) that file delete is reason for post.
+		
+	UploadedAuthorSearchResults - grid functionality
+		uncheck checkbox - clear text box and disable
+		check checkbox - enable text box and set value to 1
+		
+	UploadedAuthorSearchResults - populate invite textbox automatically and set select checkbox if candidate is selected.
+	
+	UploadedAuthorSearchResults.btnCancel_Click	
+		how to remove the uploaded file from the database.
+		how do I redirect to the upload author list page
+	
+	UploadedAuthorSearchResults - need jquery.document(ready) to startup function at client
+	
+	UploadedAuthorSearchResults.ProxyRegSelectedAuthorCandidates - is it necessary to check rights here?
+	
+	ConfirmAndCustomizeInvitedAuthors.aspx.cs.cancelButtonClick - spec says that cancel click causes return to 'Author Selection Summary' page.  Is this the UploadedAuthorSearchResults page?  Still need to code based on response from Michael.
+		
+	Unit test for ImportedAuthorManager.SerializeCandidatesForConfirmAndCustomize
+	
+	AuthorCandidateGrid - set people flags...
+	
+	AuthorCandidateGrid - set all invite text boxes to validate KEYDOWN event on WholeNumbersOnly_KeyDown function.
+	
+	AuthorCandidateGrid - notes values need to be truncated to 25 chars, followed by ellipsis
+	
+	Unit test for ajax call to UploadedAuthorSearchResults.ProxyRegSelectedAuthorCandidates
+	
+	
+	

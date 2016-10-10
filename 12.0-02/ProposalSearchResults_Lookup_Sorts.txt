@@ -1,0 +1,309 @@
+SET @sortColumn = N'colOriginatingEditor'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN CREATING.LASTNAME END ASC,						  
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN CREATING.FIRSTNAME END ASC,  
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN CREATING.MIDDLENAME END ASC,  
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN CREATING.LASTNAME END DESC,
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN CREATING.FIRSTNAME END DESC,  
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN CREATING.MIDDLENAME END DESC						
+				) AS ROWNUMBER
+				,MatchesTable.DOCUMENTID
+			FROM	
+				@SearchMatchesTable MatchesTable
+				LEFT OUTER JOIN [DBO].TARGET
+					ON	MatchesTable.DOCUMENTID = TARGET.DOCUMENTID
+				LEFT OUTER JOIN [DBO].PEOPLE CREATING
+					 ON	TARGET.CREATING_EDITOR = CREATING.PEOPLEID
+					 
+
+
+SET @sortColumn = N'colHandlingEditor'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN HANDLING.LASTNAME END ASC,						  
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN HANDLING.FIRSTNAME END ASC,  
+						CASE WHEN @SortDirection = @sortDirection_ASC  THEN HANDLING.MIDDLENAME END ASC,  
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN HANDLING.LASTNAME END DESC,
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN HANDLING.FIRSTNAME END DESC,  
+						CASE WHEN @SortDirection = @sortDirection_DESC THEN HANDLING.MIDDLENAME END DESC
+				) AS ROWNUMBER
+				,MatchesTable.DOCUMENTID
+			FROM	
+				@SearchMatchesTable MatchesTable
+				LEFT OUTER JOIN [DBO].TARGET
+					ON	MatchesTable.DOCUMENTID = TARGET.DOCUMENTID
+				LEFT OUTER JOIN [DBO].PEOPLE HANDLING
+					 ON	TARGET.HANDLING_EDITOR = HANDLING.PEOPLEID
+					 
+					 
+SET @sortColumn = N'colNoInvitedAuthors'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @sortDirection = @sortDirection_ASC  THEN MatchedCounts.THE_COUNT END ASC,
+						CASE WHEN @sortDirection = @sortDirection_DESC THEN MatchedCounts.THE_COUNT END DESC
+				) AS ROWNUMBER
+				,MatchedCounts.DOCUMENTID
+			FROM
+				(
+					SELECT
+						MatchesTable.DOCUMENTID,
+						(
+							SELECT THE_COUNT
+							FROM   [dbo].UDF_CountInvitedAuthors(MatchesTable.DOCUMENTID)					
+						) THE_COUNT
+					FROM
+						@SearchMatchesTable MatchesTable
+				) MatchedCounts
+				
+				
+SET @sortColumn = N'colNoAcceptingAuthors'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @sortDirection = @sortDirection_ASC  THEN MatchedCounts.THE_COUNT END ASC,
+						CASE WHEN @sortDirection = @sortDirection_DESC THEN MatchedCounts.THE_COUNT END DESC
+				) AS ROWNUMBER
+				,MatchedCounts.DOCUMENTID
+			FROM
+				(
+					SELECT
+						MatchesTable.DOCUMENTID,
+						(
+							SELECT THE_COUNT
+							FROM   [dbo].UDF_CountAcceptingAuthors(MatchesTable.DOCUMENTID)					
+						) THE_COUNT
+					FROM
+						@SearchMatchesTable MatchesTable
+				) MatchedCounts
+
+				
+SET @sortColumn = N'colNoDecliningAuthors'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @sortDirection = @sortDirection_ASC  THEN MatchedCounts.THE_COUNT END ASC,
+						CASE WHEN @sortDirection = @sortDirection_DESC THEN MatchedCounts.THE_COUNT END DESC
+				) AS ROWNUMBER
+				,MatchedCounts.DOCUMENTID
+			FROM
+				(
+					SELECT
+						MatchesTable.DOCUMENTID,
+						(
+							SELECT THE_COUNT
+							FROM   [dbo].UDF_CountDecliningAuthors(MatchesTable.DOCUMENTID)				
+						) THE_COUNT
+					FROM
+						@SearchMatchesTable MatchesTable
+				) MatchedCounts
+				
+				
+SET @sortColumn = N'colNoSubmittingAuthors'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @sortDirection = @sortDirection_ASC  THEN MatchedCounts.THE_COUNT END ASC,
+						CASE WHEN @sortDirection = @sortDirection_DESC THEN MatchedCounts.THE_COUNT END DESC
+				) AS ROWNUMBER
+				,MatchedCounts.DOCUMENTID
+			FROM
+				(
+					SELECT
+						MatchesTable.DOCUMENTID,
+						[dbo].UDF_getNumChildSubmissions(MatchesTable.DOCUMENTID) THE_COUNT
+					FROM
+						@SearchMatchesTable MatchesTable
+				) MatchedCounts
+				
+
+SET @sortColumn = N'colInitialAuthorInviteDate'
+SET @sortDirection = @sortDirection_ASC
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+				(
+					ORDER BY
+						CASE WHEN @sortDirection = @sortDirection_ASC  THEN MinInviteDates.MinInviteDate END ASC,
+						CASE WHEN @sortDirection = @sortDirection_DESC THEN MinInviteDates.MinInviteDate END DESC
+				) AS ROWNUMBER
+				,MatchesTable.DOCUMENTID
+			FROM
+				@SearchMatchesTable MatchesTable
+				LEFT OUTER JOIN 
+				(
+					SELECT 
+						INVITED_AUTHORS.DOCUMENTID,
+						MIN(INVITATION_DATE) MinInviteDate
+					FROM   DBO.INVITED_AUTHORS
+					GROUP BY INVITED_AUTHORS.DOCUMENTID
+				) MinInviteDates ON
+				MatchesTable.DOCUMENTID = MinInviteDates.DOCUMENTID
+				
+
+-- colInitialDate, colManuscriptNumber, colArticleType, colArticleTitle, colSection, colTargetPubDate, colTargetVolume, colTargetIssue,
+-- colStatusDate, colCurrentStatus
+SET @sortColumn = N'colInitialDate'
+SET @sortDirection = @sortDirection_ASC	
+INSERT INTO @LookupTable
+			(
+				ROWNUMBER,
+				DOCUMENTID
+			)
+			SELECT ROW_NUMBER() OVER
+			(
+				ORDER BY 
+					CASE
+						WHEN @sortColumn = 'colInitialDate'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DOCUMENT.ORIGINAL_SUBMISSION_START_DATE
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colInitialDate'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DOCUMENT.ORIGINAL_SUBMISSION_START_DATE
+						END DESC
+					,CASE
+						WHEN @sortColumn = 'colManuscriptNumber'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DOCUMENT.PUBDNUMBER
+						END ASC
+					,CASE
+						WHEN @sortColumn = 'colManuscriptNumber'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DOCUMENT.PUBDNUMBER
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colArticleType'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DOCUMENT.CATEGORY
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colArticleType'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DOCUMENT.CATEGORY
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colArticleTitle'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DOCUMENT.DTITLE
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colArticleTitle'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DOCUMENT.DTITLE
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colSection'
+							AND @sortDirection = @sortDirection_ASC
+							THEN [SECTION].SECTIONNAME
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colSection'
+							AND @sortDirection = @sortDirection_DESC
+							THEN [SECTION].SECTIONNAME
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colTargetPubDate'
+							AND @sortDirection = @sortDirection_ASC
+							THEN TARGET.TARGET_DATE
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colTargetPubDate'
+							AND @sortDirection = @sortDirection_DESC
+							THEN TARGET.TARGET_DATE
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colTargetVolume'
+							AND @sortDirection = @sortDirection_ASC
+							THEN TARGET.TARGET_VOLUME
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colTargetVolume'
+							AND @sortDirection = @sortDirection_DESC
+							THEN TARGET.TARGET_VOLUME
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colTargetIssue'
+							AND @sortDirection = @sortDirection_ASC
+							THEN TARGET.TARGET_ISSUE
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colTargetIssue'
+							AND @sortDirection = @sortDirection_DESC
+							THEN TARGET.TARGET_ISSUE
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colStatusDate'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DOCUMENT.STATUSDATE
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colStatusDate'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DOCUMENT.STATUSDATE
+						END DESC
+					,CASE	
+						WHEN @sortColumn = 'colCurrentStatus'
+							AND @sortDirection = @sortDirection_ASC
+							THEN DSTATUS.NAME
+						END ASC
+					,CASE	
+						WHEN @sortColumn = 'colCurrentStatus'
+							AND @sortDirection = @sortDirection_DESC
+							THEN DSTATUS.NAME
+						END DESC
+			) AS ROWNUMBER,
+			MatchesTable.DOCUMENTID
+			FROM	
+				@SearchMatchesTable MatchesTable
+				INNER JOIN [dbo].DOCUMENT WITH (NOLOCK)
+					ON 	MatchesTable.DOCUMENTID = DOCUMENT.DOCUMENTID
+				LEFT OUTER JOIN DBO.TARGET
+					ON  MatchesTable.DOCUMENTID = TARGET.DOCUMENTID
+				LEFT OUTER JOIN DBO.DSTATUS
+					ON  DOCUMENT.DSTATUS = DSTATUS.DSTATUSID
+				LEFT OUTER JOIN DBO.[SECTION]
+					ON  DOCUMENT.SECTIONID = [SECTION].SECTIONID			

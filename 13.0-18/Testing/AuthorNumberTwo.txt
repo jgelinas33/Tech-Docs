@@ -1,0 +1,2 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+;Note for AuthorNumberTwo;Author;NumberTwo;jgelinas@ariessys.com;true

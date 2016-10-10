@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D6F21BB9-F8D9-498F-860C-5BA45BF5ED31}</ProjectGuid>
+    <Keyword>ManagedCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CLRSupport>false</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;CIF_API_20_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;CIF_API_20_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="misc\basic_parsing.c" />
+    <ClCompile Include="misc\parser_callbacks.c" />
+    <ClCompile Include="misc\parse_errors.c" />
+    <ClCompile Include="src\cif.c" />
+    <ClCompile Include="src\ciffile.c" />
+    <ClCompile Include="src\container.c" />
+    <ClCompile Include="src\examples\addauthor.c" />
+    <ClCompile Include="src\examples\syncheck.c" />
+    <ClCompile Include="src\examples\table1.c" />
+    <ClCompile Include="src\examples\table3.c" />
+    <ClCompile Include="src\loop.c" />
+    <ClCompile Include="src\map.c" />
+    <ClCompile Include="src\packet.c" />
+    <ClCompile Include="src\parser.c" />
+    <ClCompile Include="src\pktitr.c" />
+    <ClCompile Include="src\tests\test_block_create_frame1.c" />
+    <ClCompile Include="src\tests\test_block_create_frame2.c" />
+    <ClCompile Include="src\tests\test_block_get_all_frames.c" />
+    <ClCompile Include="src\tests\test_block_get_frame.c" />
+    <ClCompile Include="src\tests\test_container_assert_block.c" />
+    <ClCompile Include="src\tests\test_container_create_loop1.c" />
+    <ClCompile Include="src\tests\test_container_create_loop2.c" />
+    <ClCompile Include="src\tests\test_container_get_all_loops.c" />
+    <ClCompile Include="src\tests\test_container_get_category_loop.c" />
+    <ClCompile Include="src\tests\test_container_get_code.c" />
+    <ClCompile Include="src\tests\test_container_get_item_loop.c" />
+    <ClCompile Include="src\tests\test_container_get_value.c" />
+    <ClCompile Include="src\tests\test_container_prune.c" />
+    <ClCompile Include="src\tests\test_container_remove_item.c" />
+    <ClCompile Include="src\tests\test_container_set_value1.c" />
+    <ClCompile Include="src\tests\test_container_set_value2.c" />
+    <ClCompile Include="src\tests\test_create.c" />
+    <ClCompile Include="src\tests\test_create_block1.c" />
+    <ClCompile Include="src\tests\test_create_block2.c" />
+    <ClCompile Include="src\tests\test_get_all_blocks.c" />
+    <ClCompile Include="src\tests\test_get_api_version.c" />
+    <ClCompile Include="src\tests\test_get_block.c" />
+    <ClCompile Include="src\tests\test_list_elements.c" />
+    <ClCompile Include="src\tests\test_loop_add_item.c" />
+    <ClCompile Include="src\tests\test_loop_destroy.c" />
+    <ClCompile Include="src\tests\test_loop_get_names.c" />
+    <ClCompile Include="src\tests\test_loop_misc.c" />
+    <ClCompile Include="src\tests\test_loop_modification.c" />
+    <ClCompile Include="src\tests\test_loop_packets.c" />
+    <ClCompile Include="src\tests\test_loop_set_category.c" />
+    <ClCompile Include="src\tests\test_multiple_cifs.c" />
+    <ClCompile Include="src\tests\test_nested_frames.c" />
+    <ClCompile Include="src\tests\test_nesting.c" />
+    <ClCompile Include="src\tests\test_normalize.c" />
+    <ClCompile Include="src\tests\test_packet_create.c" />
+    <ClCompile Include="src\tests\test_packet_items.c" />
+    <ClCompile Include="src\tests\test_packet_remove_item.c" />
+    <ClCompile Include="src\tests\test_packet_set_item.c" />
+    <ClCompile Include="src\tests\test_parse_10.c" />
+    <ClCompile Include="src\tests\test_parse_cif1_quoting.c" />
+    <ClCompile Include="src\tests\test_parse_complex_data.c" />
+    <ClCompile Include="src\tests\test_parse_core.c" />
+    <ClCompile Include="src\tests\test_parse_list_data.c" />
+    <ClCompile Include="src\tests\test_parse_minimal.c" />
+    <ClCompile Include="src\tests\test_parse_nested.c" />
+    <ClCompile Include="src\tests\test_parse_simple_containers.c" />
+    <ClCompile Include="src\tests\test_parse_simple_data.c" />
+    <ClCompile Include="src\tests\test_parse_simple_loops.c" />
+    <ClCompile Include="src\tests\test_parse_table_data.c" />
+    <ClCompile Include="src\tests\test_parse_text_fields.c" />
+    <ClCompile Include="src\tests\test_parse_triple.c" />
+    <ClCompile Include="src\tests\test_parse_unicode.c" />
+    <ClCompile Include="src\tests\test_table_elements.c" />
+    <ClCompile Include="src\tests\test_ustrdup.c" />
+    <ClCompile Include="src\tests\test_value_autoinit_numb.c" />
+    <ClCompile Include="src\tests\test_value_clone.c" />
+    <ClCompile Include="src\tests\test_value_copy_char.c" />
+    <ClCompile Include="src\tests\test_value_create.c" />
+    <ClCompile Include="src\tests\test_value_get_number.c" />
+    <ClCompile Include="src\tests\test_value_init_char.c" />
+    <ClCompile Include="src\tests\test_value_init_numb.c" />
+    <ClCompile Include="src\tests\test_value_parse_numb.c" />
+    <ClCompile Include="src\tests\test_write_complex.c" />
+    <ClCompile Include="src\tests\test_write_frames.c" />
+    <ClCompile Include="src\tests\test_write_loops.c" />
+    <ClCompile Include="src\tests\test_write_simple.c" />
+    <ClCompile Include="src\utils.c" />
+    <ClCompile Include="src\value.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\cif.h" />
+    <ClInclude Include="src\examples\messages.h" />
+    <ClInclude Include="src\internal\buffer.h" />
+    <ClInclude Include="src\internal\ciftypes.h" />
+    <ClInclude Include="src\internal\compat.h" />
+    <ClInclude Include="src\internal\sql.h" />
+    <ClInclude Include="src\internal\utils.h" />
+    <ClInclude Include="src\internal\value.h" />
+    <ClInclude Include="src\tests\assert_cifs.h" />
+    <ClInclude Include="src\tests\assert_doubles.h" />
+    <ClInclude Include="src\tests\assert_value.h" />
+    <ClInclude Include="src\tests\test.h" />
+    <ClInclude Include="uthash\utarray.h" />
+    <ClInclude Include="uthash\uthash.h" />
+    <ClInclude Include="uthash\utlist.h" />
+    <ClInclude Include="uthash\utstring.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="misc\footer.html" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

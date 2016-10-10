@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<em-upgrader>
+	<site-commands>			
+		<database-scripts>
+			<script>14.0-02.sql</script>			
+		</database-scripts>	
+	</site-commands>
+	<general-commands/>
+</em-upgrader>

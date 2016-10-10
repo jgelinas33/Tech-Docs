@@ -1,0 +1,3 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true

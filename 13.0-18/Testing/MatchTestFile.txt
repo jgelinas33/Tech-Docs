@@ -1,0 +1,17 @@
+jean,jean,jgelinas@ariessys.com;jgelinas@ariessc.com,NOTE 1,,1
+Eddy,Editor,jgelinas@ariessys.com,,,0
+Arthur,author,jgelinas@ariessc.com;jgelinas@ariessys.com,Note,,1
+jean,jean,jgelinas@ariessys.com;jgelinas@ariessc.com,NOTE 2,,1
+jean,jean,jgelinas@ariessys.com;jgelinas@ariessc.com,NOTE 3,,1
+jean,jean,jgelinas@ariessys.com;jgelinas@ariessc.com,NOTE 4,,1
+new,author1,nathor1@newdom.com,Note,134567,1
+new,author2,nauthor2@newbie.com,a2note,37878,1
+new,author3,nath3@ump.com,a3note_1,,1
+new,author3,nath3@ump.com,a3note_2,,1
+new,author3,nath3@ump.com,a3note_3,,1
+new,author3,nath3@ump.com,a3note_4,,1
+new,author3,natch3@stump.com,a32note_1,143928,1
+email,matchonly,jgelinas@ariessc.com,,,1
+jean,jean,jgelinas@metrocast.net,,,1
+jean,jean,jgelinas@comcast.net,,,1
+jean,jean,jgelinas@spedcast.net,,,0

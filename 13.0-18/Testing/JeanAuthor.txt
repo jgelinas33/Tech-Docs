@@ -1,0 +1,6 @@
+ORCID,NOTE,FIRSTNAME,LASTNAME,EMAIL,INVITE
+0000-0001-5135-3349,,Jean,Author,jgelinas@ariessys.com,true
+,,Jean,Author,jgelinas@ariessys.com,true
+0000-0001-5135-3349,,Jean,Author,jgelinas@ariessys.com,true
+,Note 1 for Jean Author,Jean,Author,jgelinas@ariessys.com,true
+,Note 2 for Jean Author,Jean,Author,jgelinas@ariessys.com,true

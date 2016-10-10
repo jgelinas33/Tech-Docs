@@ -1,0 +1,6 @@
+ORCID,NOTE,FIRSTNAME,LASTNAME,EMAIL,INVITE
+0000-0001-5135-3349,,Unassigned,Test1,unassignedtest1@ariessys.com,true
+,,Unassigned,Test2,unassignedtest2@ariessys.com,false
+0000-0001-5135-3349,,Unassigned,Test3,unassignedtest3@ariessys.com,true
+,Note 1 for Unassigned Test 4,Unassigned,Test4,unassignedtest4@ariessys.com,false
+,Note 2 for Unassigned Test 4,Unassigned,Test4,unassignedtest4@ariessys.com,true

@@ -1,0 +1,27 @@
+ORCID,NOTE,FIRSTNAME,LASTNAME,EMAIL,INVITE
+,,Author,NumberOne,jgelinas@ariessc.com,
+,Note for AuthorNumberTwo,Author,NumberTwo,jgelinas@ariessys.com,true
+,Note for AuthorNumberThree,Author,NumberThree,joeschmoe@a.com,true
+,Note 1 for AdHoc Author No 1,UploadTest,AuthorOne,authorone@uploadtesting.com,false
+,Note 2 for AdHoc Author No 1,UploadTest,AuthorOne,authorone@uploadtesting.com,false
+,Note 3 for AdHoc Author No 1,UploadTest,AuthorOne,authorone@uploadtesting.com,true
+,,UploadTest,AuthorTwo,authortwo@uploadtesting.com,true
+,,UploadTest,AuthorTwo,authortwo@uploadtesting.com,true
+,Note 1 for AdHoc Author No 2,UploadTest,AuthorTwo,author2@uploadtesting.com,true
+,Note 1 for AdHoc Author No 3,UploadTest,AuthorThree,authorthree@uploadtesting.com,false
+,Note 1 for AdHoc Author No 4,UploadTest,AuthorFour,,false
+,Note 1 for AdHoc Author No 5,UploadTest,,authorfive@uploadtesting.com,true
+,,UploadTest,AuthorSix,jgelinas@ariessys.com,true
+0000-0001-5863-9593,Note 1 for ORCID Author,ORCID,Author,orcidauthor@orcid.org,false
+0000-0001-5863-9593,Note 2 for ORCID Author,ORCID,IMANORCID,orcidauthor@orcid.org,false
+0000-0001-8921-2787,Note 3 for Author ORCIDTest,ORCID,AuthorTest,orcidauthortesting@orcid.org,false
+9999-9999-9999-9999,,Bad,ORCID,badorcid@orcid.org,false
+0000-0001-5266-7032,Note 1 for GoodOrcid Author,GoodOrcid,Author,sandbox@orcid.org,true
+0000-0001-5135-3349,,Jean,Author,jgelinas@ariessys.com,true
+,,Jean,Author,jgelinas@ariessys.com,true
+0000-0001-5135-3349,,Jean,Author,jgelinas@ariessys.com,true
+,Note 1 for Jean Author,Jean,Author,jgelinas@ariessys.com,true
+,Note 2 for Jean Author,Jean,Author,jgelinas@ariessys.com,true
+,,Email,Duplicate1,emaildup@ariessys.com,true
+,,Email,Duplicate2,emaildup@ariessys.com,true
+,,Email,Duplicate3,emaildup@ariessys.com,true

@@ -1,0 +1,74 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+
+-- Author NumberOne
+-- exists in em
+;;Author;NumberOne;jgelinas@ariessc.com;true
+Result:  matched to em entity
+
+-- Author NumberTwo
+-- exists in em
+-- one note
+;Note for AuthorNumberTwo;Author;NumberTwo;jgelinas@ariessys.com;true
+Result:  matched to em entity, candidate created
+
+-- Author NumberThree
+-- exists in em but under different email address than what is in file
+;Note for AuthorNumberThree;Author;NumberThree;joeschmoe@a.com;true
+Result:  will not be a match, will be no potential matches, candidate created
+
+-- AdHoc Number One
+-- doesn't exist (proxy register)
+-- three notes (three records)
+-- one record indicates to invite, two not to invite
+;Note 1 for AdHoc Author No 1;UploadTest;AuthorOne;authorone@uploadtesting.com;false
+;Note 2 for AdHoc Author No 1;UploadTest;AuthorOne;authorone@uploadtesting.com;false
+;Note 3 for AdHoc Author No 1;UploadTest;AuthorOne;authorone@uploadtesting.com;true
+Result:  no match, candidate created, one invite, three notes, invite should be true
+
+-- AdHoc Number Two
+-- doesn't exist (proxy register)
+-- two identical records
+-- one 'different' record with same fn, ln but different email address
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true
+;Note 1 for AdHoc Author No 2;UploadTest;AuthorTwo;author2@uploadtesting.com
+Result:  
+	one candidate created for authortwo@uploadtesting.com, 2 invites, invited
+	one candidate created for author2@uploadtesting.com, 1 invite, invited
+
+-- AdHoc Number Three
+-- doesn't exist (proxy register)
+;Note 1 for AdHoc Author No 3;UploadTest;AuthorThree;authorthree@uploadtesting.com
+Result:  one candidate created, 1 invite, not invited
+
+-- AdHoc Number Four
+-- no email address
+;Note 1 for AdHoc Author No 4;UploadTest;AuthorFour;
+Result:  ? because of no email address - does it get through to matching stage?
+
+-- AdHoc Number Five
+-- No last name
+;Note 1 for AdHoc Author No 5;UploadTest;;authorfive@uploadtesting.com
+Result:  ? because of no last name, does it get through to matching stage ?
+
+-- AdHoc Number Six
+-- same email as numerous em entities
+;;UploadTest;AuthorSix;jgelinas@ariessys.com;true
+Result:  one candidate created, several 'potential' matches
+
+-- ORCID 0000-0001-8225-0369
+-- orcid exists in em but only one record matches (unauth + LN)
+0000-0001-8225-0369;Note 1 for ORCID Author;ORCID;Author;orcidauthor@orcid.org;false
+0000-0001-8225-0369;Note 2 for ORCID Author;ORCID;IMANORCID;orcidauthor@orcid.org;false
+Result:  
+	one candidate created for ORCID Author with em match
+	one candidate created for ORCID IMANORCID with no match
+
+
+-- ORCID 0000-0001-8921-2787
+-- orcid exists in em and is unique in em
+-- email here is different than orcid record in em
+-- firstname and lastname are different than orcid record in em
+0000-0001-8921-2787;Note 3 for Author ORCIDTest;ORCID;AuthorTest;orcidauthortesting.orcid.org
+Result:
+	one candidate created with em match (unauth + LN)

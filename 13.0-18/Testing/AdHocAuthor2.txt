@@ -1,0 +1,4 @@
+ORCID;NOTE;FIRSTNAME;LASTNAME;EMAIL;INVITE
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true
+;;UploadTest;AuthorTwo;authortwo@uploadtesting.com;true
+;Note 1 for AdHoc Author No 2;UploadTest;AuthorTwo;author2@uploadtesting.com;true

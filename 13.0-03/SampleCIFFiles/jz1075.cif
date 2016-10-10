@@ -1,0 +1,307 @@
+##############################################################################
+###                                                                        ###
+###           Full Paper (Acta Crystallographica Section C)                ###
+###                                                                        ###
+##############################################################################
+#                                                                            #
+# This CIF contains the data in a paper accepted for publication in Acta     #
+# Crystallographica Section C. It conforms to the editorial and technical    #
+# requirements of Notes for Authors for Section C, and has been peer         #
+# reviewed under the auspices of the IUCr Commission on Journals.            #
+#                                                                            #
+# Full details of the Crystallographic Information File format               #
+# are given in the paper "The Crystallographic Information File (CIF):       #
+# a New Standard Archive File for Crystallography" by S. R. Hall, F. H.      #
+# Allen and I. D. Brown [Acta Cryst. (1991), A47, 655-685].                  #
+#                                                                            #
+# The current version of the core CIF dictionary is obtainable from          #
+# ftp://ftp.iucr.org/pub/cif_core.dic. The current version number is 2.0.1.  #
+#                                                                            #
+# Software is freely available for graphical display of the structure(s) in  #
+# this CIF.  For information consult the CIF home page http://www.iucr.org/  #
+# cif/home.html                                                              #
+#                                                                            #
+# This file may be used for bona fide research purposes within the           #
+# scientific community so long as proper attribution is given to the journal # 
+# article from which it was obtained.                                        #
+#                                                                            #
+##############################################################################
+data_text
+
+_audit_update_record
+;
+2011-09-08 # Formatted by IUCr publCIF
+;
+_audit_creation_method     'IUCr checking CIFGEN version 2.4b'
+_journal_date_recd_electronic     95-06-22
+_journal_date_accepted     95-08-25
+_journal_name_full     'Acta Crystallographica, Section C'
+_journal_year     1996
+_journal_volume     C52
+_journal_issue     FEB96
+_journal_page_first     469
+_journal_page_last     470
+_journal_paper_category     NF
+_publ_contact_author
+;  R. Frohlich
+Organisch-Chemisches Institut der Universitat Munster Corrensstrasse 40
+D-48149 Munster
+Germany
+;
+_publ_section_title
+;
+<i>syn</i>-1,5-Dimethylbicyclo[3.2.1]oct-8-yl <i>N</i>-Phenylcarbamate
+;
+loop_
+    _publ_author_name
+    _publ_author_address
+    'Pietz, Sylke'
+; Organisch-Chemisches Institut der Universit\"at M\"unster
+ Corrensstrasse 40
+D-48149 M\"unster
+Germany
+;
+    'Haufe, G\"unter'
+; Organisch-Chemisches Institut der Universit\"at M\"unster
+ Corrensstrasse 40
+D-48149 M\"unster
+Germany
+;
+    'Fr\"ohlich, Roland'
+; Organisch-Chemisches Institut der Universit\"at M\"unster
+ Corrensstrasse 40
+D-48149 M\"unster
+Germany
+;
+    'Grehl, Matthias'
+; Organisch-Chemisches Institut der Universit\"at M\"unster
+ Corrensstrasse 40
+D-48149 M\"unster
+Germany
+;
+data_jz1075a
+_chemical_formula_moiety     ?
+_chemical_formula_sum     'C17 H23 N O2'
+_chemical_formula_weight     273.26
+_symmetry_cell_setting     monoclinic
+_symmetry_space_group_name_H-M     'P 21/c'
+_symmetry_space_group_name_Hall     '-P 2ybc'
+loop_
+    _symmetry_equiv_pos_as_xyz
+    'x,y,z'
+    'x,1/2-y,1/2+z'
+    '-x,-y,-z'
+    '-x,1/2+y,1/2-z'
+_cell_length_a     10.1340(10)
+_cell_length_b     18.1540(10)
+_cell_length_c     8.5180(10)
+_cell_angle_alpha     ?
+_cell_angle_beta     103.440(10)
+_cell_angle_gamma     ?
+_cell_volume     1524.2(2)
+_cell_formula_units_Z     4
+_cell_measurement_reflns_used     25
+_cell_measurement_theta_min     22.87
+_cell_measurement_theta_max     42.70
+_cell_measurement_temperature     293
+_exptl_crystal_description     'irregular'
+_exptl_crystal_colour     'colourless'
+_exptl_crystal_size_max     0.5
+_exptl_crystal_size_mid     0.4
+_exptl_crystal_size_min     0.1
+_exptl_crystal_size_rad     ?
+_exptl_crystal_density_diffrn     1.191
+_exptl_crystal_density_meas     ?
+_exptl_crystal_density_method     'none'
+_exptl_absorpt_coefficient_mu     0.61
+_exptl_absorpt_correction_type     none
+_exptl_absorpt_correction_T_min     ?
+_exptl_absorpt_correction_T_max     ?
+_diffrn_radiation_type     'CuK\a'
+_diffrn_radiation_wavelength     1.54178
+_diffrn_measurement_device     'Enraf-Nonius CAD-4'
+_diffrn_measurement_method     '\w/2\q scans'
+_diffrn_reflns_number     5382
+_diffrn_reflns_av_R_equivalents     0.032
+_diffrn_reflns_theta_max     64.96
+_diffrn_reflns_limit_h_min     0
+_diffrn_reflns_limit_h_max     11
+_diffrn_reflns_limit_k_min     -21
+_diffrn_reflns_limit_k_max     21
+_diffrn_reflns_limit_l_min     -10
+_diffrn_reflns_limit_l_max     9
+_diffrn_standards_number     3
+_diffrn_standards_interval_count     250
+_diffrn_standards_interval_time     120
+_diffrn_standards_decay_%     0
+_reflns_number_total     2586
+_reflns_number_observed     2196
+_reflns_observed_criterion     'I>2\s(I)'
+_refine_ls_structure_factor_coef     Fsqd
+_refine_ls_R_factor_all     0.045
+_refine_ls_R_factor_obs     0.038
+_refine_ls_wR_factor_all     0.103
+_refine_ls_wR_factor_obs     0.096
+_refine_ls_goodness_of_fit_obs     1.004
+_refine_ls_number_reflns     2586
+_refine_ls_number_parameters     187
+_refine_ls_hydrogen_treatment     'H-atom treatment: see text'
+_refine_ls_weighting_scheme calc
+_refine_ls_weighting_details
+;
+1/[\s^2^(F~o~)^2^+(0.051P)^2^+0.330P] where P = (F~o~^2^+2F~c~^2^]/3
+;
+_refine_ls_shift/su_max_lt 0.001
+_refine_diff_density_max     0.27
+_refine_diff_density_min     -0.17
+_refine_ls_extinction_method
+                         'F~c~^*^ = kF~c~[1+0.001\cF~c~^2^\l^3^/sin(2\q)]^-1/4^'
+_refine_ls_extinction_coef     '\c = 0.0097(4)'
+_atom_type_scat_source     'IntTabC'
+_computing_data_collection
+;
+Enraf-Nonius Express (Version 1993)
+;
+_computing_cell_refinement
+;
+Enraf-Nonius Express (Version 1993)
+;
+_computing_data_reduction
+;
+own programs
+;
+_computing_structure_solution
+;
+SHELXS-86
+;
+_computing_structure_refinement
+;
+SHELXL-93
+;
+_computing_molecular_graphics
+;
+SCHAKAL-92
+;
+_computing_publication_material
+;
+SHELXL-93
+;
+
+loop_
+    _geom_bond_atom_site_label_1
+    _geom_bond_atom_site_label_2
+    _geom_bond_site_symmetry_1
+    _geom_bond_site_symmetry_2
+    _geom_bond_distance
+    _geom_bond_publ_flag
+    C(1) C(8) . . 1.527(2) yes
+    C(1) C(9) . . 1.527(2) yes
+    C(1) C(2) . . 1.530(2) yes
+    C(1) C(7) . . 1.546(2) yes
+    C(2) C(3) . . 1.519(2) yes
+    C(3) C(4) . . 1.518(2) yes
+    C(4) C(5) . . 1.534(2) yes
+    C(5) C(10) . . 1.518(2) yes
+    C(5) C(8) . . 1.530(2) yes
+    C(5) C(6) . . 1.546(2) yes
+    C(6) C(7) . . 1.541(2) yes
+    C(8) O . . 1.452(2) yes
+    O C(11) . . 1.345(2) yes
+    C(11) O(11) . . 1.211(2) yes
+    C(11) N . . 1.348(2) yes
+    N C(12) . . 1.413(2) yes
+    C(12) C(17) . . 1.380(2) no
+    C(12) C(13) . . 1.385(2) no
+    C(13) C(14) . . 1.379(2) no
+    C(14) C(15) . . 1.371(2) no
+    C(15) C(16) . . 1.373(2) no
+    C(16) C(17) . . 1.383(2) no
+loop_
+    _geom_angle_atom_site_label_1
+    _geom_angle_atom_site_label_2
+    _geom_angle_atom_site_label_3
+    _geom_angle_site_symmetry_1
+    _geom_angle_site_symmetry_2
+    _geom_angle_site_symmetry_3
+    _geom_angle
+    _geom_angle_publ_flag
+    O C(8) C(1) . . . 114.92(11) yes
+    C(1) C(8) C(5) . . . 103.94(11) yes
+    O(11) C(11) O . . . 124.40(12) yes
+    O C(11) N . . . 109.43(10) yes
+    C(11) N C(12) . . . 127.38(11) yes
+    C(8) C(1) C(9) . . . 114.40(12) yes
+    C(8) C(1) C(2) . . . 109.12(11) yes
+    C(9) C(1) C(2) . . . 110.47(13) yes
+    C(8) C(1) C(7) . . . 98.93(11) yes
+    C(9) C(1) C(7) . . . 112.39(12) yes
+    C(2) C(1) C(7) . . . 111.02(12) yes
+    C(3) C(2) C(1) . . . 112.88(13) yes
+    C(4) C(3) C(2) . . . 112.18(13) yes
+    C(3) C(4) C(5) . . . 112.97(13) yes
+    C(10) C(5) C(8) . . . 112.49(12) yes
+    C(10) C(5) C(4) . . . 110.84(13) yes
+    C(8) C(5) C(4) . . . 108.95(11) yes
+    C(10) C(5) C(6) . . . 113.85(13) yes
+    C(8) C(5) C(6) . . . 99.35(10) yes
+    C(4) C(5) C(6) . . . 110.79(12) yes
+    C(7) C(6) C(5) . . . 105.93(11) yes
+    C(6) C(7) C(1) . . . 106.63(11) yes
+    O C(8) C(5) . . . 109.60(10) yes
+    C(11) O C(8) . . . 117.26(10) yes
+    O(11) C(11) N . . . 126.16(12) yes
+    C(17) C(12) N . . . 123.89(12) yes
+    C(13) C(12) N . . . 116.79(12) yes
+    C(17) C(12) C(13) . . . 119.31(12) no
+    C(14) C(13) C(12) . . . 120.40(14) no
+    C(15) C(14) C(13) . . . 120.44(15) no
+    C(14) C(15) C(16) . . . 119.08(14) no
+    C(15) C(16) C(17) . . . 121.37(14) no
+    C(12) C(17) C(16) . . . 119.34(14) no
+
+loop_
+_atom_site_type_symbol	_atom_site_label	_atom_site_fract_x	_atom_site_fract_y	_atom_site_fract_z	_atom_site_U_iso_or_equiv	
+C	C(1)	0.74520(10)	0.11850(10)	-0.1373(2)	0.0450(10)	
+C	C(2)	0.6482(2)	0.17470(10)	-0.0915(2)	0.0570(10)	
+C	C(3)	0.6082(2)	0.15550(10)	0.0649(2)	0.0640(10)	
+C	C(4)	0.7295(2)	0.13260(10)	0.1969(2)	0.0550(10)	
+C	C(5)	0.82320(10)	0.07820(10)	0.1381(2)	0.0450(10)	
+C	C(6)	0.7412(2)	0.01320(10)	0.0465(2)	0.0560(10)	
+C	C(7)	0.6917(2)	0.03910(10)	-0.1298(2)	0.0570(10)	
+C	C(8)	0.87290(10)	0.11330(10)	-0.0010(2)	0.0390(10)	
+C	C(9)	0.7718(2)	0.13690(10)	-0.3022(2)	0.0620(10)	
+C	C(10)	0.9391(2)	0.05460(10)	0.2760(2)	0.0650(10)	
+O	O	0.93760(10)	0.18340(10)	0.05090(10)	0.0430(10)	
+C	C(11)	1.04040(10)	0.20420(10)	-0.01450(10)	0.0380(10)	
+O	O(11)	1.07400(10)	0.17200(10)	-0.12360(10)	0.0530(10)	
+N	N	1.09730(10)	0.26620(10)	0.05840(10)	0.0440(10)	
+C	C(12)	1.20500(10)	0.30710(10)	0.02210(10)	0.0380(10)	
+C	C(13)	1.2259(2)	0.37730(10)	0.0869(2)	0.0480(10)	
+C	C(14)	1.3258(2)	0.42180(10)	0.0524(2)	0.0570(10)	
+C	C(15)	1.4055(2)	0.39720(10)	-0.0465(2)	0.0580(10)	
+C	C(16)	1.3870(2)	0.32700(10)	-0.1073(2)	0.0610(10)	
+C	C(17)	1.28820(10)	0.28120(10)	-0.0730(2)	0.0500(10)	
+H	H(2A)	0.6911(2)	0.22280(10)	-0.0804(2)	0.068	
+H	H(2B)	0.5670(2)	0.17770(10)	-0.1779(2)	0.068	
+H	H(3A)	0.5651(2)	0.19790(10)	0.1011(2)	0.076	
+H	H(3B)	0.5427(2)	0.11570(10)	0.0449(2)	0.076	
+H	H(4A)	0.6973(2)	0.11020(10)	0.2845(2)	0.066	
+H	H(4B)	0.7811(2)	0.17620(10)	0.2392(2)	0.066	
+H	H(6A)	0.7979(2)	-0.03010(10)	0.0522(2)	0.068	
+H	H(6B)	0.6647(2)	0.00150(10)	0.0925(2)	0.068	
+H	H(7A)	0.5933(2)	0.03840(10)	-0.1616(2)	0.068	
+H	H(7B)	0.7267(2)	0.00710(10)	-0.2017(2)	0.068	
+H	H(8)	0.93850(10)	0.08050(10)	-0.0336(2)	0.047	
+H	H(9A)	0.6886(3)	0.1331(7)	-0.3833(3)	0.092	
+H	H(9B)	0.8369(10)	0.1029(4)	-0.3264(7)	0.092	
+H	H(9C)	0.8065(12)	0.1861(3)	-0.3007(5)	0.092	
+H	H(10A)	0.9032(2)	0.0318(7)	0.3589(7)	0.098	
+H	H(10B)	0.9918(8)	0.09700(10)	0.3195(10)	0.098	
+H	H(10C)	0.9958(8)	0.0201(6)	0.2370(4)	0.098	
+H	H	1.0664(15)	0.2819(9)	0.140(2)	0.053	
+H	H(13)	1.1722(2)	0.39450(10)	0.1540(2)	0.058	
+H	H(14)	1.3391(2)	0.46890(10)	0.0966(2)	0.068	
+H	H(15)	1.4712(2)	0.42770(10)	-0.0721(2)	0.069	
+H	H(16)	1.4420(2)	0.30980(10)	-0.1729(2)	0.073	
+H	H(17)	1.27790(10)	0.23350(10)	-0.1136(2)	0.060
+
